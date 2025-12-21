@@ -1,0 +1,22 @@
+OTUS - 2025-12-21 15:55:12 - Host: ce120265.local - UNCAUGHT_EXCEPTION - [Error] 
+OTUS - Call to undefined method CIBlockResult::GetElement() (0)
+OTUS - C:\OSPanel\home\ce120265.local\public_html\local\app\bx_razr\students_dz\homework3\firstfilling.php:83
+OTUS - #0: linkLists(integer, object)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\local\app\bx_razr\students_dz\homework3\firstfilling.php:87
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-12-21 15:56:15 - Host: ce120265.local - UNCAUGHT_EXCEPTION - [Error] 
+OTUS - Call to undefined method CIBlockResult::GetElement() (0)
+OTUS - C:\OSPanel\home\ce120265.local\public_html\local\app\bx_razr\students_dz\homework3\firstfilling.php:83
+OTUS - #0: linkLists(integer, object)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\local\app\bx_razr\students_dz\homework3\firstfilling.php:87
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-12-21 15:59:26 - Host: ce120265.local - UNCAUGHT_EXCEPTION - [Error] 
+OTUS - Call to undefined method CIBlockResult::GetElement() (0)
+OTUS - C:\OSPanel\home\ce120265.local\public_html\local\app\bx_razr\students_dz\homework3\firstfilling.php:86
+OTUS - #0: linkLists(integer, object)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\local\app\bx_razr\students_dz\homework3\firstfilling.php:90
+OTUS - ----------
+OTUS - 
+OTUS - 
