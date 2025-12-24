@@ -1,0 +1,90 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+ 
+.container { 
+    display: grid; 
+    place-items: center;
+    gap: 1px; 
+    grid-template-columns: 1fr 1fr 1fr ;
+    grid-template-rows: 1fr auto;
+    grid-template-areas:
+    "doctor  link special"
+    "namDoc areaLink namSpec";
+    justify-items:stretch;
+    align-items: start;
+     
+}
+
+.title{
+    text-align: center;
+    font-size: 25px;
+    font-weight: 700;
+}
+
+.header{
+    text-align: center;
+    font-size: 18px;
+    font-weight: 400;
+}
+
+.brdr{
+    border:1px solid black;
+    padding: 10px 20px;
+}
+
+.elm{
+    margin-bottom: 10px;
+    font-size: 17px;
+    background-color: #fff;
+    color:black;
+    border: none;
+    cursor: pointer;
+}
+
+.elm button{
+  
+}
+.doctor{ grid-area: doctor;}
+.link{ grid-area: link;}
+.special{ grid-area: special;}
+
+
+.namDoc{ 
+    grid-area: namDoc;
+    height: 100%;
+}
+.namSpec{ 
+    grid-area: namSpec;
+    height: 100%;
+}
+.areaLink{ 
+    grid-area: areaLink;
+    height: 100%;
+}
+
+#hdType,#hdLink{
+    font-size: 25px;
+    font-weight: 600;
+    text-decoration: underline;
+    margin-top: 30px;
+}
+
+#hdName{
+    font-size: 35px;
+    font-weight: 400;
+    font-style: italic;
+}
+
+#listLinks{
+    margin: 20px;
+    font-size: 15px;
+    font-style: italic;
+}
+
+#listLinks li{
+    margin-bottom: 10px;
+ 
+}

@@ -19,4 +19,1016 @@ OTUS - #0: linkLists(integer, object)
 OTUS - 	C:\OSPanel\home\ce120265.local\public_html\local\app\bx_razr\students_dz\homework3\firstfilling.php:90
 OTUS - ----------
 OTUS - 
+OTUS - OTUS - 2025-12-22 11:43:58 - Host: ce120265.local - UNCAUGHT_EXCEPTION - [RuntimeException] 
+OTUS - Could not start session because headers have already been sent. "C:\OSPanel\home\ce120265.local\public_html\local\components\linklist.php":1. (0)
+OTUS - C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\lib\session\session.php:143
+OTUS - #0: Bitrix\Main\Session\Session->start()
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\lib\session\kernelsessionproxy.php:47
+OTUS - #1: Bitrix\Main\Session\KernelSessionProxy->start()
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\include.php:182
+OTUS - #2: require_once(string)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\include\prolog_before.php:19
+OTUS - #3: require_once(string)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\include\prolog.php:10
+OTUS - #4: require_once(string)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\header.php:1
+OTUS - #5: require(string)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\local\components\linklist.php:4
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-12-22 11:44:39 - Host: ce120265.local - UNCAUGHT_EXCEPTION - [RuntimeException] 
+OTUS - Could not start session because headers have already been sent. "C:\OSPanel\home\ce120265.local\public_html\local\components\linklist.php":1. (0)
+OTUS - C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\lib\session\session.php:143
+OTUS - #0: Bitrix\Main\Session\Session->start()
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\lib\session\kernelsessionproxy.php:47
+OTUS - #1: Bitrix\Main\Session\KernelSessionProxy->start()
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\include.php:182
+OTUS - #2: require_once(string)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\include\prolog_before.php:19
+OTUS - #3: require_once(string)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\include\prolog.php:10
+OTUS - #4: require_once(string)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\header.php:1
+OTUS - #5: require(string)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\local\components\linklist.php:4
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-12-22 11:44:41 - Host: ce120265.local - UNCAUGHT_EXCEPTION - [RuntimeException] 
+OTUS - Could not start session because headers have already been sent. "C:\OSPanel\home\ce120265.local\public_html\local\components\linklist.php":1. (0)
+OTUS - C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\lib\session\session.php:143
+OTUS - #0: Bitrix\Main\Session\Session->start()
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\lib\session\kernelsessionproxy.php:47
+OTUS - #1: Bitrix\Main\Session\KernelSessionProxy->start()
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\include.php:182
+OTUS - #2: require_once(string)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\include\prolog_before.php:19
+OTUS - #3: require_once(string)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\include\prolog.php:10
+OTUS - #4: require_once(string)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\header.php:1
+OTUS - #5: require(string)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\local\components\linklist.php:4
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-12-22 11:44:45 - Host: ce120265.local - UNCAUGHT_EXCEPTION - [RuntimeException] 
+OTUS - Could not start session because headers have already been sent. "C:\OSPanel\home\ce120265.local\public_html\local\components\linklist.php":1. (0)
+OTUS - C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\lib\session\session.php:143
+OTUS - #0: Bitrix\Main\Session\Session->start()
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\lib\session\kernelsessionproxy.php:47
+OTUS - #1: Bitrix\Main\Session\KernelSessionProxy->start()
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\include.php:182
+OTUS - #2: require_once(string)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\include\prolog_before.php:19
+OTUS - #3: require_once(string)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\include\prolog.php:10
+OTUS - #4: require_once(string)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\header.php:1
+OTUS - #5: require(string)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\local\components\linklist.php:4
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-12-22 11:44:47 - Host: ce120265.local - UNCAUGHT_EXCEPTION - [RuntimeException] 
+OTUS - Could not start session because headers have already been sent. "C:\OSPanel\home\ce120265.local\public_html\local\components\linklist.php":1. (0)
+OTUS - C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\lib\session\session.php:143
+OTUS - #0: Bitrix\Main\Session\Session->start()
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\lib\session\kernelsessionproxy.php:47
+OTUS - #1: Bitrix\Main\Session\KernelSessionProxy->start()
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\include.php:182
+OTUS - #2: require_once(string)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\include\prolog_before.php:19
+OTUS - #3: require_once(string)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\include\prolog.php:10
+OTUS - #4: require_once(string)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\header.php:1
+OTUS - #5: require(string)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\local\components\linklist.php:4
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-12-22 11:44:48 - Host: ce120265.local - UNCAUGHT_EXCEPTION - [RuntimeException] 
+OTUS - Could not start session because headers have already been sent. "C:\OSPanel\home\ce120265.local\public_html\local\components\linklist.php":1. (0)
+OTUS - C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\lib\session\session.php:143
+OTUS - #0: Bitrix\Main\Session\Session->start()
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\lib\session\kernelsessionproxy.php:47
+OTUS - #1: Bitrix\Main\Session\KernelSessionProxy->start()
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\include.php:182
+OTUS - #2: require_once(string)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\include\prolog_before.php:19
+OTUS - #3: require_once(string)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\include\prolog.php:10
+OTUS - #4: require_once(string)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\header.php:1
+OTUS - #5: require(string)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\local\components\linklist.php:4
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-12-22 11:44:49 - Host: ce120265.local - UNCAUGHT_EXCEPTION - [RuntimeException] 
+OTUS - Could not start session because headers have already been sent. "C:\OSPanel\home\ce120265.local\public_html\local\components\linklist.php":1. (0)
+OTUS - C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\lib\session\session.php:143
+OTUS - #0: Bitrix\Main\Session\Session->start()
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\lib\session\kernelsessionproxy.php:47
+OTUS - #1: Bitrix\Main\Session\KernelSessionProxy->start()
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\include.php:182
+OTUS - #2: require_once(string)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\include\prolog_before.php:19
+OTUS - #3: require_once(string)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\include\prolog.php:10
+OTUS - #4: require_once(string)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\header.php:1
+OTUS - #5: require(string)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\local\components\linklist.php:4
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-12-22 11:45:30 - Host: ce120265.local - UNCAUGHT_EXCEPTION - [RuntimeException] 
+OTUS - Could not start session because headers have already been sent. "C:\OSPanel\home\ce120265.local\public_html\local\app\bx_razr\students_dz\homework3\linklist.php":1. (0)
+OTUS - C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\lib\session\session.php:143
+OTUS - #0: Bitrix\Main\Session\Session->start()
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\lib\session\kernelsessionproxy.php:47
+OTUS - #1: Bitrix\Main\Session\KernelSessionProxy->start()
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\include.php:182
+OTUS - #2: require_once(string)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\include\prolog_before.php:19
+OTUS - #3: require_once(string)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\include\prolog.php:10
+OTUS - #4: require_once(string)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\header.php:1
+OTUS - #5: require(string)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\local\app\bx_razr\students_dz\homework3\linklist.php:4
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-12-22 11:46:04 - Host: ce120265.local - UNCAUGHT_EXCEPTION - [RuntimeException] 
+OTUS - Could not start session because headers have already been sent. "C:\OSPanel\home\ce120265.local\public_html\local\app\bx_razr\students_dz\homework3\linklist.php":1. (0)
+OTUS - C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\lib\session\session.php:143
+OTUS - #0: Bitrix\Main\Session\Session->start()
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\lib\session\kernelsessionproxy.php:47
+OTUS - #1: Bitrix\Main\Session\KernelSessionProxy->start()
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\include.php:182
+OTUS - #2: require_once(string)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\include\prolog_before.php:19
+OTUS - #3: require_once(string)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\include\prolog.php:10
+OTUS - #4: require_once(string)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\header.php:1
+OTUS - #5: require(string)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\local\app\bx_razr\students_dz\homework3\linklist.php:5
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-12-22 11:46:05 - Host: ce120265.local - UNCAUGHT_EXCEPTION - [RuntimeException] 
+OTUS - Could not start session because headers have already been sent. "C:\OSPanel\home\ce120265.local\public_html\local\app\bx_razr\students_dz\homework3\linklist.php":1. (0)
+OTUS - C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\lib\session\session.php:143
+OTUS - #0: Bitrix\Main\Session\Session->start()
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\lib\session\kernelsessionproxy.php:47
+OTUS - #1: Bitrix\Main\Session\KernelSessionProxy->start()
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\include.php:182
+OTUS - #2: require_once(string)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\include\prolog_before.php:19
+OTUS - #3: require_once(string)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\include\prolog.php:10
+OTUS - #4: require_once(string)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\header.php:1
+OTUS - #5: require(string)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\local\app\bx_razr\students_dz\homework3\linklist.php:5
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-12-22 11:46:12 - Host: ce120265.local - UNCAUGHT_EXCEPTION - [RuntimeException] 
+OTUS - Could not start session because headers have already been sent. "C:\OSPanel\home\ce120265.local\public_html\local\app\bx_razr\students_dz\homework3\linklist.php":1. (0)
+OTUS - C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\lib\session\session.php:143
+OTUS - #0: Bitrix\Main\Session\Session->start()
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\lib\session\kernelsessionproxy.php:47
+OTUS - #1: Bitrix\Main\Session\KernelSessionProxy->start()
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\include.php:182
+OTUS - #2: require_once(string)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\include\prolog_before.php:19
+OTUS - #3: require_once(string)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\include\prolog.php:10
+OTUS - #4: require_once(string)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\header.php:1
+OTUS - #5: require(string)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\local\app\bx_razr\students_dz\homework3\linklist.php:5
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-12-22 11:46:15 - Host: ce120265.local - UNCAUGHT_EXCEPTION - [RuntimeException] 
+OTUS - Could not start session because headers have already been sent. "C:\OSPanel\home\ce120265.local\public_html\local\app\bx_razr\students_dz\homework3\linklist.php":1. (0)
+OTUS - C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\lib\session\session.php:143
+OTUS - #0: Bitrix\Main\Session\Session->start()
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\lib\session\kernelsessionproxy.php:47
+OTUS - #1: Bitrix\Main\Session\KernelSessionProxy->start()
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\include.php:182
+OTUS - #2: require_once(string)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\include\prolog_before.php:19
+OTUS - #3: require_once(string)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\include\prolog.php:10
+OTUS - #4: require_once(string)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\header.php:1
+OTUS - #5: require(string)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\local\app\bx_razr\students_dz\homework3\linklist.php:5
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-12-22 11:46:17 - Host: ce120265.local - UNCAUGHT_EXCEPTION - [RuntimeException] 
+OTUS - Could not start session because headers have already been sent. "C:\OSPanel\home\ce120265.local\public_html\local\app\bx_razr\students_dz\homework3\linklist.php":1. (0)
+OTUS - C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\lib\session\session.php:143
+OTUS - #0: Bitrix\Main\Session\Session->start()
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\lib\session\kernelsessionproxy.php:47
+OTUS - #1: Bitrix\Main\Session\KernelSessionProxy->start()
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\include.php:182
+OTUS - #2: require_once(string)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\include\prolog_before.php:19
+OTUS - #3: require_once(string)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\include\prolog.php:10
+OTUS - #4: require_once(string)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\header.php:1
+OTUS - #5: require(string)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\local\app\bx_razr\students_dz\homework3\linklist.php:5
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-12-22 11:49:01 - Host: ce120265.local - UNCAUGHT_EXCEPTION - [RuntimeException] 
+OTUS - Could not start session because headers have already been sent. "C:\OSPanel\home\ce120265.local\public_html\local\app\bx_razr\students_dz\homework3\linkedlists.php":1. (0)
+OTUS - C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\lib\session\session.php:143
+OTUS - #0: Bitrix\Main\Session\Session->start()
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\lib\session\kernelsessionproxy.php:47
+OTUS - #1: Bitrix\Main\Session\KernelSessionProxy->start()
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\include.php:182
+OTUS - #2: require_once(string)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\include\prolog_before.php:19
+OTUS - #3: require_once(string)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\include\prolog.php:10
+OTUS - #4: require_once(string)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\header.php:1
+OTUS - #5: require(string)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\local\app\bx_razr\students_dz\homework3\linkedlists.php:5
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-12-22 11:50:27 - Host: ce120265.local - UNCAUGHT_EXCEPTION - [RuntimeException] 
+OTUS - Could not start session because headers have already been sent. "C:\OSPanel\home\ce120265.local\public_html\local\app\bx_razr\students_dz\homework3\linkedlists.php":1. (0)
+OTUS - C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\lib\session\session.php:143
+OTUS - #0: Bitrix\Main\Session\Session->start()
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\lib\session\kernelsessionproxy.php:47
+OTUS - #1: Bitrix\Main\Session\KernelSessionProxy->start()
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\include.php:182
+OTUS - #2: require_once(string)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\include\prolog_before.php:19
+OTUS - #3: require_once(string)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\include\prolog.php:10
+OTUS - #4: require_once(string)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\header.php:1
+OTUS - #5: require(string)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\local\app\bx_razr\students_dz\homework3\linkedlists.php:3
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-12-22 11:51:25 - Host: ce120265.local - UNCAUGHT_EXCEPTION - [RuntimeException] 
+OTUS - Could not start session because headers have already been sent. "C:\OSPanel\home\ce120265.local\public_html\local\app\bx_razr\students_dz\homework3\linkedlists.php":1. (0)
+OTUS - C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\lib\session\session.php:143
+OTUS - #0: Bitrix\Main\Session\Session->start()
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\lib\session\kernelsessionproxy.php:47
+OTUS - #1: Bitrix\Main\Session\KernelSessionProxy->start()
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\include.php:182
+OTUS - #2: require_once(string)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\include\prolog_before.php:19
+OTUS - #3: require_once(string)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\include\prolog.php:10
+OTUS - #4: require_once(string)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\header.php:1
+OTUS - #5: require(string)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\local\app\bx_razr\students_dz\homework3\linkedlists.php:5
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-12-22 11:52:59 - Host: ce120265.local - UNCAUGHT_EXCEPTION - [RuntimeException] 
+OTUS - Could not start session because headers have already been sent. "C:\OSPanel\home\ce120265.local\public_html\local\app\bx_razr\students_dz\homework3\linkedlists.php":1. (0)
+OTUS - C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\lib\session\session.php:143
+OTUS - #0: Bitrix\Main\Session\Session->start()
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\lib\session\kernelsessionproxy.php:47
+OTUS - #1: Bitrix\Main\Session\KernelSessionProxy->start()
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\include.php:182
+OTUS - #2: require_once(string)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\include\prolog_before.php:19
+OTUS - #3: require_once(string)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\include\prolog.php:10
+OTUS - #4: require_once(string)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\header.php:1
+OTUS - #5: require(string)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\local\app\bx_razr\students_dz\homework3\linkedlists.php:4
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-12-22 11:53:30 - Host: ce120265.local - UNCAUGHT_EXCEPTION - [RuntimeException] 
+OTUS - Could not start session because headers have already been sent. "C:\OSPanel\home\ce120265.local\public_html\local\app\bx_razr\students_dz\homework3\linkedlists.php":1. (0)
+OTUS - C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\lib\session\session.php:143
+OTUS - #0: Bitrix\Main\Session\Session->start()
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\lib\session\kernelsessionproxy.php:47
+OTUS - #1: Bitrix\Main\Session\KernelSessionProxy->start()
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\include.php:182
+OTUS - #2: require_once(string)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\include\prolog_before.php:19
+OTUS - #3: require_once(string)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\include\prolog.php:10
+OTUS - #4: require_once(string)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\header.php:1
+OTUS - #5: require(string)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\local\app\bx_razr\students_dz\homework3\linkedlists.php:4
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-12-22 11:53:43 - Host: ce120265.local - UNCAUGHT_EXCEPTION - [RuntimeException] 
+OTUS - Could not start session because headers have already been sent. "C:\OSPanel\home\ce120265.local\public_html\local\app\bx_razr\students_dz\homework3\linkedlists.php":1. (0)
+OTUS - C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\lib\session\session.php:143
+OTUS - #0: Bitrix\Main\Session\Session->start()
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\lib\session\kernelsessionproxy.php:47
+OTUS - #1: Bitrix\Main\Session\KernelSessionProxy->start()
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\include.php:182
+OTUS - #2: require_once(string)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\include\prolog_before.php:19
+OTUS - #3: require_once(string)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\include\prolog.php:10
+OTUS - #4: require_once(string)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\header.php:1
+OTUS - #5: require(string)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\local\app\bx_razr\students_dz\homework3\linkedlists.php:3
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-12-22 11:54:27 - Host: ce120265.local - UNCAUGHT_EXCEPTION - [RuntimeException] 
+OTUS - Could not start session because headers have already been sent. "C:\OSPanel\home\ce120265.local\public_html\local\app\bx_razr\students_dz\homework3\linkedlists.php":1. (0)
+OTUS - C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\lib\session\session.php:143
+OTUS - #0: Bitrix\Main\Session\Session->start()
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\lib\session\kernelsessionproxy.php:47
+OTUS - #1: Bitrix\Main\Session\KernelSessionProxy->start()
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\include.php:182
+OTUS - #2: require_once(string)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\include\prolog_before.php:19
+OTUS - #3: require_once(string)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\include\prolog.php:10
+OTUS - #4: require_once(string)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\header.php:1
+OTUS - #5: require(string)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\local\app\bx_razr\students_dz\homework3\linkedlists.php:2
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-12-22 12:32:11 - Host: ce120265.local - UNCAUGHT_EXCEPTION - [Error] 
+OTUS - Using $this when not in object context (0)
+OTUS - C:\OSPanel\home\ce120265.local\public_html\local\app\bx_razr\students_dz\homework3\linkedlists.php:6
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-12-22 12:32:54 - Host: ce120265.local - UNCAUGHT_EXCEPTION - [Error] 
+OTUS - Object of class CMain could not be converted to string (0)
+OTUS - C:\OSPanel\home\ce120265.local\public_html\local\app\bx_razr\students_dz\homework3\linkedlists.php:6
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-12-22 12:33:13 - Host: ce120265.local - UNCAUGHT_EXCEPTION - [Error] 
+OTUS - Object of class CMain could not be converted to string (0)
+OTUS - C:\OSPanel\home\ce120265.local\public_html\local\app\bx_razr\students_dz\homework3\linkedlists.php:6
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-12-22 12:33:19 - Host: ce120265.local - UNCAUGHT_EXCEPTION - [Error] 
+OTUS - Object of class CMain could not be converted to string (0)
+OTUS - C:\OSPanel\home\ce120265.local\public_html\local\app\bx_razr\students_dz\homework3\linkedlists.php:6
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-12-22 12:33:22 - Host: ce120265.local - UNCAUGHT_EXCEPTION - [Error] 
+OTUS - Object of class CMain could not be converted to string (0)
+OTUS - C:\OSPanel\home\ce120265.local\public_html\local\app\bx_razr\students_dz\homework3\linkedlists.php:6
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-12-22 12:33:42 - Host: ce120265.local - UNCAUGHT_EXCEPTION - [Error] 
+OTUS - Object of class CMain could not be converted to string (0)
+OTUS - C:\OSPanel\home\ce120265.local\public_html\local\app\bx_razr\students_dz\homework3\linkedlists.php:6
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-12-22 12:34:14 - Host: ce120265.local - UNCAUGHT_EXCEPTION - [Error] 
+OTUS - Object of class CMain could not be converted to string (0)
+OTUS - C:\OSPanel\home\ce120265.local\public_html\local\app\bx_razr\students_dz\homework3\linkedlists.php:6
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-12-22 12:34:34 - Host: ce120265.local - UNCAUGHT_EXCEPTION - [Error] 
+OTUS - Object of class CMain could not be converted to string (0)
+OTUS - C:\OSPanel\home\ce120265.local\public_html\local\app\bx_razr\students_dz\homework3\linkedlists.php:6
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-12-22 12:36:11 - Host: ce120265.local - UNCAUGHT_EXCEPTION - [Error] 
+OTUS - Object of class CMain could not be converted to string (0)
+OTUS - C:\OSPanel\home\ce120265.local\public_html\local\app\bx_razr\students_dz\homework3\linkedlists.php:7
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-12-22 12:36:45 - Host: ce120265.local - UNCAUGHT_EXCEPTION - [Error] 
+OTUS - Object of class CMain could not be converted to string (0)
+OTUS - C:\OSPanel\home\ce120265.local\public_html\local\app\bx_razr\students_dz\homework3\linkedlists.php:7
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-12-22 12:37:34 - Host: ce120265.local - UNCAUGHT_EXCEPTION - [Error] 
+OTUS - Object of class CMain could not be converted to string (0)
+OTUS - C:\OSPanel\home\ce120265.local\public_html\local\app\bx_razr\students_dz\homework3\linkedlists.php:7
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-12-22 14:44:27 - Host: ce120265.local - UNCAUGHT_EXCEPTION - [DivisionByZeroError] 
+OTUS - Division by zero (0)
+OTUS - C:\OSPanel\home\ce120265.local\public_html\local\app\bx_razr\students_dz\homework2\writeexception.php:16
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-12-22 14:52:13 - Host: ce120265.local - UNCAUGHT_EXCEPTION - [Error] 
+OTUS - Class "Otus\List\CIBlockElement" not found (0)
+OTUS - C:\OSPanel\home\ce120265.local\public_html\local\php_interface\classes\Otus\List\ListCastom.php:17
+OTUS - #0: Otus\List\ListCastom::addElmsInfBlock()
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\local\app\bx_razr\students_dz\homework3\linkedlists.php:9
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-12-22 14:53:07 - Host: ce120265.local - UNCAUGHT_EXCEPTION - [ParseError] 
+OTUS - syntax error, unexpected identifier "CModule", expecting "function" or "const" (0)
+OTUS - C:\OSPanel\home\ce120265.local\public_html\local\php_interface\classes\Otus\List\ListCastom.php:10
+OTUS - #0: {closure}(string)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\local\app\bx_razr\students_dz\homework3\linkedlists.php:9
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-12-22 14:53:47 - Host: ce120265.local - FATAL - [ErrorException] E_COMPILE_ERROR
+OTUS - Constant expression contains invalid operations (0)
+OTUS - C:\OSPanel\home\ce120265.local\public_html\local\php_interface\classes\Otus\List\ListCastom.php:10
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-12-22 14:56:36 - Host: ce120265.local - FATAL - [ErrorException] E_COMPILE_ERROR
+OTUS - Cannot use [] for reading (0)
+OTUS - C:\OSPanel\home\ce120265.local\public_html\local\php_interface\classes\Otus\List\ListCastom.php:31
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-12-22 14:57:15 - Host: ce120265.local - FATAL - [ErrorException] E_COMPILE_ERROR
+OTUS - Cannot use [] for reading (0)
+OTUS - C:\OSPanel\home\ce120265.local\public_html\local\php_interface\classes\Otus\List\ListCastom.php:32
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-12-22 14:58:03 - Host: ce120265.local - UNCAUGHT_EXCEPTION - [ParseError] 
+OTUS - syntax error, unexpected token "/", expecting ")" (0)
+OTUS - C:\OSPanel\home\ce120265.local\public_html\local\php_interface\classes\Otus\List\ListCastom.php:21
+OTUS - #0: {closure}(string)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\local\app\bx_razr\students_dz\homework3\linkedlists.php:9
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-12-22 14:58:17 - Host: ce120265.local - UNCAUGHT_EXCEPTION - [ParseError] 
+OTUS - Unclosed '{' on line 8 (0)
+OTUS - C:\OSPanel\home\ce120265.local\public_html\local\php_interface\classes\Otus\List\ListCastom.php:37
+OTUS - #0: {closure}(string)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\local\app\bx_razr\students_dz\homework3\linkedlists.php:9
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-12-22 14:58:38 - Host: ce120265.local - UNCAUGHT_EXCEPTION - [Error] 
+OTUS - Class "Otus\List\CIBlockElement" not found (0)
+OTUS - C:\OSPanel\home\ce120265.local\public_html\local\php_interface\classes\Otus\List\ListCastom.php:17
+OTUS - #0: Otus\List\ListCastom::addElmsInfBlock()
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\local\app\bx_razr\students_dz\homework3\linkedlists.php:9
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-12-22 14:59:46 - Host: ce120265.local - UNCAUGHT_EXCEPTION - [Error] 
+OTUS - Class "Otus\List\CIBlockElement" not found (0)
+OTUS - C:\OSPanel\home\ce120265.local\public_html\local\php_interface\classes\Otus\List\ListCastom.php:15
+OTUS - #0: Otus\List\ListCastom::addElmsInfBlock()
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\local\app\bx_razr\students_dz\homework3\linkedlists.php:9
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-12-22 15:01:17 - Host: ce120265.local - UNCAUGHT_EXCEPTION - [Error] 
+OTUS - Class "Otus\List\CIBlockElement" not found (0)
+OTUS - C:\OSPanel\home\ce120265.local\public_html\local\php_interface\classes\Otus\List\ListCastom.php:15
+OTUS - #0: Otus\List\ListCastom::addElmsInfBlock()
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\local\app\bx_razr\students_dz\homework3\linkedlists.php:9
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-12-22 15:01:59 - Host: ce120265.local - UNCAUGHT_EXCEPTION - [Error] 
+OTUS - Class "Otus\List\CIBlockElement" not found (0)
+OTUS - C:\OSPanel\home\ce120265.local\public_html\local\php_interface\classes\Otus\List\ListCastom.php:15
+OTUS - #0: Otus\List\ListCastom::addElmsInfBlock()
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\local\app\bx_razr\students_dz\homework3\linkedlists.php:9
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-12-22 15:15:01 - Host: ce120265.local - UNCAUGHT_EXCEPTION - [ParseError] 
+OTUS - syntax error, unexpected token ",", expecting ")" (0)
+OTUS - C:\OSPanel\home\ce120265.local\public_html\local\php_interface\classes\Otus\List\ListCastom.php:12
+OTUS - #0: {closure}(string)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\local\app\bx_razr\students_dz\homework3\linkedlists.php:9
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-12-22 15:15:20 - Host: ce120265.local - UNCAUGHT_EXCEPTION - [ParseError] 
+OTUS - syntax error, unexpected token ",", expecting ")" (0)
+OTUS - C:\OSPanel\home\ce120265.local\public_html\local\php_interface\classes\Otus\List\ListCastom.php:12
+OTUS - #0: {closure}(string)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\local\app\bx_razr\students_dz\homework3\linkedlists.php:9
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-12-22 15:15:26 - Host: ce120265.local - UNCAUGHT_EXCEPTION - [ParseError] 
+OTUS - syntax error, unexpected token ",", expecting ")" (0)
+OTUS - C:\OSPanel\home\ce120265.local\public_html\local\php_interface\classes\Otus\List\ListCastom.php:12
+OTUS - #0: {closure}(string)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\local\app\bx_razr\students_dz\homework3\linkedlists.php:9
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-12-22 15:15:41 - Host: ce120265.local - UNCAUGHT_EXCEPTION - [ParseError] 
+OTUS - Unclosed '(' on line 11 does not match '}' (0)
+OTUS - C:\OSPanel\home\ce120265.local\public_html\local\php_interface\classes\Otus\List\ListCastom.php:15
+OTUS - #0: {closure}(string)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\local\app\bx_razr\students_dz\homework3\linkedlists.php:9
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-12-22 15:16:08 - Host: ce120265.local - UNCAUGHT_EXCEPTION - [ParseError] 
+OTUS - Unclosed '{' on line 6 (0)
+OTUS - C:\OSPanel\home\ce120265.local\public_html\local\php_interface\classes\Otus\List\ListCastom.php:22
+OTUS - #0: {closure}(string)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\local\app\bx_razr\students_dz\homework3\linkedlists.php:9
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-12-22 15:16:38 - Host: ce120265.local - UNCAUGHT_EXCEPTION - [Error] 
+OTUS - Class "Otus\List\CIBlockElement" not found (0)
+OTUS - C:\OSPanel\home\ce120265.local\public_html\local\php_interface\classes\Otus\List\ListCastom.php:11
+OTUS - #0: Otus\List\ListCastom::getList()
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\local\app\bx_razr\students_dz\homework3\linkedlists.php:9
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-12-22 15:18:10 - Host: ce120265.local - UNCAUGHT_EXCEPTION - [ParseError] 
+OTUS - syntax error, unexpected variable "$resProps" (0)
+OTUS - C:\OSPanel\home\ce120265.local\public_html\local\php_interface\classes\Otus\List\ListCastom.php:12
+OTUS - #0: {closure}(string)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\local\app\bx_razr\students_dz\homework3\linkedlists.php:9
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-12-22 15:18:22 - Host: ce120265.local - UNCAUGHT_EXCEPTION - [Error] 
+OTUS - Class "Otus\List\CModule" not found (0)
+OTUS - C:\OSPanel\home\ce120265.local\public_html\local\php_interface\classes\Otus\List\ListCastom.php:11
+OTUS - #0: Otus\List\ListCastom::getList()
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\local\app\bx_razr\students_dz\homework3\linkedlists.php:9
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-12-22 15:18:57 - Host: ce120265.local - UNCAUGHT_EXCEPTION - [Error] 
+OTUS - Class "Bitrix\Main\CModule" not found (0)
+OTUS - C:\OSPanel\home\ce120265.local\public_html\local\php_interface\classes\Otus\List\ListCastom.php:12
+OTUS - #0: Otus\List\ListCastom::getList()
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\local\app\bx_razr\students_dz\homework3\linkedlists.php:9
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-12-22 15:19:53 - Host: ce120265.local - UNCAUGHT_EXCEPTION - [Error] 
+OTUS - Class "Otus\List\CModule" not found (0)
+OTUS - C:\OSPanel\home\ce120265.local\public_html\local\php_interface\classes\Otus\List\ListCastom.php:12
+OTUS - #0: Otus\List\ListCastom::getList()
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\local\app\bx_razr\students_dz\homework3\linkedlists.php:9
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-12-22 15:22:00 - Host: ce120265.local - UNCAUGHT_EXCEPTION - [Error] 
+OTUS - Class "Otus\List\CIBlockElement" not found (0)
+OTUS - C:\OSPanel\home\ce120265.local\public_html\local\php_interface\classes\Otus\List\ListCastom.php:13
+OTUS - #0: Otus\List\ListCastom::getList()
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\local\app\bx_razr\students_dz\homework3\linkedlists.php:9
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-12-22 15:23:52 - Host: ce120265.local - UNCAUGHT_EXCEPTION - [Error] 
+OTUS - Class "Otus\List\CModule" not found (0)
+OTUS - C:\OSPanel\home\ce120265.local\public_html\local\php_interface\classes\Otus\List\ListCastom.php:4
+OTUS - #0: require_once
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\local\php_interface\classes\autoload.php:27
+OTUS - #1: {closure}(string)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\local\app\bx_razr\students_dz\homework3\linkedlists.php:9
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-12-22 15:24:31 - Host: ce120265.local - UNCAUGHT_EXCEPTION - [Error] 
+OTUS - Class "Otus\List\CIBlockElement" not found (0)
+OTUS - C:\OSPanel\home\ce120265.local\public_html\local\php_interface\classes\Otus\List\ListCastom.php:14
+OTUS - #0: Otus\List\ListCastom::getList()
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\local\app\bx_razr\students_dz\homework3\linkedlists.php:9
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-12-22 15:24:56 - Host: ce120265.local - UNCAUGHT_EXCEPTION - [Error] 
+OTUS - Class "Otus\List\CIBlockElement" not found (0)
+OTUS - C:\OSPanel\home\ce120265.local\public_html\local\php_interface\classes\Otus\List\ListCastom.php:14
+OTUS - #0: Otus\List\ListCastom::getList()
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\local\app\bx_razr\students_dz\homework3\linkedlists.php:9
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-12-22 15:26:38 - Host: ce120265.local - UNCAUGHT_EXCEPTION - [Error] 
+OTUS - Class "Otus\List\CModule" not found (0)
+OTUS - C:\OSPanel\home\ce120265.local\public_html\local\php_interface\classes\Otus\List\ListCastom.php:16
+OTUS - #0: Otus\List\ListCastom::getList()
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\local\app\bx_razr\students_dz\homework3\linkedlists.php:9
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-12-22 15:27:39 - Host: ce120265.local - UNCAUGHT_EXCEPTION - [Error] 
+OTUS - Class "Otus\List\CModule" not found (0)
+OTUS - C:\OSPanel\home\ce120265.local\public_html\local\php_interface\classes\Otus\List\ListCastom.php:17
+OTUS - #0: Otus\List\ListCastom::getList()
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\local\app\bx_razr\students_dz\homework3\linkedlists.php:9
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-12-22 15:27:44 - Host: ce120265.local - UNCAUGHT_EXCEPTION - [Error] 
+OTUS - Class "Otus\List\CModule" not found (0)
+OTUS - C:\OSPanel\home\ce120265.local\public_html\local\php_interface\classes\Otus\List\ListCastom.php:17
+OTUS - #0: Otus\List\ListCastom::getList()
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\local\app\bx_razr\students_dz\homework3\linkedlists.php:9
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-12-22 15:29:16 - Host: ce120265.local - UNCAUGHT_EXCEPTION - [Error] 
+OTUS - Class "Otus\List\CModule" not found (0)
+OTUS - C:\OSPanel\home\ce120265.local\public_html\local\php_interface\classes\Otus\List\ListCastom.php:17
+OTUS - #0: Otus\List\ListCastom::getList()
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\local\app\bx_razr\students_dz\homework3\linkedlists.php:9
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-12-23 08:52:02 - Host: ce120265.local - UNCAUGHT_EXCEPTION - [Error] 
+OTUS - Class "Otus\List\tbl" not found (0)
+OTUS - C:\OSPanel\home\ce120265.local\public_html\local\php_interface\classes\Otus\List\ListCastom.php:17
+OTUS - #0: Otus\List\ListCastom::getList()
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\local\app\bx_razr\students_dz\homework3\linkedlists.php:11
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-12-23 08:52:59 - Host: ce120265.local - FATAL - [ErrorException] E_ERROR
+OTUS - ob_start(): Cannot use output buffering in output buffering display handlers (0)
+OTUS - C:\OSPanel\home\ce120265.local\public_html\bitrix\components\bitrix\ui.toolbar\class.php:53
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-12-23 08:53:18 - Host: ce120265.local - FATAL - [ErrorException] E_ERROR
+OTUS - ob_start(): Cannot use output buffering in output buffering display handlers (0)
+OTUS - C:\OSPanel\home\ce120265.local\public_html\bitrix\components\bitrix\ui.toolbar\class.php:53
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-12-23 08:53:37 - Host: ce120265.local - FATAL - [ErrorException] E_ERROR
+OTUS - ob_start(): Cannot use output buffering in output buffering display handlers (0)
+OTUS - C:\OSPanel\home\ce120265.local\public_html\bitrix\components\bitrix\ui.toolbar\class.php:53
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-12-23 08:53:57 - Host: ce120265.local - FATAL - [ErrorException] E_ERROR
+OTUS - ob_start(): Cannot use output buffering in output buffering display handlers (0)
+OTUS - C:\OSPanel\home\ce120265.local\public_html\bitrix\components\bitrix\ui.toolbar\class.php:53
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-12-23 08:54:19 - Host: ce120265.local - FATAL - [ErrorException] E_ERROR
+OTUS - ob_start(): Cannot use output buffering in output buffering display handlers (0)
+OTUS - C:\OSPanel\home\ce120265.local\public_html\bitrix\components\bitrix\ui.toolbar\class.php:53
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-12-23 08:54:38 - Host: ce120265.local - FATAL - [ErrorException] E_ERROR
+OTUS - ob_start(): Cannot use output buffering in output buffering display handlers (0)
+OTUS - C:\OSPanel\home\ce120265.local\public_html\bitrix\components\bitrix\ui.toolbar\class.php:53
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-12-23 09:01:49 - Host: ce120265.local - FATAL - [ErrorException] E_ERROR
+OTUS - ob_start(): Cannot use output buffering in output buffering display handlers (0)
+OTUS - C:\OSPanel\home\ce120265.local\public_html\bitrix\components\bitrix\ui.toolbar\class.php:53
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-12-23 09:02:08 - Host: ce120265.local - FATAL - [ErrorException] E_ERROR
+OTUS - ob_start(): Cannot use output buffering in output buffering display handlers (0)
+OTUS - C:\OSPanel\home\ce120265.local\public_html\bitrix\components\bitrix\ui.toolbar\class.php:53
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-12-23 09:02:27 - Host: ce120265.local - FATAL - [ErrorException] E_ERROR
+OTUS - ob_start(): Cannot use output buffering in output buffering display handlers (0)
+OTUS - C:\OSPanel\home\ce120265.local\public_html\bitrix\components\bitrix\ui.toolbar\class.php:53
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-12-23 09:02:47 - Host: ce120265.local - FATAL - [ErrorException] E_ERROR
+OTUS - ob_start(): Cannot use output buffering in output buffering display handlers (0)
+OTUS - C:\OSPanel\home\ce120265.local\public_html\bitrix\components\bitrix\ui.toolbar\class.php:53
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-12-23 09:04:02 - Host: ce120265.local - FATAL - [ErrorException] E_ERROR
+OTUS - ob_start(): Cannot use output buffering in output buffering display handlers (0)
+OTUS - C:\OSPanel\home\ce120265.local\public_html\bitrix\components\bitrix\ui.toolbar\class.php:53
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-12-23 09:10:37 - Host: ce120265.local - UNCAUGHT_EXCEPTION - [Error] 
+OTUS - Undefined constant "Otus\List\this" (0)
+OTUS - C:\OSPanel\home\ce120265.local\public_html\local\php_interface\classes\Otus\List\ListCastom.php:23
+OTUS - #0: Otus\List\ListCastom::getList(integer)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\local\app\bx_razr\students_dz\homework3\linkedlists.php:12
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-12-23 09:11:29 - Host: ce120265.local - UNCAUGHT_EXCEPTION - [Error] 
+OTUS - Using $this when not in object context (0)
+OTUS - C:\OSPanel\home\ce120265.local\public_html\local\php_interface\classes\Otus\List\ListCastom.php:23
+OTUS - #0: Otus\List\ListCastom::getList(integer)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\local\app\bx_razr\students_dz\homework3\linkedlists.php:12
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-12-23 09:11:33 - Host: ce120265.local - UNCAUGHT_EXCEPTION - [Error] 
+OTUS - Using $this when not in object context (0)
+OTUS - C:\OSPanel\home\ce120265.local\public_html\local\php_interface\classes\Otus\List\ListCastom.php:23
+OTUS - #0: Otus\List\ListCastom::getList(integer)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\local\app\bx_razr\students_dz\homework3\linkedlists.php:12
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-12-23 09:11:38 - Host: ce120265.local - UNCAUGHT_EXCEPTION - [Error] 
+OTUS - Using $this when not in object context (0)
+OTUS - C:\OSPanel\home\ce120265.local\public_html\local\php_interface\classes\Otus\List\ListCastom.php:23
+OTUS - #0: Otus\List\ListCastom::getList(integer)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\local\app\bx_razr\students_dz\homework3\linkedlists.php:12
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-12-23 09:12:41 - Host: ce120265.local - UNCAUGHT_EXCEPTION - [Error] 
+OTUS - Non-static method Otus\List\ListCastom::getList() cannot be called statically (0)
+OTUS - C:\OSPanel\home\ce120265.local\public_html\local\app\bx_razr\students_dz\homework3\linkedlists.php:12
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-12-23 09:12:56 - Host: ce120265.local - UNCAUGHT_EXCEPTION - [Error] 
+OTUS - Using $this when not in object context (0)
+OTUS - C:\OSPanel\home\ce120265.local\public_html\local\php_interface\classes\Otus\List\ListCastom.php:23
+OTUS - #0: Otus\List\ListCastom::getList(integer)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\local\app\bx_razr\students_dz\homework3\linkedlists.php:12
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-12-23 09:14:54 - Host: ce120265.local - UNCAUGHT_EXCEPTION - [Error] 
+OTUS - Access to undeclared static property Otus\List\ListCastom::$idBlock (0)
+OTUS - C:\OSPanel\home\ce120265.local\public_html\local\php_interface\classes\Otus\List\ListCastom.php:23
+OTUS - #0: Otus\List\ListCastom::getList(integer)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\local\app\bx_razr\students_dz\homework3\linkedlists.php:12
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-12-23 09:16:48 - Host: ce120265.local - UNCAUGHT_EXCEPTION - [Error] 
+OTUS - Call to undefined function getList() (0)
+OTUS - C:\OSPanel\home\ce120265.local\public_html\local\app\bx_razr\students_dz\homework3\linkedlists.php:14
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-12-23 09:17:23 - Host: ce120265.local - UNCAUGHT_EXCEPTION - [Error] 
+OTUS - Call to undefined function getList() (0)
+OTUS - C:\OSPanel\home\ce120265.local\public_html\local\app\bx_razr\students_dz\homework3\linkedlists.php:15
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-12-23 09:19:30 - Host: ce120265.local - UNCAUGHT_EXCEPTION - [Error] 
+OTUS - Call to undefined function getList() (0)
+OTUS - C:\OSPanel\home\ce120265.local\public_html\local\app\bx_razr\students_dz\homework3\linkedlists.php:15
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-12-23 09:31:13 - Host: ce120265.local - UNCAUGHT_EXCEPTION - [Bitrix\Main\SystemException] 
+OTUS - Unknown field definition `SPECIALIZATION_ID` (SPECIALIZATION_ID) for \Bitrix\Iblock\Element Entity. (100)
+OTUS - C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\lib\orm\query\chain.php:346
+OTUS - #0: Bitrix\Main\ORM\Query\Chain::getChainByDefinition(object, string)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\lib\orm\query\query.php:1381
+OTUS - #1: Bitrix\Main\ORM\Query\Query->setFilterChains(array)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\lib\orm\query\query.php:2479
+OTUS - #2: Bitrix\Main\ORM\Query\Query->buildQuery()
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\lib\orm\query\query.php:942
+OTUS - #3: Bitrix\Main\ORM\Query\Query->exec()
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\lib\orm\data\datamanager.php:499
+OTUS - #4: Bitrix\Main\ORM\Data\DataManager::getList(array)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\local\php_interface\classes\Otus\List\ListCastom.php:17
+OTUS - #5: Otus\List\ListCastom->getList(integer)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\local\app\bx_razr\students_dz\homework3\linkedlists.php:14
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-12-23 09:42:43 - Host: ce120265.local - UNCAUGHT_EXCEPTION - [Error] 
+OTUS - Call to a member function fetchObject() on array (0)
+OTUS - C:\OSPanel\home\ce120265.local\public_html\local\app\bx_razr\students_dz\homework3\linkedlists.php:17
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-12-23 09:43:20 - Host: ce120265.local - UNCAUGHT_EXCEPTION - [Error] 
+OTUS - Call to a member function fetchObject() on array (0)
+OTUS - C:\OSPanel\home\ce120265.local\public_html\local\app\bx_razr\students_dz\homework3\linkedlists.php:17
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-12-23 09:47:27 - Host: ce120265.local - UNCAUGHT_EXCEPTION - [ArgumentCountError] 
+OTUS - Too few arguments to function Otus\List\ListCastom::getList(), 1 passed in C:\OSPanel\home\ce120265.local\public_html\local\app\bx_razr\students_dz\homework3\linkedlists.php on line 17 and exactly 2 expected (0)
+OTUS - C:\OSPanel\home\ce120265.local\public_html\local\php_interface\classes\Otus\List\ListCastom.php:15
+OTUS - #0: Otus\List\ListCastom->getList(integer)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\local\app\bx_razr\students_dz\homework3\linkedlists.php:17
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-12-23 09:47:57 - Host: ce120265.local - UNCAUGHT_EXCEPTION - [ArgumentCountError] 
+OTUS - Too few arguments to function Otus\List\ListCastom::getList(), 1 passed in C:\OSPanel\home\ce120265.local\public_html\local\app\bx_razr\students_dz\homework3\linkedlists.php on line 17 and exactly 2 expected (0)
+OTUS - C:\OSPanel\home\ce120265.local\public_html\local\php_interface\classes\Otus\List\ListCastom.php:15
+OTUS - #0: Otus\List\ListCastom->getList(integer)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\local\app\bx_razr\students_dz\homework3\linkedlists.php:17
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-12-23 10:32:47 - Host: ce120265.local - UNCAUGHT_EXCEPTION - [Bitrix\Main\ArgumentException] 
+OTUS - ElementDoctors Entity has no `PRICE` field. (100)
+OTUS - C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\lib\orm\entity.php:573
+OTUS - #0: Bitrix\Main\ORM\Entity->getField(string)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\lib\orm\objectify\entityobject.php:968
+OTUS - #1: Bitrix\Main\ORM\Objectify\EntityObject->__call(string, array)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\lib\orm\objectify\entityobject.php:716
+OTUS - #2: Bitrix\Main\ORM\Objectify\EntityObject->get(string)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\local\app\bx_razr\students_dz\homework3\linkedlists.php:25
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-12-23 10:33:36 - Host: ce120265.local - UNCAUGHT_EXCEPTION - [Error] 
+OTUS - Call to a member function getValue() on null (0)
+OTUS - C:\OSPanel\home\ce120265.local\public_html\local\app\bx_razr\students_dz\homework3\linkedlists.php:25
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-12-23 10:34:31 - Host: ce120265.local - FATAL - [ErrorException] E_ERROR
+OTUS - ob_start(): Cannot use output buffering in output buffering display handlers (0)
+OTUS - C:\OSPanel\home\ce120265.local\public_html\bitrix\components\bitrix\ui.toolbar\class.php:53
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-12-23 10:35:42 - Host: ce120265.local - UNCAUGHT_EXCEPTION - [Error] 
+OTUS - Call to a member function getName() on string (0)
+OTUS - C:\OSPanel\home\ce120265.local\public_html\local\app\bx_razr\students_dz\homework3\linkedlists.php:27
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-12-23 10:51:38 - Host: ce120265.local - UNCAUGHT_EXCEPTION - [Bitrix\Main\SystemException] 
+OTUS - Unknown field definition `IBLOCK_ELEMENTS_ELEMENT_DOCTORS_SPECIALIZATION_ID_IBLOCK_ELEMENT_ID` (IBLOCK_ELEMENTS_ELEMENT_DOCTORS_SPECIALIZATION_ID_IBLOCK_ELEMENT_ID) for \Bitrix\Iblock\Elements\ElementDoctors Entity. (100)
+OTUS - C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\lib\orm\query\chain.php:346
+OTUS - #0: Bitrix\Main\ORM\Query\Chain::getChainByDefinition(object, string)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\lib\orm\query\query.php:3509
+OTUS - #1: Bitrix\Main\ORM\Query\Query->getRegisteredChain(string, boolean)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\lib\orm\query\query.php:1231
+OTUS - #2: Bitrix\Main\ORM\Query\Query->addToSelectChain(string, NULL)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\lib\orm\query\query.php:2476
+OTUS - #3: Bitrix\Main\ORM\Query\Query->buildQuery()
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\lib\orm\query\query.php:942
+OTUS - #4: Bitrix\Main\ORM\Query\Query->exec()
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\lib\orm\query\query.php:1017
+OTUS - #5: Bitrix\Main\ORM\Query\Query->fetchAll()
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\local\app\bx_razr\students_dz\homework3\linkedlists.php:21
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-12-23 11:19:33 - Host: ce120265.local - UNCAUGHT_EXCEPTION - [Error] 
+OTUS - Undefined constant "element" (0)
+OTUS - C:\OSPanel\home\ce120265.local\public_html\local\app\bx_razr\students_dz\homework3\linkedlists.php:29
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-12-23 11:20:55 - Host: ce120265.local - UNCAUGHT_EXCEPTION - [Error] 
+OTUS - Undefined constant "element" (0)
+OTUS - C:\OSPanel\home\ce120265.local\public_html\local\app\bx_razr\students_dz\homework3\linkedlists.php:29
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-12-23 11:53:38 - Host: ce120265.local - UNCAUGHT_EXCEPTION - [TypeError] 
+OTUS - Bitrix\Main\ORM\Query\Query::setSelect(): Argument #1 ($select) must be of type array, null given, called in C:\OSPanel\home\ce120265.local\public_html\local\app\bx_razr\students_dz\homework3\linkedlists.php on line 26 (0)
+OTUS - C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\lib\orm\query\query.php:338
+OTUS - #0: Bitrix\Main\ORM\Query\Query->setSelect(NULL)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\local\app\bx_razr\students_dz\homework3\linkedlists.php:26
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-12-23 12:20:59 - Host: ce120265.local - FATAL - [ErrorException] E_ERROR
+OTUS - ob_start(): Cannot use output buffering in output buffering display handlers (0)
+OTUS - C:\OSPanel\home\ce120265.local\public_html\bitrix\components\bitrix\ui.toolbar\class.php:53
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-12-23 12:24:59 - Host: ce120265.local - UNCAUGHT_EXCEPTION - [Error] 
+OTUS - Undefined constant "SPECIALIZATION_ID" (0)
+OTUS - C:\OSPanel\home\ce120265.local\public_html\local\app\bx_razr\students_dz\homework3\linkedlists.php:25
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-12-23 13:42:12 - Host: ce120265.local - UNCAUGHT_EXCEPTION - [TypeError] 
+OTUS - in_array(): Argument #2 ($haystack) must be of type array, string given (0)
+OTUS - C:\OSPanel\home\ce120265.local\public_html\local\app\bx_razr\students_dz\homework3\linkedlists.php:61
+OTUS - #0: in_array(string, string)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\local\app\bx_razr\students_dz\homework3\linkedlists.php:61
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-12-23 13:52:53 - Host: ce120265.local - FATAL - [ErrorException] E_ERROR
+OTUS - ob_start(): Cannot use output buffering in output buffering display handlers (0)
+OTUS - C:\OSPanel\home\ce120265.local\public_html\bitrix\components\bitrix\ui.toolbar\class.php:53
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-12-23 13:53:22 - Host: ce120265.local - FATAL - [ErrorException] E_ERROR
+OTUS - ob_start(): Cannot use output buffering in output buffering display handlers (0)
+OTUS - C:\OSPanel\home\ce120265.local\public_html\bitrix\components\bitrix\ui.toolbar\class.php:53
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-12-23 14:00:17 - Host: ce120265.local - UNCAUGHT_EXCEPTION - [TypeError] 
+OTUS - in_array(): Argument #2 ($haystack) must be of type array, null given (0)
+OTUS - C:\OSPanel\home\ce120265.local\public_html\local\app\bx_razr\students_dz\homework3\linkedlists.php:64
+OTUS - #0: in_array(NULL, NULL)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\local\app\bx_razr\students_dz\homework3\linkedlists.php:64
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-12-23 14:01:11 - Host: ce120265.local - UNCAUGHT_EXCEPTION - [TypeError] 
+OTUS - Cannot access offset of type string on string (0)
+OTUS - C:\OSPanel\home\ce120265.local\public_html\local\app\bx_razr\students_dz\homework3\linkedlists.php:64
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-12-23 14:08:05 - Host: ce120265.local - UNCAUGHT_EXCEPTION - [Error] 
+OTUS - Value of type null is not callable (0)
+OTUS - C:\OSPanel\home\ce120265.local\public_html\local\app\bx_razr\students_dz\homework3\linkedlists.php:63
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-12-23 14:14:53 - Host: ce120265.local - UNCAUGHT_EXCEPTION - [TypeError] 
+OTUS - in_array(): Argument #2 ($haystack) must be of type array, null given (0)
+OTUS - C:\OSPanel\home\ce120265.local\public_html\local\app\bx_razr\students_dz\homework3\linkedlists.php:62
+OTUS - #0: in_array(integer, NULL)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\local\app\bx_razr\students_dz\homework3\linkedlists.php:62
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-12-23 14:16:53 - Host: ce120265.local - UNCAUGHT_EXCEPTION - [TypeError] 
+OTUS - in_array(): Argument #2 ($haystack) must be of type array, null given (0)
+OTUS - C:\OSPanel\home\ce120265.local\public_html\local\app\bx_razr\students_dz\homework3\linkedlists.php:63
+OTUS - #0: in_array(string, NULL)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\local\app\bx_razr\students_dz\homework3\linkedlists.php:63
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-12-24 09:14:29 - Host: ce120265.local - UNCAUGHT_EXCEPTION - [ValueError] 
+OTUS - Unknown format specifier "n" (0)
+OTUS - C:\OSPanel\home\ce120265.local\public_html\local\app\bx_razr\students_dz\homework3\linkedlists.php:82
+OTUS - #0: sprintf(string, NULL, string)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\local\app\bx_razr\students_dz\homework3\linkedlists.php:82
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-12-24 10:14:39 - Host: ce120265.local - UNCAUGHT_EXCEPTION - [Error] 
+OTUS - Undefined constant "date" (0)
+OTUS - C:\OSPanel\home\ce120265.local\public_html\local\app\bx_razr\students_dz\homework3\linkedlists.php:15
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-12-24 10:15:19 - Host: ce120265.local - UNCAUGHT_EXCEPTION - [ArgumentCountError] 
+OTUS - date() expects at least 1 argument, 0 given (0)
+OTUS - C:\OSPanel\home\ce120265.local\public_html\local\app\bx_razr\students_dz\homework3\linkedlists.php:15
+OTUS - #0: date()
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\local\app\bx_razr\students_dz\homework3\linkedlists.php:15
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-12-24 10:54:17 - Host: ce120265.local - FATAL - [ErrorException] E_ERROR
+OTUS - ob_start(): Cannot use output buffering in output buffering display handlers (0)
+OTUS - C:\OSPanel\home\ce120265.local\public_html\bitrix\components\bitrix\ui.toolbar\class.php:53
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-12-24 11:27:12 - Host: ce120265.local - FATAL - [ErrorException] E_ERROR
+OTUS - ob_start(): Cannot use output buffering in output buffering display handlers (0)
+OTUS - C:\OSPanel\home\ce120265.local\public_html\bitrix\components\bitrix\ui.toolbar\class.php:53
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-12-24 12:20:53 - Host: ce120265.local - UNCAUGHT_EXCEPTION - [Error] 
+OTUS - Call to a member function fetch() on array (0)
+OTUS - C:\OSPanel\home\ce120265.local\public_html\local\app\bx_razr\students_dz\homework3\linkedlists.php:39
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-12-24 13:17:12 - Host: ce120265.local - UNCAUGHT_EXCEPTION - [Error] 
+OTUS - Call to undefined method Bitrix\Iblock\ORM\Fields\PropertyOneToMany::getColumnName() (0)
+OTUS - C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\lib\orm\query\chainelement.php:266
+OTUS - #0: Bitrix\Main\ORM\Query\ChainElement->getSqlDefinition()
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\lib\orm\query\chain.php:499
+OTUS - #1: Bitrix\Main\ORM\Query\Chain->getSqlDefinition()
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\lib\orm\query\filter\conditiontree.php:506
+OTUS - #2: Bitrix\Main\ORM\Query\Filter\ConditionTree->getSql(array)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\lib\orm\query\query.php:2279
+OTUS - #3: Bitrix\Main\ORM\Query\Query->buildWhere()
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\lib\orm\query\query.php:2508
+OTUS - #4: Bitrix\Main\ORM\Query\Query->buildQuery()
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\lib\orm\query\query.php:942
+OTUS - #5: Bitrix\Main\ORM\Query\Query->exec()
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\lib\orm\query\query.php:1017
+OTUS - #6: Bitrix\Main\ORM\Query\Query->fetchAll()
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\local\app\bx_razr\students_dz\homework3\linkedlists.php:49
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-12-24 13:20:02 - Host: ce120265.local - UNCAUGHT_EXCEPTION - [Bitrix\Main\SystemException] 
+OTUS - Unknown field definition `IBLOCK_ELEMENTS_ELEMENT_DOCTORS_SPECIALIZATION_ID_IBLOCK_GENERIC_VALUE` (IBLOCK_ELEMENTS_ELEMENT_DOCTORS_SPECIALIZATION_ID_IBLOCK_GENERIC_VALUE) for \Bitrix\Iblock\Elements\ElementDoctors Entity. (100)
+OTUS - C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\lib\orm\query\chain.php:346
+OTUS - #0: Bitrix\Main\ORM\Query\Chain::getChainByDefinition(object, string)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\lib\orm\query\query.php:3509
+OTUS - #1: Bitrix\Main\ORM\Query\Query->getRegisteredChain(string, boolean)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\lib\orm\query\query.php:1231
+OTUS - #2: Bitrix\Main\ORM\Query\Query->addToSelectChain(string, NULL)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\lib\orm\query\query.php:2476
+OTUS - #3: Bitrix\Main\ORM\Query\Query->buildQuery()
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\lib\orm\query\query.php:942
+OTUS - #4: Bitrix\Main\ORM\Query\Query->exec()
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\lib\orm\query\query.php:1017
+OTUS - #5: Bitrix\Main\ORM\Query\Query->fetchAll()
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\local\app\bx_razr\students_dz\homework3\linkedlists.php:48
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-12-24 13:34:52 - Host: ce120265.local - UNCAUGHT_EXCEPTION - [ArgumentCountError] 
+OTUS - 2 arguments are required, 1 given (0)
+OTUS - C:\OSPanel\home\ce120265.local\public_html\local\app\bx_razr\students_dz\homework3\linkedlists.php:121
+OTUS - #0: sprintf(string)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\local\app\bx_razr\students_dz\homework3\linkedlists.php:121
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-12-24 13:50:07 - Host: ce120265.local - UNCAUGHT_EXCEPTION - [Error] 
+OTUS - Undefined constant "i" (0)
+OTUS - C:\OSPanel\home\ce120265.local\public_html\local\app\bx_razr\students_dz\homework3\linkedlists.php:131
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-12-24 14:29:46 - Host: ce120265.local - UNCAUGHT_EXCEPTION - [Bitrix\Main\SystemException] 
+OTUS - Unknown method `order` (0)
+OTUS - C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\lib\orm\query\query.php:319
+OTUS - #0: Bitrix\Main\ORM\Query\Query->__call(string, array)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\local\app\bx_razr\students_dz\homework3\linkedlists.php:35
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-12-24 14:30:15 - Host: ce120265.local - UNCAUGHT_EXCEPTION - [Bitrix\Main\SystemException] 
+OTUS - Unknown method `order` (0)
+OTUS - C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\lib\orm\query\query.php:319
+OTUS - #0: Bitrix\Main\ORM\Query\Query->__call(string, array)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\local\app\bx_razr\students_dz\homework3\linkedlists.php:35
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-12-24 14:37:30 - Host: ce120265.local - UNCAUGHT_EXCEPTION - [Bitrix\Main\SystemException] 
+OTUS - Unknown method `order` (0)
+OTUS - C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\lib\orm\query\query.php:319
+OTUS - #0: Bitrix\Main\ORM\Query\Query->__call(string, array)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\local\app\bx_razr\students_dz\homework3\linkedlists.php:35
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-12-24 15:00:51 - Host: ce120265.tw1.ru - UNCAUGHT_EXCEPTION - [Error] 
+OTUS - Class "Bitrix\Iblock\Elements\ElementSecialtiesTable" not found (0)
+OTUS - /home/c/ce120265/public_html/local/app/bx_razr/students_dz/homework3/linkedlists.php:105
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-12-24 15:03:47 - Host: ce120265.tw1.ru - UNCAUGHT_EXCEPTION - [Error] 
+OTUS - Class "Bitrix\Iblock\Elements\ElementSecialtiesTable" not found (0)
+OTUS - /home/c/ce120265/public_html/local/app/bx_razr/students_dz/homework3/linkedlists.php:106
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-12-24 15:06:07 - Host: ce120265.tw1.ru - UNCAUGHT_EXCEPTION - [Bitrix\Main\SystemException] 
+OTUS - Unknown field definition `SPECIALIZATION_ID` (SPECIALIZATION_ID) for \Bitrix\Iblock\Elements\ElementDoctors Entity. (100)
+OTUS - /home/c/ce120265/public_html/bitrix/modules/main/lib/orm/query/chain.php:346
+OTUS - #0: Bitrix\Main\ORM\Query\Chain::getChainByDefinition(object, string)
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/main/lib/orm/query/query.php:3509
+OTUS - #1: Bitrix\Main\ORM\Query\Query->getRegisteredChain(string, boolean)
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/main/lib/orm/query/query.php:1231
+OTUS - #2: Bitrix\Main\ORM\Query\Query->addToSelectChain(string, NULL)
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/main/lib/orm/query/query.php:2476
+OTUS - #3: Bitrix\Main\ORM\Query\Query->buildQuery()
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/main/lib/orm/query/query.php:942
+OTUS - #4: Bitrix\Main\ORM\Query\Query->exec()
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/main/lib/orm/query/query.php:1017
+OTUS - #5: Bitrix\Main\ORM\Query\Query->fetchAll()
+OTUS - 	/home/c/ce120265/public_html/local/app/bx_razr/students_dz/homework3/linkedlists.php:39
+OTUS - ----------
+OTUS - 
 OTUS - 

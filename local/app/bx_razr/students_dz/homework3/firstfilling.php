@@ -1,5 +1,4 @@
 <?php 
-use Otus\List\ListCastom;
 
 require($_SERVER["DOCUMENT_ROOT"] . "/bitrix/header.php");
 $APPLICATION->SetTitle("Первое заполнение");
@@ -49,7 +48,7 @@ function linkLists($idBlock, $el, $link=false){
         [($link) ?'RAND':'NAME' => 'ASC'], //если $link - true сортируем случайным образом, иначе по названию
         ['IBLOCK_ID' => $idBlock],
         false,
-        ($link) ? ['nTopCount' => rand(1,3)] : [], //если $link - true выбираем случайным образом случайное количество (от 1-3) элементов, иначе -все
+        ($link) ? ['nTopCount' => rand(3,5)] : [], //если $link - true выбираем случайным образом случайное количество (от 1-3) элементов, иначе -все
         ['ID']
     );
 
@@ -114,7 +113,7 @@ $arrIdDoctors = linkLists(16, $el);
 //обходим
 foreach($arrIdDoctors as $dct){
 
-    //массиполучаем массив ID специализаций (случайно от 1 до 3)
+    //получаем массив ID специализаций (случайно от 1 до 3)
     $arrIdSpecial = linkLists(17, $el, true);
 
     
