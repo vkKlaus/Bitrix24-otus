@@ -8,8 +8,3 @@ LoggerCastom::clearLog();
 
 //редирект обратно ;)
 LocalRedirect('/local/app/bx_razr/students_dz/homework2/');
-
-
-
-
-  

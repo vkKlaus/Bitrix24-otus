@@ -17,8 +17,10 @@ Asset::getInstance()->addCss('//cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bo
         <a href="create-table.php">Создание и заполнение</a>
     </li>
 
-    <li class="list-group-item">
-       <a href="">Работа с таблицей</a>
+     <li class="list-group-item">
+        <a href="work-table.php">Работа с таблицами</a>
+    </li>
+
     </li>
 
     <li class="list-group-item">

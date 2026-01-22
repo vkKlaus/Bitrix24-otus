@@ -16,15 +16,18 @@ spl_autoload_register(function(string $class): void
 
     $path = __DIR__ . '/' . $class . '.php';
 
-    
-/*     echo '<pre>';
-    var_dump ( $path );
-    var_dump ( is_file($path) );
-    echo '</pre>';  */
-
 
     if(is_file($path)){
         require_once $path;
+  /*       
+    echo '<pre>';  
+  var_dump ( "-----------");       
+    var_dump ( $path );
+    var_dump ( is_file($path) );
+     echo '</pre>'; 
+ */  
     }
+
+    
 });
 
