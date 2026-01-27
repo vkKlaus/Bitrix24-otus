@@ -1153,4 +1153,46 @@ OTUS - Call to undefined method Otus\TableBD\DocUniversityLinkTable::deleteLink(
 OTUS - C:\OSPanel\home\ce120265.local\public_html\local\app\bx_razr\students_dz\homework4\create-table.php:122
 OTUS - ----------
 OTUS - 
+OTUS - OTUS - 2026-01-23 10:28:05 - Host: ce120265.tw1.ru - UNCAUGHT_EXCEPTION - [Bitrix\Main\DB\DuplicateEntryException] 
+OTUS - Mysql query error: (1062) Duplicate entry '139-1' for key 'mytable_doctor_university.PRIMARY' (400)
+OTUS - INSERT INTO `mytable_doctor_university`(`UNIVERSITY_ID`, `DOCTOR_ID`) VALUES (1, 139)
+OTUS - /home/c/ce120265/public_html/bitrix/modules/main/lib/db/mysqlcommonconnection.php:413
+OTUS - #0: Bitrix\Main\DB\MysqlCommonConnection->createQueryException(integer, string, string)
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/main/lib/db/mysqliconnection.php:149
+OTUS - #1: Bitrix\Main\DB\MysqliConnection->queryInternal(string, array, NULL)
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/main/lib/db/connection.php:324
+OTUS - #2: Bitrix\Main\DB\Connection->query(string, NULL)
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/main/lib/db/connection.php:373
+OTUS - #3: Bitrix\Main\DB\Connection->queryExecute(string)
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/main/lib/db/connection.php:458
+OTUS - #4: Bitrix\Main\DB\Connection->add(string, array, NULL)
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/main/lib/orm/data/datamanager.php:928
+OTUS - #5: Bitrix\Main\ORM\Data\DataManager::add(array)
+OTUS - 	/home/c/ce120265/public_html/local/app/bx_razr/students_dz/homework4/create-table.php:107
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2026-01-27 13:49:27 - Host: ce120265.tw1.ru - UNCAUGHT_EXCEPTION - [Error] 
+OTUS - Class "Bitrix\Currency\CurrencyTable" not found (0)
+OTUS - /home/c/ce120265/public_html/local/components/otus/currency.rate/.parameters.php:8
+OTUS - #0: include
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/main/classes/general/component_util.php:479
+OTUS - #1: CComponentUtil::GetComponentProps(string, array, array)
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/fileman/classes/general/component_params_manager.php:145
+OTUS - #2: CComponentParamsManager::GetComponentProperties(string, string, string, array)
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/main/public/component_props2.php:120
+OTUS - #3: require(string)
+OTUS - 	/home/c/ce120265/public_html/bitrix/admin/component_props.php:1
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2026-01-27 13:50:39 - Host: ce120265.tw1.ru - UNCAUGHT_EXCEPTION - [Error] 
+OTUS - Class "Bitrix\Currency\CurrencyTable" not found (0)
+OTUS - /home/c/ce120265/public_html/local/components/otus/currency.rate/.parameters.php:8
+OTUS - #0: include
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/main/classes/general/component_util.php:479
+OTUS - #1: CComponentUtil::GetComponentProps(string, array)
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/main/public/template_copy.php:103
+OTUS - #2: require(string)
+OTUS - 	/home/c/ce120265/public_html/bitrix/admin/template_copy.php:1
+OTUS - ----------
+OTUS - 
 OTUS - 
