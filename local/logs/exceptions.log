@@ -1195,4 +1195,132 @@ OTUS - #2: require(string)
 OTUS - 	/home/c/ce120265/public_html/bitrix/admin/template_copy.php:1
 OTUS - ----------
 OTUS - 
+OTUS - OTUS - 2026-01-28 09:24:43 - Host: ce120265.tw1.ru - UNCAUGHT_EXCEPTION - [Error] 
+OTUS - Class "Bitrix\Currency\CurrencyTable" not found (0)
+OTUS - /home/c/ce120265/public_html/local/components/otus/currency.rate/.parameters.php:8
+OTUS - #0: include
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/main/classes/general/component_util.php:479
+OTUS - #1: CComponentUtil::GetComponentProps(string, array, array)
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/fileman/classes/general/component_params_manager.php:145
+OTUS - #2: CComponentParamsManager::GetComponentProperties(string, string, string, array)
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/main/public/component_props2.php:120
+OTUS - #3: require(string)
+OTUS - 	/home/c/ce120265/public_html/bitrix/admin/component_props.php:1
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2026-01-28 09:24:57 - Host: ce120265.tw1.ru - UNCAUGHT_EXCEPTION - [Error] 
+OTUS - Class "Bitrix\Currency\CurrencyTable" not found (0)
+OTUS - /home/c/ce120265/public_html/local/components/otus/currency.rate/.parameters.php:8
+OTUS - #0: include
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/main/classes/general/component_util.php:479
+OTUS - #1: CComponentUtil::GetComponentProps(string, array, array)
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/fileman/classes/general/component_params_manager.php:145
+OTUS - #2: CComponentParamsManager::GetComponentProperties(string, string, string, array)
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/main/public/component_props2.php:120
+OTUS - #3: require(string)
+OTUS - 	/home/c/ce120265/public_html/bitrix/admin/component_props.php:1
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2026-01-28 09:25:25 - Host: ce120265.tw1.ru - UNCAUGHT_EXCEPTION - [Error] 
+OTUS - Class "Bitrix\Currency\CurrencyTable" not found (0)
+OTUS - /home/c/ce120265/public_html/local/components/otus/currency.rate/.parameters.php:8
+OTUS - #0: include
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/main/classes/general/component_util.php:479
+OTUS - #1: CComponentUtil::GetComponentProps(string, array, array)
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/fileman/classes/general/component_params_manager.php:145
+OTUS - #2: CComponentParamsManager::GetComponentProperties(string, string, string, array)
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/main/public/component_props2.php:120
+OTUS - #3: require(string)
+OTUS - 	/home/c/ce120265/public_html/bitrix/admin/component_props.php:1
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2026-01-29 09:00:18 - Host: ce120265.local - UNCAUGHT_EXCEPTION - [Error] 
+OTUS - Class "Bitrix\Currency\CurrencyTable" not found (0)
+OTUS - C:\OSPanel\home\ce120265.local\public_html\local\components\otus\currency.rate\.parameters.php:31
+OTUS - #0: include
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\classes\general\component_util.php:479
+OTUS - #1: CComponentUtil::GetComponentProps(string, array, array)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\fileman\classes\general\component_params_manager.php:145
+OTUS - #2: CComponentParamsManager::GetComponentProperties(string, string, string, array)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\public\component_props2.php:120
+OTUS - #3: require(string)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\admin\component_props.php:1
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2026-01-29 09:00:56 - Host: ce120265.local - UNCAUGHT_EXCEPTION - [Error] 
+OTUS - Call to a member function fetch() on null (0)
+OTUS - C:\OSPanel\home\ce120265.local\public_html\local\components\otus\currency.rate\.parameters.php:29
+OTUS - #0: include
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\classes\general\component_util.php:479
+OTUS - #1: CComponentUtil::GetComponentProps(string, array, array)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\fileman\classes\general\component_params_manager.php:145
+OTUS - #2: CComponentParamsManager::GetComponentProperties(string, string, string, array)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\public\component_props2.php:120
+OTUS - #3: require(string)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\admin\component_props.php:1
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2026-01-29 09:01:21 - Host: ce120265.local - UNCAUGHT_EXCEPTION - [Error] 
+OTUS - Call to a member function fetch() on null (0)
+OTUS - C:\OSPanel\home\ce120265.local\public_html\local\components\otus\currency.rate\.parameters.php:29
+OTUS - #0: include
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\classes\general\component_util.php:479
+OTUS - #1: CComponentUtil::GetComponentProps(string, array, array)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\fileman\classes\general\component_params_manager.php:145
+OTUS - #2: CComponentParamsManager::GetComponentProperties(string, string, string, array)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\public\component_props2.php:120
+OTUS - #3: require(string)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\admin\component_props.php:1
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2026-01-29 09:02:36 - Host: ce120265.local - UNCAUGHT_EXCEPTION - [Error] 
+OTUS - Call to a member function fetch() on null (0)
+OTUS - C:\OSPanel\home\ce120265.local\public_html\local\components\otus\currency.rate\.parameters.php:29
+OTUS - #0: include
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\classes\general\component_util.php:479
+OTUS - #1: CComponentUtil::GetComponentProps(string, array, array)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\fileman\classes\general\component_params_manager.php:145
+OTUS - #2: CComponentParamsManager::GetComponentProperties(string, string, string, array)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\public\component_props2.php:120
+OTUS - #3: require(string)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\admin\component_props.php:1
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2026-01-29 09:06:01 - Host: ce120265.local - UNCAUGHT_EXCEPTION - [Error] 
+OTUS - Call to a member function fetch() on null (0)
+OTUS - C:\OSPanel\home\ce120265.local\public_html\local\components\otus\currency.rate\.parameters.php:29
+OTUS - #0: include
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\classes\general\component_util.php:479
+OTUS - #1: CComponentUtil::GetComponentProps(string, array, array)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\fileman\classes\general\component_params_manager.php:145
+OTUS - #2: CComponentParamsManager::GetComponentProperties(string, string, string, array)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\public\component_props2.php:120
+OTUS - #3: require(string)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\admin\component_props.php:1
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2026-01-29 09:06:25 - Host: ce120265.local - UNCAUGHT_EXCEPTION - [Error] 
+OTUS - Call to a member function fetch() on null (0)
+OTUS - C:\OSPanel\home\ce120265.local\public_html\local\components\otus\currency.rate\.parameters.php:29
+OTUS - #0: include
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\classes\general\component_util.php:479
+OTUS - #1: CComponentUtil::GetComponentProps(string, array, array)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\fileman\classes\general\component_params_manager.php:145
+OTUS - #2: CComponentParamsManager::GetComponentProperties(string, string, string, array)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\public\component_props2.php:120
+OTUS - #3: require(string)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\admin\component_props.php:1
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2026-01-29 09:20:12 - Host: ce120265.local - UNCAUGHT_EXCEPTION - [ParseError] 
+OTUS - Unclosed '{' on line 21 does not match ')' (0)
+OTUS - C:\OSPanel\home\ce120265.local\public_html\local\components\otus\currency.rate\class.php:22
+OTUS - #0: CBitrixComponent->__getClassForPath(string)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\classes\general\component.php:470
+OTUS - #1: CBitrixComponent->initComponent(string)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\classes\general\main.php:1177
+OTUS - #2: CAllMain->IncludeComponent(string, string, array, boolean)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\local\components\otus\currencies.php:7
+OTUS - ----------
+OTUS - 
 OTUS - 

@@ -1,31 +1,40 @@
 <?php
 if (!defined("B_PROLOG_INCLUDED") || B_PROLOG_INCLUDED !== true) die();
 
-use \Bitrix\Currency\CurrencyTable;
-
 // Получаем список валют из базы данных
-$currencyList = [];
-$currencyIterator = CurrencyTable::getList([
-    'select' => ['CURRENCY', 'SORT'],
-    'order' => ['SORT' => 'ASC']
-]);
 
-while ($currency = $currencyIterator->fetch()) {
-    $currencyList[$currency['CURRENCY']] = "[{$currency['CURRENCY']}]";
+if (CModule::IncludeModule('currency')) {
+    // Получаем список всех валют
+    $arCurrencies = [];  
+    
+    $dbCurrencies = CCurrency::GetList(); // Без параметров
+    
+    while ($currency = $dbCurrencies->Fetch()) {
+        // Формируем массив для выпадающего списка
+        // Формат: Код валюты => Название (Код)
+        $arCurrencies[$currency['CURRENCY']] = $currency['CURRENCY'] . ' - ' . $currency['NUMCODE'];
+    }
+} else {
+    // Если модуль не установлен, используем пустой массив
+    $arCurrencies = [
+        'USD' => 'USD - Доллар США',
+        'EUR' => 'EUR - Евро',
+    ];
 }
 
+// Формируем массив параметров
 $arComponentParameters = [
     "PARAMETERS" => [
         "CURRENCY_CODE" => [
             "PARENT" => "BASE",
             "NAME" => "Выберите валюту",
             "TYPE" => "LIST",
-            "VALUES" => $currencyList,
+            "VALUES" => $arCurrencies,
             "DEFAULT" => "USD",
             "REFRESH" => "Y",
         ],
         "CACHE_TIME" => [
-            "DEFAULT" => 3600,
+            "DEFAULT" => 300,
         ],
     ],
 ];

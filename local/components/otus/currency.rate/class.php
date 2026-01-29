@@ -19,12 +19,12 @@ class OtusCurrencyRateComponent extends CBitrixComponent
     public function executeComponent()
     {
         if (!Loader::includeModule('currency')) {
-            ShowError(Loc::getMessage("OTUS_CURRENCY_RATE_MODULE_NOT_INSTALLED"));
+            ShowError("Mодуль валют не установлен");
             return;
         }
 
         if (empty($this->arParams["CURRENCY_CODE"])) {
-            ShowError(Loc::getMessage("OTUS_CURRENCY_RATE_CURRENCY_NOT_SELECTED"));
+            ShowError("Выбранная валюта не найдена");
             return;
         }
 
@@ -46,7 +46,7 @@ class OtusCurrencyRateComponent extends CBitrixComponent
 
             if (!$currency) {
                 $this->abortResultCache();
-                ShowError(Loc::getMessage("OTUS_CURRENCY_RATE_CURRENCY_NOT_FOUND"));
+                ShowError("Валюта не найдена (пустой запрос)");
                 return;
             }
 
