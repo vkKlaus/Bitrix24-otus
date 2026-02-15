@@ -1,9 +1,9 @@
 <? 
 use Bitrix\Main\Page\Asset;
 
-require($_SERVER["DOCUMENT_ROOT"] . "/bitrix/header.php"); ?>
+require($_SERVER["DOCUMENT_ROOT"] . "/bitrix/header.php"); 
 
-<?php
+
 $APPLICATION->SetTitle("ДЗ #6: Написание своего модуля");
 
 Asset::getInstance()->addCss('//cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css');
@@ -23,9 +23,18 @@ Asset::getInstance()->addCss('//cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bo
     <li class="list-group-item">
        (Настройка) Рабочий стол > Настройки > Настройки продукта > Настройки модулей > Валюты в сделках 
     </li>
-       <li class="list-group-item">
+   <li class="list-group-item">
        (Настройка) где отображаем, как будет называться ТАВ 
     </li>
+    <li class="list-group-item">
+       <a href="\local\app\bx_razr\students_dz\homework6\value_mysql.php">Посмотреть содержимое таблиц mySQL</a> 
+   
+         <ul>
+            <li>b_catalog_currency, </li>
+            <li>b_module (фильтр id = mycompany.currency), </li>
+            <li>b_module_to_module  (фильтр TO_MODULE_ID = mycompany.currency), </li>
+            <li>b_option  (фильтр MODULE_ID = mycompany.currency). </a></li>
+         </ul>
     </li>
 </ui>
 
