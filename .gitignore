@@ -71,3 +71,5 @@
 /urlrewrite.php
 /ustat.php
 /workgroups/
+
+/vendor/

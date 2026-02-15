@@ -1,0 +1,10 @@
+{
+    "name": "ce120265/public_html",
+    "authors": [
+        {
+            "name": "Vladislav Klokol",
+            "email": "vkKlaus@yandex.ru"
+        }
+    ],
+    "require-dev": {"symfony/var-dumper": "5.4.*"}
+}

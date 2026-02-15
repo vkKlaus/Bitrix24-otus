@@ -1323,4 +1323,1070 @@ OTUS - #2: CAllMain->IncludeComponent(string, string, array, boolean)
 OTUS - 	C:\OSPanel\home\ce120265.local\public_html\local\components\otus\currencies.php:7
 OTUS - ----------
 OTUS - 
+OTUS - OTUS - 2026-02-02 12:38:22 - Host: ce120265.tw1.ru - UNCAUGHT_EXCEPTION - [Error] 
+OTUS - Call to undefined function dump() (0)
+OTUS - /home/c/ce120265/public_html/local/app/bx_razr/students_dz/homework3/linkedlists.php:105
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2026-02-02 12:39:41 - Host: ce120265.tw1.ru - UNCAUGHT_EXCEPTION - [Error] 
+OTUS - Failed opening required '/home/c/ce120265/public_html/local/app/bx_razr/students_dz/homework3/vendor/autoload.php' (include_path='.:/opt/php84/share/pear') (0)
+OTUS - /home/c/ce120265/public_html/local/app/bx_razr/students_dz/homework3/linkedlists.php:8
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2026-02-03 13:40:55 - Host: ce120265.tw1.ru - FATAL - [ErrorException] E_COMPILE_ERROR
+OTUS - Access level to my_crm_currency::installDB() must be public (as in class CModule) (0)
+OTUS - /home/c/ce120265/public_html/local/modules/my.crm.currency/install/index.php:71
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2026-02-03 13:40:58 - Host: ce120265.tw1.ru - FATAL - [ErrorException] E_COMPILE_ERROR
+OTUS - Access level to my_crm_currency::installDB() must be public (as in class CModule) (0)
+OTUS - /home/c/ce120265/public_html/local/modules/my.crm.currency/install/index.php:71
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2026-02-08 17:01:48 - Host: ce120265.tw1.ru - FATAL - [ErrorException] E_COMPILE_ERROR
+OTUS - Access level to my_crm_currency::installDB() must be public (as in class CModule) (0)
+OTUS - /home/c/ce120265/public_html/local/modules/my.crm.currency/install/index.php:71
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2026-02-09 05:58:58 - Host: ce120265.tw1.ru - FATAL - [ErrorException] E_COMPILE_ERROR
+OTUS - Access level to my_crm_currency::installDB() must be public (as in class CModule) (0)
+OTUS - /home/c/ce120265/public_html/local/modules/my.crm.currency/install/index.php:71
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2026-02-09 09:11:44 - Host: ce120265.tw1.ru - FATAL - [ErrorException] E_COMPILE_ERROR
+OTUS - Access level to my_crm_currency::installDB() must be public (as in class CModule) (0)
+OTUS - /home/c/ce120265/public_html/local/modules/my.crm.currency/install/index.php:71
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2026-02-09 14:12:06 - Host: ce120265.tw1.ru - FATAL - [ErrorException] E_COMPILE_ERROR
+OTUS - Access level to my_crm_currency::installDB() must be public (as in class CModule) (0)
+OTUS - /home/c/ce120265/public_html/local/modules/my.crm.currency/install/index.php:71
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2026-02-09 14:12:21 - Host: ce120265.tw1.ru - FATAL - [ErrorException] E_COMPILE_ERROR
+OTUS - Access level to my_crm_currency::installDB() must be public (as in class CModule) (0)
+OTUS - /home/c/ce120265/public_html/local/modules/my.crm.currency/install/index.php:71
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2026-02-09 14:15:32 - Host: ce120265.tw1.ru - FATAL - [ErrorException] E_COMPILE_ERROR
+OTUS - Access level to my_crm_currency::installDB() must be public (as in class CModule) (0)
+OTUS - /home/c/ce120265/public_html/local/modules/my.crm.currency/install/index.php:71
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2026-02-09 14:18:52 - Host: ce120265.tw1.ru - FATAL - [ErrorException] E_COMPILE_ERROR
+OTUS - Access level to my_crm_currency::installDB() must be public (as in class CModule) (0)
+OTUS - /home/c/ce120265/public_html/local/modules/my.crm.currency/install/index.php:71
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2026-02-09 15:29:12 - Host: ce120265.tw1.ru - FATAL - [ErrorException] E_COMPILE_ERROR
+OTUS - Access level to my_crm_currency::installDB() must be public (as in class CModule) (0)
+OTUS - /home/c/ce120265/public_html/local/modules/my.crm.currency/install/index.php:71
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2026-02-09 15:29:48 - Host: ce120265.tw1.ru - FATAL - [ErrorException] E_COMPILE_ERROR
+OTUS - Access level to my_crm_currency::installDB() must be public (as in class CModule) (0)
+OTUS - /home/c/ce120265/public_html/local/modules/my.crm.currency/install/index.php:71
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2026-02-09 15:31:13 - Host: ce120265.tw1.ru - FATAL - [ErrorException] E_COMPILE_ERROR
+OTUS - Access level to my_crm_currency::installDB() must be public (as in class CModule) (0)
+OTUS - /home/c/ce120265/public_html/local/modules/my.crm.currency/install/index.php:71
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2026-02-09 15:32:05 - Host: ce120265.tw1.ru - FATAL - [ErrorException] E_COMPILE_ERROR
+OTUS - Access level to my_crm_currency::installDB() must be public (as in class CModule) (0)
+OTUS - /home/c/ce120265/public_html/local/modules/my.crm.currency/install/index.php:71
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2026-02-09 15:46:47 - Host: ce120265.tw1.ru - FATAL - [ErrorException] E_COMPILE_ERROR
+OTUS - Cannot redeclare class mycrm_currency (previously declared in /home/c/ce120265/public_html/bitrix/modules/mycrm.currency/install/index.php:24) (0)
+OTUS - /home/c/ce120265/public_html/bitrix/modules/mycrm.currency/include.php:18
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2026-02-09 15:53:28 - Host: ce120265.tw1.ru - UNCAUGHT_EXCEPTION - [Error] 
+OTUS - Class "MyCrm\Currency\EventHandler" not found (0)
+OTUS - /home/c/ce120265/public_html/test_crm_tabs.php:23
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2026-02-09 15:56:36 - Host: ce120265.tw1.ru - UNCAUGHT_EXCEPTION - [Error] 
+OTUS - Class "MyCrm\Currency\EventHandler" not found (0)
+OTUS - /home/c/ce120265/public_html/test_crm_tabs.php:23
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2026-02-09 15:58:55 - Host: ce120265.tw1.ru - UNCAUGHT_EXCEPTION - [Error] 
+OTUS - Class "MyCrm\EventHandler" not found (0)
+OTUS - /home/c/ce120265/public_html/test_crm_tabs.php:30
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2026-02-09 16:03:10 - Host: ce120265.tw1.ru - UNCAUGHT_EXCEPTION - [Error] 
+OTUS - Class "MyCrm\EventHandler" not found (0)
+OTUS - /home/c/ce120265/public_html/test_crm_tabs.php:30
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2026-02-09 16:03:13 - Host: ce120265.tw1.ru - UNCAUGHT_EXCEPTION - [Error] 
+OTUS - Class "MyCrm\EventHandler" not found (0)
+OTUS - /home/c/ce120265/public_html/test_crm_tabs.php:30
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2026-02-09 16:03:26 - Host: ce120265.tw1.ru - UNCAUGHT_EXCEPTION - [Error] 
+OTUS - Class "MyCrm\EventHandler" not found (0)
+OTUS - /home/c/ce120265/public_html/test_crm_tabs.php:30
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2026-02-09 16:03:29 - Host: ce120265.tw1.ru - UNCAUGHT_EXCEPTION - [Error] 
+OTUS - Class "MyCrm\EventHandler" not found (0)
+OTUS - /home/c/ce120265/public_html/test_crm_tabs.php:30
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2026-02-09 16:12:38 - Host: ce120265.tw1.ru - UNCAUGHT_EXCEPTION - [Error] 
+OTUS - Class "MyCrm\Data\CurrencyTable" not found (0)
+OTUS - /home/c/ce120265/public_html/bitrix/modules/mycrm.currency/lib/EventHandler.php:64
+OTUS - #0: MyCrm\EventHandler::getCurrencyTabContent(array)
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/mycrm.currency/lib/EventHandler.php:42
+OTUS - #1: MyCrm\EventHandler::onEntityDetailsTabsInitializedHandler(array, array)
+OTUS - 	/home/c/ce120265/public_html/test_crm_tabs.php:73
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2026-02-09 16:17:49 - Host: ce120265.tw1.ru - UNCAUGHT_EXCEPTION - [Error] 
+OTUS - Class "Bitrix\Main\Entity\DecimalField" not found (0)
+OTUS - /home/c/ce120265/public_html/bitrix/modules/mycrm.currency/lib/Data/CurrencyTable.php:34
+OTUS - #0: MyCrm\Data\CurrencyTable::getMap()
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/main/lib/orm/entity.php:232
+OTUS - #1: Bitrix\Main\ORM\Entity->initialize(string)
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/main/lib/orm/entity.php:129
+OTUS - #2: Bitrix\Main\ORM\Entity::getInstanceDirect(string)
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/main/lib/orm/entity.php:108
+OTUS - #3: Bitrix\Main\ORM\Entity::getInstance(string)
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/main/lib/orm/data/datamanager.php:70
+OTUS - #4: Bitrix\Main\ORM\Data\DataManager::getEntity()
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/main/lib/orm/data/datamanager.php:548
+OTUS - #5: Bitrix\Main\ORM\Data\DataManager::query()
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/main/lib/orm/data/datamanager.php:429
+OTUS - #6: Bitrix\Main\ORM\Data\DataManager::getList(array)
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/mycrm.currency/lib/EventHandler.php:64
+OTUS - #7: MyCrm\EventHandler::getCurrencyTabContent(array)
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/mycrm.currency/lib/EventHandler.php:42
+OTUS - #8: MyCrm\EventHandler::onEntityDetailsTabsInitializedHandler(array, array)
+OTUS - 	/home/c/ce120265/public_html/final_test.php:103
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2026-02-09 16:31:49 - Host: ce120265.tw1.ru - UNCAUGHT_EXCEPTION - [Bitrix\Main\DB\SqlQueryException] 
+OTUS - Mysql query error: (1054) Unknown column 'NAME' in 'field list' (400)
+OTUS - 
+OTUS -     UPDATE b_module 
+OTUS -     SET NAME = 'CRM Валюты',
+OTUS -         DESCRIPTION = 'Модуль для отображения валют из каталога в деталях CRM',
+OTUS -         PARTNER_NAME = 'Разработчик'
+OTUS -     WHERE ID = 'mycrm.currency'
+OTUS - 
+OTUS - /home/c/ce120265/public_html/bitrix/modules/main/lib/db/mysqlcommonconnection.php:415
+OTUS - #0: Bitrix\Main\DB\MysqlCommonConnection->createQueryException(integer, string, string)
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/main/classes/general/database.php:670
+OTUS - #1: CAllDatabase->Query(string)
+OTUS - 	/home/c/ce120265/public_html/fix_module_name.php:19
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2026-02-10 08:10:04 - Host: ce120265.tw1.ru - UNCAUGHT_EXCEPTION - [Bitrix\Main\DB\SqlQueryException] 
+OTUS - Mysql query error: (1054) Unknown column 'NAME' in 'field list' (400)
+OTUS - 
+OTUS -     UPDATE b_module 
+OTUS -     SET NAME = 'CRM Валюты',
+OTUS -         DESCRIPTION = 'Модуль для отображения валют из каталога в деталях CRM',
+OTUS -         PARTNER_NAME = 'Разработчик'
+OTUS -     WHERE ID = 'mycrm.currency'
+OTUS - 
+OTUS - /home/c/ce120265/public_html/bitrix/modules/main/lib/db/mysqlcommonconnection.php:415
+OTUS - #0: Bitrix\Main\DB\MysqlCommonConnection->createQueryException(integer, string, string)
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/main/classes/general/database.php:670
+OTUS - #1: CAllDatabase->Query(string)
+OTUS - 	/home/c/ce120265/public_html/fix_module_name.php:19
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2026-02-11 15:48:20 - Host: ce120265.tw1.ru - UNKNOWN - [Error] 
+OTUS - Failed opening required '/home/c/ce120265/public_html/bitrix/modules/main/lib/exception.php' (include_path='.:/opt/php84/share/pear') (0)
+OTUS - /home/c/ce120265/public_html/bitrix/modules/main/lib/loader.php:369
+OTUS - #0: Bitrix\Main\Loader::autoLoad(string)
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/tasks/lib/exception.php:21
+OTUS - #1: require_once(string)
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/main/lib/loader.php:433
+OTUS - #2: Bitrix\Main\Loader::autoLoad(string)
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/tasks/tools.php:9
+OTUS - #3: require_once(string)
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/tasks/include.php:12
+OTUS - #4: include_once(string)
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/main/lib/loader.php:187
+OTUS - #5: Bitrix\Main\Loader::includeModuleInternal(string)
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/main/lib/loader.php:143
+OTUS - #6: Bitrix\Main\Loader::includeModule(string)
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/main/lib/loader.php:173
+OTUS - #7: Bitrix\Main\Loader::requireModule(string)
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/main/lib/Messenger/Internals/Config/QueueConfig.php:35
+OTUS - #8: Bitrix\Main\Messenger\Internals\Config\QueueConfig->createReceiver()
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/main/lib/Messenger/Internals/Worker.php:37
+OTUS - #9: Bitrix\Main\Messenger\Internals\Worker->process()
+OTUS - 	
+OTUS - #10: call_user_func_array(array, array)
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/main/lib/application.php:845
+OTUS - #11: Bitrix\Main\Application->runBackgroundJobs()
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/main/lib/application.php:380
+OTUS - #12: Bitrix\Main\Application->terminate(integer)
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/main/lib/application.php:332
+OTUS - #13: Bitrix\Main\Application->end()
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/main/classes/general/main.php:3703
+OTUS - #14: CAllMain::FinalActions(string)
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/main/include/epilog_admin_after.php:55
+OTUS - #15: require_once(string)
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/main/admin/update_system_call.php:367
+OTUS - #16: require_once(string)
+OTUS - 	/home/c/ce120265/public_html/bitrix/admin/update_system_call.php:2
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2026-02-11 15:48:20 - Host: ce120265.tw1.ru - UNCAUGHT_EXCEPTION - [Error] 
+OTUS - Failed opening required '/home/c/ce120265/public_html/bitrix/modules/main/lib/exception.php' (include_path='.:/opt/php84/share/pear') (0)
+OTUS - /home/c/ce120265/public_html/bitrix/modules/main/lib/loader.php:369
+OTUS - #0: Bitrix\Main\Loader::autoLoad(string)
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/tasks/lib/exception.php:21
+OTUS - #1: require_once(string)
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/main/lib/loader.php:433
+OTUS - #2: Bitrix\Main\Loader::autoLoad(string)
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/tasks/tools.php:9
+OTUS - #3: require_once(string)
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/tasks/include.php:12
+OTUS - #4: include_once(string)
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/main/lib/loader.php:187
+OTUS - #5: Bitrix\Main\Loader::includeModuleInternal(string)
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/main/lib/loader.php:143
+OTUS - #6: Bitrix\Main\Loader::includeModule(string)
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/main/lib/loader.php:173
+OTUS - #7: Bitrix\Main\Loader::requireModule(string)
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/main/lib/Messenger/Internals/Config/QueueConfig.php:35
+OTUS - #8: Bitrix\Main\Messenger\Internals\Config\QueueConfig->createReceiver()
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/main/lib/Messenger/Internals/Worker.php:37
+OTUS - #9: Bitrix\Main\Messenger\Internals\Worker->process()
+OTUS - 	
+OTUS - #10: call_user_func_array(array, array)
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/main/lib/application.php:845
+OTUS - #11: Bitrix\Main\Application->runBackgroundJobs()
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/main/lib/application.php:380
+OTUS - #12: Bitrix\Main\Application->terminate(integer)
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/main/lib/application.php:332
+OTUS - #13: Bitrix\Main\Application->end()
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/main/classes/general/main.php:3703
+OTUS - #14: CAllMain::FinalActions(string)
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/main/include/epilog_admin_after.php:55
+OTUS - #15: require_once(string)
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/main/admin/update_system_call.php:367
+OTUS - #16: require_once(string)
+OTUS - 	/home/c/ce120265/public_html/bitrix/admin/update_system_call.php:2
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2026-02-11 15:49:57 - Host: ce120265.tw1.ru - UNKNOWN - [Bitrix\Main\Config\ConfigurationException] 
+OTUS - The class "Bitrix\Tasks\V2\Internals\Control\Task\Action\Add\Async\Receiver\AddSearchIndex" does not exist (180)
+OTUS - /home/c/ce120265/public_html/bitrix/modules/main/lib/Messenger/Internals/Config/QueueConfig.php:39
+OTUS - #0: Bitrix\Main\Messenger\Internals\Config\QueueConfig->createReceiver()
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/main/lib/Messenger/Internals/Worker.php:37
+OTUS - #1: Bitrix\Main\Messenger\Internals\Worker->process()
+OTUS - 	
+OTUS - #2: call_user_func_array(array, array)
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/main/lib/application.php:845
+OTUS - #3: Bitrix\Main\Application->runBackgroundJobs()
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/main/lib/application.php:380
+OTUS - #4: Bitrix\Main\Application->terminate(integer)
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/main/lib/application.php:332
+OTUS - #5: Bitrix\Main\Application->end()
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/main/classes/general/main.php:3702
+OTUS - #6: CMain::FinalActions(string)
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/main/include/epilog_admin_after.php:55
+OTUS - #7: require_once(string)
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/main/admin/update_system_call.php:367
+OTUS - #8: require_once(string)
+OTUS - 	/home/c/ce120265/public_html/bitrix/admin/update_system_call.php:2
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2026-02-11 15:49:57 - Host: ce120265.tw1.ru - UNCAUGHT_EXCEPTION - [Bitrix\Main\Config\ConfigurationException] 
+OTUS - The class "Bitrix\Tasks\V2\Internals\Control\Task\Action\Add\Async\Receiver\AddSearchIndex" does not exist (180)
+OTUS - /home/c/ce120265/public_html/bitrix/modules/main/lib/Messenger/Internals/Config/QueueConfig.php:39
+OTUS - #0: Bitrix\Main\Messenger\Internals\Config\QueueConfig->createReceiver()
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/main/lib/Messenger/Internals/Worker.php:37
+OTUS - #1: Bitrix\Main\Messenger\Internals\Worker->process()
+OTUS - 	
+OTUS - #2: call_user_func_array(array, array)
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/main/lib/application.php:845
+OTUS - #3: Bitrix\Main\Application->runBackgroundJobs()
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/main/lib/application.php:380
+OTUS - #4: Bitrix\Main\Application->terminate(integer)
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/main/lib/application.php:332
+OTUS - #5: Bitrix\Main\Application->end()
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/main/classes/general/main.php:3702
+OTUS - #6: CMain::FinalActions(string)
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/main/include/epilog_admin_after.php:55
+OTUS - #7: require_once(string)
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/main/admin/update_system_call.php:367
+OTUS - #8: require_once(string)
+OTUS - 	/home/c/ce120265/public_html/bitrix/admin/update_system_call.php:2
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2026-02-14 09:14:51 - Host: ce120265.local - UNCAUGHT_EXCEPTION - [Error] 
+OTUS - Call to undefined method Bitrix\Main\ORM\Query\Result::rewind() (0)
+OTUS - C:\OSPanel\home\ce120265.local\public_html\local\components\mycompany.currency\currency.grid\class.php:330
+OTUS - #0: CurrencyGrid->prepareGridList(object)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\local\components\mycompany.currency\currency.grid\class.php:237
+OTUS - #1: CurrencyGrid->prepareGridData()
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\local\components\mycompany.currency\currency.grid\class.php:149
+OTUS - #2: CurrencyGrid->executeComponent()
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\classes\general\component.php:675
+OTUS - #3: CBitrixComponent->includeComponent(string, array, boolean, boolean)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\classes\general\main.php:1192
+OTUS - #4: CMain->IncludeComponent(string, string, array, boolean)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\components\bitrix\ui.sidepanel.wrapper\templates\.default\content.php:25
+OTUS - #5: include(string)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\classes\general\component_template.php:842
+OTUS - #6: CBitrixComponentTemplate->__IncludePHPTemplate(array, array, string)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\classes\general\component_template.php:951
+OTUS - #7: CBitrixComponentTemplate->IncludeTemplate(array)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\classes\general\component.php:791
+OTUS - #8: CBitrixComponent->showComponentTemplate()
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\classes\general\component.php:731
+OTUS - #9: CBitrixComponent->includeComponentTemplate(string)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\components\bitrix\ui.sidepanel.wrapper\class.php:199
+OTUS - #10: UIPageSliderWrapperComponent->executeComponent()
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\classes\general\component.php:675
+OTUS - #11: CBitrixComponent->includeComponent(string, array, NULL, boolean)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\classes\general\main.php:1192
+OTUS - #12: CMain->IncludeComponent(string, string, array)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\local\components\mycompany.currency\currency.grid\lazyload.ajax.php:76
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2026-02-14 09:28:11 - Host: ce120265.local - UNCAUGHT_EXCEPTION - [Error] 
+OTUS - Call to undefined method Bitrix\Main\ORM\Query\Result::rewind() (0)
+OTUS - C:\OSPanel\home\ce120265.local\public_html\local\components\mycompany.currency\currency.grid\class.php:330
+OTUS - #0: CurrencyGrid->prepareGridList(object)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\local\components\mycompany.currency\currency.grid\class.php:237
+OTUS - #1: CurrencyGrid->prepareGridData()
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\local\components\mycompany.currency\currency.grid\class.php:149
+OTUS - #2: CurrencyGrid->executeComponent()
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\classes\general\component.php:675
+OTUS - #3: CBitrixComponent->includeComponent(string, array, boolean, boolean)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\classes\general\main.php:1192
+OTUS - #4: CMain->IncludeComponent(string, string, array, boolean)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\components\bitrix\ui.sidepanel.wrapper\templates\.default\content.php:25
+OTUS - #5: include(string)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\classes\general\component_template.php:842
+OTUS - #6: CBitrixComponentTemplate->__IncludePHPTemplate(array, array, string)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\classes\general\component_template.php:951
+OTUS - #7: CBitrixComponentTemplate->IncludeTemplate(array)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\classes\general\component.php:791
+OTUS - #8: CBitrixComponent->showComponentTemplate()
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\classes\general\component.php:731
+OTUS - #9: CBitrixComponent->includeComponentTemplate(string)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\components\bitrix\ui.sidepanel.wrapper\class.php:199
+OTUS - #10: UIPageSliderWrapperComponent->executeComponent()
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\classes\general\component.php:675
+OTUS - #11: CBitrixComponent->includeComponent(string, array, NULL, boolean)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\classes\general\main.php:1192
+OTUS - #12: CMain->IncludeComponent(string, string, array)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\local\components\mycompany.currency\currency.grid\lazyload.ajax.php:76
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2026-02-14 10:06:55 - Host: ce120265.local - UNCAUGHT_EXCEPTION - [Error] 
+OTUS - Class "Bitrix\Catalog\CurrencyTable" not found (0)
+OTUS - C:\OSPanel\home\ce120265.local\public_html\local\components\curdb\mycompany.currency\class.php:30
+OTUS - #0: MycompanyCurrencyComponent->executeComponent()
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\classes\general\component.php:675
+OTUS - #1: CBitrixComponent->includeComponent(string, array, boolean, boolean)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\classes\general\main.php:1192
+OTUS - #2: CMain->IncludeComponent(string, string, array, boolean)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\local\components\curdb\currencies.php:10
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2026-02-14 10:31:44 - Host: ce120265.local - UNCAUGHT_EXCEPTION - [Error] 
+OTUS - Call to undefined method Bitrix\Main\ORM\Query\Result::rewind() (0)
+OTUS - C:\OSPanel\home\ce120265.local\public_html\local\components\mycompany.currency\currency.grid\class.php:330
+OTUS - #0: CurrencyGrid->prepareGridList(object)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\local\components\mycompany.currency\currency.grid\class.php:237
+OTUS - #1: CurrencyGrid->prepareGridData()
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\local\components\mycompany.currency\currency.grid\class.php:149
+OTUS - #2: CurrencyGrid->executeComponent()
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\classes\general\component.php:675
+OTUS - #3: CBitrixComponent->includeComponent(string, array, boolean, boolean)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\classes\general\main.php:1192
+OTUS - #4: CMain->IncludeComponent(string, string, array, boolean)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\components\bitrix\ui.sidepanel.wrapper\templates\.default\content.php:25
+OTUS - #5: include(string)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\classes\general\component_template.php:842
+OTUS - #6: CBitrixComponentTemplate->__IncludePHPTemplate(array, array, string)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\classes\general\component_template.php:951
+OTUS - #7: CBitrixComponentTemplate->IncludeTemplate(array)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\classes\general\component.php:791
+OTUS - #8: CBitrixComponent->showComponentTemplate()
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\classes\general\component.php:731
+OTUS - #9: CBitrixComponent->includeComponentTemplate(string)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\components\bitrix\ui.sidepanel.wrapper\class.php:199
+OTUS - #10: UIPageSliderWrapperComponent->executeComponent()
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\classes\general\component.php:675
+OTUS - #11: CBitrixComponent->includeComponent(string, array, NULL, boolean)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\classes\general\main.php:1192
+OTUS - #12: CMain->IncludeComponent(string, string, array)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\local\components\mycompany.currency\currency.grid\lazyload.ajax.php:76
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2026-02-14 10:53:43 - Host: ce120265.local - UNCAUGHT_EXCEPTION - [Error] 
+OTUS - Class "Loc" not found (0)
+OTUS - C:\OSPanel\home\ce120265.local\public_html\local\components\mycompany.currency\currency.grid\templates\.default\template.php:76
+OTUS - #0: include
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\classes\general\component_template.php:842
+OTUS - #1: CBitrixComponentTemplate->__IncludePHPTemplate(array, array, string)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\classes\general\component_template.php:951
+OTUS - #2: CBitrixComponentTemplate->IncludeTemplate(array)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\classes\general\component.php:791
+OTUS - #3: CBitrixComponent->showComponentTemplate()
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\classes\general\component.php:731
+OTUS - #4: CBitrixComponent->includeComponentTemplate()
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\local\components\mycompany.currency\currency.grid\class.php:54
+OTUS - #5: CurrencyGrid->executeComponent()
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\classes\general\component.php:675
+OTUS - #6: CBitrixComponent->includeComponent(string, array, boolean, boolean)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\classes\general\main.php:1192
+OTUS - #7: CMain->IncludeComponent(string, string, array, boolean)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\components\bitrix\ui.sidepanel.wrapper\templates\.default\content.php:25
+OTUS - #8: include(string)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\classes\general\component_template.php:842
+OTUS - #9: CBitrixComponentTemplate->__IncludePHPTemplate(array, array, string)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\classes\general\component_template.php:951
+OTUS - #10: CBitrixComponentTemplate->IncludeTemplate(array)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\classes\general\component.php:791
+OTUS - #11: CBitrixComponent->showComponentTemplate()
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\classes\general\component.php:731
+OTUS - #12: CBitrixComponent->includeComponentTemplate(string)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\components\bitrix\ui.sidepanel.wrapper\class.php:199
+OTUS - #13: UIPageSliderWrapperComponent->executeComponent()
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\classes\general\component.php:675
+OTUS - #14: CBitrixComponent->includeComponent(string, array, NULL, boolean)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\classes\general\main.php:1192
+OTUS - #15: CMain->IncludeComponent(string, string, array)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\local\components\mycompany.currency\currency.grid\lazyload.ajax.php:60
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2026-02-14 10:57:04 - Host: ce120265.local - UNCAUGHT_EXCEPTION - [Error] 
+OTUS - Class "Loc" not found (0)
+OTUS - C:\OSPanel\home\ce120265.local\public_html\local\components\mycompany.currency\currency.grid\templates\.default\template.php:76
+OTUS - #0: include
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\classes\general\component_template.php:842
+OTUS - #1: CBitrixComponentTemplate->__IncludePHPTemplate(array, array, string)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\classes\general\component_template.php:951
+OTUS - #2: CBitrixComponentTemplate->IncludeTemplate(array)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\classes\general\component.php:791
+OTUS - #3: CBitrixComponent->showComponentTemplate()
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\classes\general\component.php:731
+OTUS - #4: CBitrixComponent->includeComponentTemplate()
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\local\components\mycompany.currency\currency.grid\class.php:54
+OTUS - #5: CurrencyGrid->executeComponent()
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\classes\general\component.php:675
+OTUS - #6: CBitrixComponent->includeComponent(string, array, boolean, boolean)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\classes\general\main.php:1192
+OTUS - #7: CMain->IncludeComponent(string, string, array, boolean)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\components\bitrix\ui.sidepanel.wrapper\templates\.default\content.php:25
+OTUS - #8: include(string)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\classes\general\component_template.php:842
+OTUS - #9: CBitrixComponentTemplate->__IncludePHPTemplate(array, array, string)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\classes\general\component_template.php:951
+OTUS - #10: CBitrixComponentTemplate->IncludeTemplate(array)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\classes\general\component.php:791
+OTUS - #11: CBitrixComponent->showComponentTemplate()
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\classes\general\component.php:731
+OTUS - #12: CBitrixComponent->includeComponentTemplate(string)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\components\bitrix\ui.sidepanel.wrapper\class.php:199
+OTUS - #13: UIPageSliderWrapperComponent->executeComponent()
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\classes\general\component.php:675
+OTUS - #14: CBitrixComponent->includeComponent(string, array, NULL, boolean)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\classes\general\main.php:1192
+OTUS - #15: CMain->IncludeComponent(string, string, array)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\local\components\mycompany.currency\currency.grid\lazyload.ajax.php:60
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2026-02-14 10:58:42 - Host: ce120265.local - UNCAUGHT_EXCEPTION - [Error] 
+OTUS - Class "Loc" not found (0)
+OTUS - C:\OSPanel\home\ce120265.local\public_html\local\components\mycompany.currency\currency.grid\templates\.default\template.php:76
+OTUS - #0: include
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\classes\general\component_template.php:842
+OTUS - #1: CBitrixComponentTemplate->__IncludePHPTemplate(array, array, string)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\classes\general\component_template.php:951
+OTUS - #2: CBitrixComponentTemplate->IncludeTemplate(array)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\classes\general\component.php:791
+OTUS - #3: CBitrixComponent->showComponentTemplate()
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\classes\general\component.php:731
+OTUS - #4: CBitrixComponent->includeComponentTemplate()
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\local\components\mycompany.currency\currency.grid\class.php:54
+OTUS - #5: CurrencyGrid->executeComponent()
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\classes\general\component.php:675
+OTUS - #6: CBitrixComponent->includeComponent(string, array, boolean, boolean)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\classes\general\main.php:1192
+OTUS - #7: CMain->IncludeComponent(string, string, array, boolean)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\components\bitrix\ui.sidepanel.wrapper\templates\.default\content.php:25
+OTUS - #8: include(string)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\classes\general\component_template.php:842
+OTUS - #9: CBitrixComponentTemplate->__IncludePHPTemplate(array, array, string)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\classes\general\component_template.php:951
+OTUS - #10: CBitrixComponentTemplate->IncludeTemplate(array)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\classes\general\component.php:791
+OTUS - #11: CBitrixComponent->showComponentTemplate()
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\classes\general\component.php:731
+OTUS - #12: CBitrixComponent->includeComponentTemplate(string)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\components\bitrix\ui.sidepanel.wrapper\class.php:199
+OTUS - #13: UIPageSliderWrapperComponent->executeComponent()
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\classes\general\component.php:675
+OTUS - #14: CBitrixComponent->includeComponent(string, array, NULL, boolean)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\classes\general\main.php:1192
+OTUS - #15: CMain->IncludeComponent(string, string, array)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\local\components\mycompany.currency\currency.grid\lazyload.ajax.php:60
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2026-02-14 11:01:13 - Host: ce120265.local - UNCAUGHT_EXCEPTION - [Error] 
+OTUS - Class "Loc" not found (0)
+OTUS - C:\OSPanel\home\ce120265.local\public_html\local\components\mycompany.currency\currency.grid\templates\.default\template.php:76
+OTUS - #0: include
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\classes\general\component_template.php:842
+OTUS - #1: CBitrixComponentTemplate->__IncludePHPTemplate(array, array, string)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\classes\general\component_template.php:951
+OTUS - #2: CBitrixComponentTemplate->IncludeTemplate(array)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\classes\general\component.php:791
+OTUS - #3: CBitrixComponent->showComponentTemplate()
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\classes\general\component.php:731
+OTUS - #4: CBitrixComponent->includeComponentTemplate()
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\local\components\mycompany.currency\currency.grid\class.php:54
+OTUS - #5: CurrencyGrid->executeComponent()
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\classes\general\component.php:675
+OTUS - #6: CBitrixComponent->includeComponent(string, array, boolean, boolean)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\classes\general\main.php:1192
+OTUS - #7: CMain->IncludeComponent(string, string, array, boolean)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\components\bitrix\ui.sidepanel.wrapper\templates\.default\content.php:25
+OTUS - #8: include(string)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\classes\general\component_template.php:842
+OTUS - #9: CBitrixComponentTemplate->__IncludePHPTemplate(array, array, string)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\classes\general\component_template.php:951
+OTUS - #10: CBitrixComponentTemplate->IncludeTemplate(array)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\classes\general\component.php:791
+OTUS - #11: CBitrixComponent->showComponentTemplate()
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\classes\general\component.php:731
+OTUS - #12: CBitrixComponent->includeComponentTemplate(string)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\components\bitrix\ui.sidepanel.wrapper\class.php:199
+OTUS - #13: UIPageSliderWrapperComponent->executeComponent()
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\classes\general\component.php:675
+OTUS - #14: CBitrixComponent->includeComponent(string, array, NULL, boolean)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\classes\general\main.php:1192
+OTUS - #15: CMain->IncludeComponent(string, string, array)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\local\components\mycompany.currency\currency.grid\lazyload.ajax.php:60
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2026-02-14 11:19:25 - Host: ce120265.local - UNCAUGHT_EXCEPTION - [Error] 
+OTUS - Class "Loc" not found (0)
+OTUS - C:\OSPanel\home\ce120265.local\public_html\local\components\mycompany.currency\currency.grid\templates\.default\template.php:76
+OTUS - #0: include
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\classes\general\component_template.php:842
+OTUS - #1: CBitrixComponentTemplate->__IncludePHPTemplate(array, array, string)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\classes\general\component_template.php:951
+OTUS - #2: CBitrixComponentTemplate->IncludeTemplate(array)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\classes\general\component.php:791
+OTUS - #3: CBitrixComponent->showComponentTemplate()
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\classes\general\component.php:731
+OTUS - #4: CBitrixComponent->includeComponentTemplate()
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\local\components\mycompany.currency\currency.grid\class.php:54
+OTUS - #5: CurrencyGrid->executeComponent()
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\classes\general\component.php:675
+OTUS - #6: CBitrixComponent->includeComponent(string, array, boolean, boolean)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\classes\general\main.php:1192
+OTUS - #7: CMain->IncludeComponent(string, string, array, boolean)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\local\test_currency.php:56
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2026-02-14 11:22:24 - Host: ce120265.local - UNCAUGHT_EXCEPTION - [Error] 
+OTUS - Class "Loc" not found (0)
+OTUS - C:\OSPanel\home\ce120265.local\public_html\local\components\mycompany.currency\currency.grid\templates\.default\template.php:76
+OTUS - #0: include
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\classes\general\component_template.php:842
+OTUS - #1: CBitrixComponentTemplate->__IncludePHPTemplate(array, array, string)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\classes\general\component_template.php:951
+OTUS - #2: CBitrixComponentTemplate->IncludeTemplate(array)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\classes\general\component.php:791
+OTUS - #3: CBitrixComponent->showComponentTemplate()
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\classes\general\component.php:731
+OTUS - #4: CBitrixComponent->includeComponentTemplate()
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\local\components\mycompany.currency\currency.grid\class.php:54
+OTUS - #5: CurrencyGrid->executeComponent()
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\classes\general\component.php:675
+OTUS - #6: CBitrixComponent->includeComponent(string, array, boolean, boolean)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\classes\general\main.php:1192
+OTUS - #7: CMain->IncludeComponent(string, string, array, boolean)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\local\test_currency.php:56
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2026-02-14 11:31:58 - Host: ce120265.local - UNCAUGHT_EXCEPTION - [TypeError] 
+OTUS - CurrencyGrid::getNavigation(): Return value must be of type Bitrix\Main\UI\PageNavigation, null returned (0)
+OTUS - C:\OSPanel\home\ce120265.local\public_html\local\components\mycompany.currency\currency.grid\class.php:213
+OTUS - #0: CurrencyGrid->getNavigation()
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\local\components\mycompany.currency\currency.grid\templates\.default\template.php:11
+OTUS - #1: include(string)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\classes\general\component_template.php:842
+OTUS - #2: CBitrixComponentTemplate->__IncludePHPTemplate(array, array, string)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\classes\general\component_template.php:951
+OTUS - #3: CBitrixComponentTemplate->IncludeTemplate(array)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\classes\general\component.php:791
+OTUS - #4: CBitrixComponent->showComponentTemplate()
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\classes\general\component.php:731
+OTUS - #5: CBitrixComponent->includeComponentTemplate()
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\local\components\mycompany.currency\currency.grid\class.php:56
+OTUS - #6: CurrencyGrid->executeComponent()
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\classes\general\component.php:675
+OTUS - #7: CBitrixComponent->includeComponent(string, array, boolean, boolean)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\classes\general\main.php:1192
+OTUS - #8: CMain->IncludeComponent(string, string, array, boolean, array)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\local\components\mycompany.currency\currency.grid\lazyload.ajax.php:58
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2026-02-14 11:32:11 - Host: ce120265.local - UNCAUGHT_EXCEPTION - [TypeError] 
+OTUS - CurrencyGrid::getNavigation(): Return value must be of type Bitrix\Main\UI\PageNavigation, null returned (0)
+OTUS - C:\OSPanel\home\ce120265.local\public_html\local\components\mycompany.currency\currency.grid\class.php:213
+OTUS - #0: CurrencyGrid->getNavigation()
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\local\components\mycompany.currency\currency.grid\templates\.default\template.php:11
+OTUS - #1: include(string)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\classes\general\component_template.php:842
+OTUS - #2: CBitrixComponentTemplate->__IncludePHPTemplate(array, array, string)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\classes\general\component_template.php:951
+OTUS - #3: CBitrixComponentTemplate->IncludeTemplate(array)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\classes\general\component.php:791
+OTUS - #4: CBitrixComponent->showComponentTemplate()
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\classes\general\component.php:731
+OTUS - #5: CBitrixComponent->includeComponentTemplate()
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\local\components\mycompany.currency\currency.grid\class.php:56
+OTUS - #6: CurrencyGrid->executeComponent()
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\classes\general\component.php:675
+OTUS - #7: CBitrixComponent->includeComponent(string, array, boolean, boolean)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\classes\general\main.php:1192
+OTUS - #8: CMain->IncludeComponent(string, string, array, boolean)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\local\test_currency.php:56
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2026-02-14 11:34:47 - Host: ce120265.local - UNCAUGHT_EXCEPTION - [Error] 
+OTUS - Class "Mycompany\Currency\Orm\CurrencyTable" not found (0)
+OTUS - C:\OSPanel\home\ce120265.local\public_html\bitrix\components\mycompany.currency\currency.grid\class.php:198
+OTUS - #0: CurrencyGrid->prepareGridData()
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\components\mycompany.currency\currency.grid\class.php:149
+OTUS - #1: CurrencyGrid->executeComponent()
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\classes\general\component.php:675
+OTUS - #2: CBitrixComponent->includeComponent(string, array, boolean, boolean)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\classes\general\main.php:1192
+OTUS - #3: CMain->IncludeComponent(string, string, array, boolean)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\local\test_currency.php:56
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2026-02-14 11:35:21 - Host: ce120265.local - UNCAUGHT_EXCEPTION - [TypeError] 
+OTUS - CurrencyGrid::getNavigation(): Return value must be of type Bitrix\Main\UI\PageNavigation, null returned (0)
+OTUS - C:\OSPanel\home\ce120265.local\public_html\local\components\mycompany.currency\currency.grid\class.php:213
+OTUS - #0: CurrencyGrid->getNavigation()
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\local\components\mycompany.currency\currency.grid\templates\.default\template.php:11
+OTUS - #1: include(string)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\classes\general\component_template.php:842
+OTUS - #2: CBitrixComponentTemplate->__IncludePHPTemplate(array, array, string)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\classes\general\component_template.php:951
+OTUS - #3: CBitrixComponentTemplate->IncludeTemplate(array)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\classes\general\component.php:791
+OTUS - #4: CBitrixComponent->showComponentTemplate()
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\classes\general\component.php:731
+OTUS - #5: CBitrixComponent->includeComponentTemplate()
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\local\components\mycompany.currency\currency.grid\class.php:56
+OTUS - #6: CurrencyGrid->executeComponent()
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\classes\general\component.php:675
+OTUS - #7: CBitrixComponent->includeComponent(string, array, boolean, boolean)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\classes\general\main.php:1192
+OTUS - #8: CMain->IncludeComponent(string, string, array, boolean, array)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\local\components\mycompany.currency\currency.grid\lazyload.ajax.php:58
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2026-02-14 11:35:32 - Host: ce120265.local - UNCAUGHT_EXCEPTION - [TypeError] 
+OTUS - CurrencyGrid::getNavigation(): Return value must be of type Bitrix\Main\UI\PageNavigation, null returned (0)
+OTUS - C:\OSPanel\home\ce120265.local\public_html\local\components\mycompany.currency\currency.grid\class.php:213
+OTUS - #0: CurrencyGrid->getNavigation()
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\local\components\mycompany.currency\currency.grid\templates\.default\template.php:11
+OTUS - #1: include(string)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\classes\general\component_template.php:842
+OTUS - #2: CBitrixComponentTemplate->__IncludePHPTemplate(array, array, string)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\classes\general\component_template.php:951
+OTUS - #3: CBitrixComponentTemplate->IncludeTemplate(array)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\classes\general\component.php:791
+OTUS - #4: CBitrixComponent->showComponentTemplate()
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\classes\general\component.php:731
+OTUS - #5: CBitrixComponent->includeComponentTemplate()
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\local\components\mycompany.currency\currency.grid\class.php:56
+OTUS - #6: CurrencyGrid->executeComponent()
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\classes\general\component.php:675
+OTUS - #7: CBitrixComponent->includeComponent(string, array, boolean, boolean)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\classes\general\main.php:1192
+OTUS - #8: CMain->IncludeComponent(string, string, array, boolean)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\local\test_currency.php:56
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2026-02-14 11:37:05 - Host: ce120265.local - UNCAUGHT_EXCEPTION - [TypeError] 
+OTUS - CurrencyGrid::getNavigation(): Return value must be of type Bitrix\Main\UI\PageNavigation, null returned (0)
+OTUS - C:\OSPanel\home\ce120265.local\public_html\local\components\mycompany.currency\currency.grid\class.php:213
+OTUS - #0: CurrencyGrid->getNavigation()
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\local\components\mycompany.currency\currency.grid\templates\.default\template.php:11
+OTUS - #1: include(string)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\classes\general\component_template.php:842
+OTUS - #2: CBitrixComponentTemplate->__IncludePHPTemplate(array, array, string)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\classes\general\component_template.php:951
+OTUS - #3: CBitrixComponentTemplate->IncludeTemplate(array)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\classes\general\component.php:791
+OTUS - #4: CBitrixComponent->showComponentTemplate()
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\classes\general\component.php:731
+OTUS - #5: CBitrixComponent->includeComponentTemplate()
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\local\components\mycompany.currency\currency.grid\class.php:56
+OTUS - #6: CurrencyGrid->executeComponent()
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\classes\general\component.php:675
+OTUS - #7: CBitrixComponent->includeComponent(string, array, boolean, boolean)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\classes\general\main.php:1192
+OTUS - #8: CMain->IncludeComponent(string, string, array, boolean)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\local\test_currency.php:56
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2026-02-14 11:41:43 - Host: ce120265.local - UNCAUGHT_EXCEPTION - [Error] 
+OTUS - Class "Loc" not found (0)
+OTUS - C:\OSPanel\home\ce120265.local\public_html\local\components\mycompany.currency\currency.grid\templates\.default\template.php:76
+OTUS - #0: include
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\classes\general\component_template.php:842
+OTUS - #1: CBitrixComponentTemplate->__IncludePHPTemplate(array, array, string)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\classes\general\component_template.php:951
+OTUS - #2: CBitrixComponentTemplate->IncludeTemplate(array)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\classes\general\component.php:791
+OTUS - #3: CBitrixComponent->showComponentTemplate()
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\classes\general\component.php:731
+OTUS - #4: CBitrixComponent->includeComponentTemplate()
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\local\components\mycompany.currency\currency.grid\class.php:54
+OTUS - #5: CurrencyGrid->executeComponent()
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\classes\general\component.php:675
+OTUS - #6: CBitrixComponent->includeComponent(string, array, boolean, boolean)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\classes\general\main.php:1192
+OTUS - #7: CMain->IncludeComponent(string, string, array, boolean)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\local\test_currency.php:56
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2026-02-14 11:43:34 - Host: ce120265.local - UNCAUGHT_EXCEPTION - [TypeError] 
+OTUS - CurrencyGrid::getNavigation(): Return value must be of type Bitrix\Main\UI\PageNavigation, null returned (0)
+OTUS - C:\OSPanel\home\ce120265.local\public_html\local\components\mycompany.currency\currency.grid\class.php:200
+OTUS - #0: CurrencyGrid->getNavigation()
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\local\components\mycompany.currency\currency.grid\templates\.default\template.php:9
+OTUS - #1: include(string)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\classes\general\component_template.php:842
+OTUS - #2: CBitrixComponentTemplate->__IncludePHPTemplate(array, array, string)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\classes\general\component_template.php:951
+OTUS - #3: CBitrixComponentTemplate->IncludeTemplate(array)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\classes\general\component.php:791
+OTUS - #4: CBitrixComponent->showComponentTemplate()
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\classes\general\component.php:731
+OTUS - #5: CBitrixComponent->includeComponentTemplate()
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\local\components\mycompany.currency\currency.grid\class.php:56
+OTUS - #6: CurrencyGrid->executeComponent()
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\classes\general\component.php:675
+OTUS - #7: CBitrixComponent->includeComponent(string, array, boolean, boolean)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\classes\general\main.php:1192
+OTUS - #8: CMain->IncludeComponent(string, string, array, boolean)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\local\test_currency.php:56
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2026-02-14 11:44:29 - Host: ce120265.local - UNCAUGHT_EXCEPTION - [TypeError] 
+OTUS - CurrencyGrid::getNavigation(): Return value must be of type Bitrix\Main\UI\PageNavigation, null returned (0)
+OTUS - C:\OSPanel\home\ce120265.local\public_html\local\components\mycompany.currency\currency.grid\class.php:214
+OTUS - #0: CurrencyGrid->getNavigation()
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\local\components\mycompany.currency\currency.grid\templates\.default\template.php:9
+OTUS - #1: include(string)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\classes\general\component_template.php:842
+OTUS - #2: CBitrixComponentTemplate->__IncludePHPTemplate(array, array, string)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\classes\general\component_template.php:951
+OTUS - #3: CBitrixComponentTemplate->IncludeTemplate(array)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\classes\general\component.php:791
+OTUS - #4: CBitrixComponent->showComponentTemplate()
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\classes\general\component.php:731
+OTUS - #5: CBitrixComponent->includeComponentTemplate()
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\local\components\mycompany.currency\currency.grid\class.php:56
+OTUS - #6: CurrencyGrid->executeComponent()
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\classes\general\component.php:675
+OTUS - #7: CBitrixComponent->includeComponent(string, array, boolean, boolean)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\classes\general\main.php:1192
+OTUS - #8: CMain->IncludeComponent(string, string, array, boolean)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\local\test_currency.php:56
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2026-02-14 11:45:36 - Host: ce120265.local - UNCAUGHT_EXCEPTION - [TypeError] 
+OTUS - CurrencyGrid::getNavigation(): Return value must be of type Bitrix\Main\UI\PageNavigation, null returned (0)
+OTUS - C:\OSPanel\home\ce120265.local\public_html\local\components\mycompany.currency\currency.grid\class.php:214
+OTUS - #0: CurrencyGrid->getNavigation()
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\local\components\mycompany.currency\currency.grid\templates\.default\template.php:9
+OTUS - #1: include(string)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\classes\general\component_template.php:842
+OTUS - #2: CBitrixComponentTemplate->__IncludePHPTemplate(array, array, string)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\classes\general\component_template.php:951
+OTUS - #3: CBitrixComponentTemplate->IncludeTemplate(array)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\classes\general\component.php:791
+OTUS - #4: CBitrixComponent->showComponentTemplate()
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\classes\general\component.php:731
+OTUS - #5: CBitrixComponent->includeComponentTemplate()
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\local\components\mycompany.currency\currency.grid\class.php:56
+OTUS - #6: CurrencyGrid->executeComponent()
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\classes\general\component.php:675
+OTUS - #7: CBitrixComponent->includeComponent(string, array, boolean, boolean)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\classes\general\main.php:1192
+OTUS - #8: CMain->IncludeComponent(string, string, array, boolean)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\local\test_currency.php:56
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2026-02-14 11:46:33 - Host: ce120265.local - UNCAUGHT_EXCEPTION - [TypeError] 
+OTUS - CurrencyGrid::getNavigation(): Return value must be of type Bitrix\Main\UI\PageNavigation, null returned (0)
+OTUS - C:\OSPanel\home\ce120265.local\public_html\local\components\mycompany.currency\currency.grid\class.php:214
+OTUS - #0: CurrencyGrid->getNavigation()
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\local\components\mycompany.currency\currency.grid\templates\.default\template.php:9
+OTUS - #1: include(string)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\classes\general\component_template.php:842
+OTUS - #2: CBitrixComponentTemplate->__IncludePHPTemplate(array, array, string)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\classes\general\component_template.php:951
+OTUS - #3: CBitrixComponentTemplate->IncludeTemplate(array)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\classes\general\component.php:791
+OTUS - #4: CBitrixComponent->showComponentTemplate()
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\classes\general\component.php:731
+OTUS - #5: CBitrixComponent->includeComponentTemplate()
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\local\components\mycompany.currency\currency.grid\class.php:56
+OTUS - #6: CurrencyGrid->executeComponent()
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\classes\general\component.php:675
+OTUS - #7: CBitrixComponent->includeComponent(string, array, boolean, boolean)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\classes\general\main.php:1192
+OTUS - #8: CMain->IncludeComponent(string, string, array, boolean)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\local\test_currency.php:56
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2026-02-14 11:48:07 - Host: ce120265.local - UNCAUGHT_EXCEPTION - [TypeError] 
+OTUS - CurrencyGrid::getNavigation(): Return value must be of type Bitrix\Main\UI\PageNavigation, null returned (0)
+OTUS - C:\OSPanel\home\ce120265.local\public_html\local\components\mycompany.currency\currency.grid\class.php:214
+OTUS - #0: CurrencyGrid->getNavigation()
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\local\components\mycompany.currency\currency.grid\templates\.default\template.php:9
+OTUS - #1: include(string)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\classes\general\component_template.php:842
+OTUS - #2: CBitrixComponentTemplate->__IncludePHPTemplate(array, array, string)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\classes\general\component_template.php:951
+OTUS - #3: CBitrixComponentTemplate->IncludeTemplate(array)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\classes\general\component.php:791
+OTUS - #4: CBitrixComponent->showComponentTemplate()
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\classes\general\component.php:731
+OTUS - #5: CBitrixComponent->includeComponentTemplate()
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\local\components\mycompany.currency\currency.grid\class.php:56
+OTUS - #6: CurrencyGrid->executeComponent()
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\classes\general\component.php:675
+OTUS - #7: CBitrixComponent->includeComponent(string, array, boolean, boolean)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\classes\general\main.php:1192
+OTUS - #8: CMain->IncludeComponent(string, string, array, boolean)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\local\test_currency.php:56
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2026-02-14 11:48:59 - Host: ce120265.local - UNCAUGHT_EXCEPTION - [TypeError] 
+OTUS - CurrencyGrid::getNavigation(): Return value must be of type Bitrix\Main\UI\PageNavigation, null returned (0)
+OTUS - C:\OSPanel\home\ce120265.local\public_html\local\components\mycompany.currency\currency.grid\class.php:214
+OTUS - #0: CurrencyGrid->getNavigation()
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\local\components\mycompany.currency\currency.grid\templates\.default\template.php:11
+OTUS - #1: include(string)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\classes\general\component_template.php:842
+OTUS - #2: CBitrixComponentTemplate->__IncludePHPTemplate(array, array, string)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\classes\general\component_template.php:951
+OTUS - #3: CBitrixComponentTemplate->IncludeTemplate(array)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\classes\general\component.php:791
+OTUS - #4: CBitrixComponent->showComponentTemplate()
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\classes\general\component.php:731
+OTUS - #5: CBitrixComponent->includeComponentTemplate()
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\local\components\mycompany.currency\currency.grid\class.php:56
+OTUS - #6: CurrencyGrid->executeComponent()
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\classes\general\component.php:675
+OTUS - #7: CBitrixComponent->includeComponent(string, array, boolean, boolean)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\classes\general\main.php:1192
+OTUS - #8: CMain->IncludeComponent(string, string, array, boolean)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\local\test_currency.php:56
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2026-02-14 12:27:33 - Host: ce120265.local - UNCAUGHT_EXCEPTION - [TypeError] 
+OTUS - call_user_func_array(): Argument #1 ($callback) must be a valid callback, class Mycompany\Currency\Crm\Handlers does not have a method "updateTabs" (0)
+OTUS - C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\lib\eventmanager.php:445
+OTUS - #0: call_user_func_array(array, array)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\lib\eventmanager.php:445
+OTUS - #1: Bitrix\Main\EventManager->sendToEventHandler(array, object)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\lib\eventmanager.php:381
+OTUS - #2: Bitrix\Main\EventManager->send(object)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\components\bitrix\crm.entity.details\class.php:324
+OTUS - #3: CCrmEntityPopupComponent->updateTabsByEvent(array)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\components\bitrix\crm.entity.details\class.php:117
+OTUS - #4: CCrmEntityPopupComponent->executeComponent()
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\classes\general\component.php:675
+OTUS - #5: CBitrixComponent->includeComponent(string, array, NULL, boolean)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\classes\general\main.php:1192
+OTUS - #6: CMain->IncludeComponent(string, string, array)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\components\bitrix\crm.deal.details\templates\.default\template.php:100
+OTUS - #7: include(string)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\classes\general\component_template.php:842
+OTUS - #8: CBitrixComponentTemplate->__IncludePHPTemplate(array, array, string)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\classes\general\component_template.php:951
+OTUS - #9: CBitrixComponentTemplate->IncludeTemplate(array)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\classes\general\component.php:791
+OTUS - #10: CBitrixComponent->showComponentTemplate()
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\classes\general\component.php:731
+OTUS - #11: CBitrixComponent->includeComponentTemplate()
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\components\bitrix\crm.deal.details\class.php:1042
+OTUS - #12: CCrmDealDetailsComponent->executeComponent()
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\classes\general\component.php:675
+OTUS - #13: CBitrixComponent->includeComponent(string, array, boolean, boolean)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\classes\general\main.php:1192
+OTUS - #14: CMain->IncludeComponent(string, string, array, boolean)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\components\bitrix\ui.sidepanel.wrapper\templates\.default\content.php:25
+OTUS - #15: include(string)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\components\bitrix\ui.sidepanel.wrapper\templates\.default\template.php:286
+OTUS - #16: include(string)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\classes\general\component_template.php:842
+OTUS - #17: CBitrixComponentTemplate->__IncludePHPTemplate(array, array, string)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\classes\general\component_template.php:951
+OTUS - #18: CBitrixComponentTemplate->IncludeTemplate(array)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\classes\general\component.php:791
+OTUS - #19: CBitrixComponent->showComponentTemplate()
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\classes\general\component.php:731
+OTUS - #20: CBitrixComponent->includeComponentTemplate()
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\components\bitrix\ui.sidepanel.wrapper\class.php:181
+OTUS - #21: UIPageSliderWrapperComponent->executeComponent()
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\classes\general\component.php:675
+OTUS - #22: CBitrixComponent->includeComponent(string, array, NULL, boolean)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\classes\general\main.php:1192
+OTUS - #23: CMain->IncludeComponent(string, string, array)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\components\bitrix\crm.entity.details.frame\templates\.default\template.php:19
+OTUS - #24: include(string)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\classes\general\component_template.php:842
+OTUS - #25: CBitrixComponentTemplate->__IncludePHPTemplate(array, array, string)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\classes\general\component_template.php:951
+OTUS - #26: CBitrixComponentTemplate->IncludeTemplate(array)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\classes\general\component.php:791
+OTUS - #27: CBitrixComponent->showComponentTemplate()
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\classes\general\component.php:731
+OTUS - #28: CBitrixComponent->includeComponentTemplate()
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\components\bitrix\crm.entity.details.frame\class.php:36
+OTUS - #29: CCrmEntityDetailsFrameComponent->executeComponent()
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\classes\general\component.php:675
+OTUS - #30: CBitrixComponent->includeComponent(string, array, NULL, boolean)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\classes\general\main.php:1192
+OTUS - #31: CMain->IncludeComponent(string, string, array)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\components\bitrix\crm.deal\templates\.default\details.php:13
+OTUS - #32: include(string)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\classes\general\component_template.php:842
+OTUS - #33: CBitrixComponentTemplate->__IncludePHPTemplate(array, array, string)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\classes\general\component_template.php:951
+OTUS - #34: CBitrixComponentTemplate->IncludeTemplate(array)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\classes\general\component.php:791
+OTUS - #35: CBitrixComponent->showComponentTemplate()
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\classes\general\component.php:731
+OTUS - #36: CBitrixComponent->includeComponentTemplate(string)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\components\bitrix\crm.deal\component.php:461
+OTUS - #37: include(string)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\classes\general\component.php:622
+OTUS - #38: CBitrixComponent->__includeComponent()
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\classes\general\component.php:699
+OTUS - #39: CBitrixComponent->includeComponent(string, array, NULL, boolean)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\classes\general\main.php:1192
+OTUS - #40: CMain->IncludeComponent(string, string, array)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\crm\deal\index.php:8
+OTUS - #41: include_once(string)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\include\urlrewrite.php:128
+OTUS - #42: include_once(string)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\urlrewrite.php:2
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2026-02-14 12:29:20 - Host: ce120265.local - UNCAUGHT_EXCEPTION - [TypeError] 
+OTUS - call_user_func_array(): Argument #1 ($callback) must be a valid callback, class Mycompany\Currency\Crm\Handlers does not have a method "updateTabs" (0)
+OTUS - C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\lib\eventmanager.php:445
+OTUS - #0: call_user_func_array(array, array)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\lib\eventmanager.php:445
+OTUS - #1: Bitrix\Main\EventManager->sendToEventHandler(array, object)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\lib\eventmanager.php:381
+OTUS - #2: Bitrix\Main\EventManager->send(object)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\components\bitrix\crm.entity.details\class.php:324
+OTUS - #3: CCrmEntityPopupComponent->updateTabsByEvent(array)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\components\bitrix\crm.entity.details\class.php:117
+OTUS - #4: CCrmEntityPopupComponent->executeComponent()
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\classes\general\component.php:675
+OTUS - #5: CBitrixComponent->includeComponent(string, array, NULL, boolean)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\classes\general\main.php:1192
+OTUS - #6: CMain->IncludeComponent(string, string, array)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\components\bitrix\crm.deal.details\templates\.default\template.php:100
+OTUS - #7: include(string)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\classes\general\component_template.php:842
+OTUS - #8: CBitrixComponentTemplate->__IncludePHPTemplate(array, array, string)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\classes\general\component_template.php:951
+OTUS - #9: CBitrixComponentTemplate->IncludeTemplate(array)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\classes\general\component.php:791
+OTUS - #10: CBitrixComponent->showComponentTemplate()
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\classes\general\component.php:731
+OTUS - #11: CBitrixComponent->includeComponentTemplate()
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\components\bitrix\crm.deal.details\class.php:1042
+OTUS - #12: CCrmDealDetailsComponent->executeComponent()
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\classes\general\component.php:675
+OTUS - #13: CBitrixComponent->includeComponent(string, array, boolean, boolean)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\classes\general\main.php:1192
+OTUS - #14: CMain->IncludeComponent(string, string, array, boolean)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\components\bitrix\ui.sidepanel.wrapper\templates\.default\content.php:25
+OTUS - #15: include(string)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\components\bitrix\ui.sidepanel.wrapper\templates\.default\template.php:286
+OTUS - #16: include(string)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\classes\general\component_template.php:842
+OTUS - #17: CBitrixComponentTemplate->__IncludePHPTemplate(array, array, string)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\classes\general\component_template.php:951
+OTUS - #18: CBitrixComponentTemplate->IncludeTemplate(array)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\classes\general\component.php:791
+OTUS - #19: CBitrixComponent->showComponentTemplate()
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\classes\general\component.php:731
+OTUS - #20: CBitrixComponent->includeComponentTemplate()
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\components\bitrix\ui.sidepanel.wrapper\class.php:181
+OTUS - #21: UIPageSliderWrapperComponent->executeComponent()
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\classes\general\component.php:675
+OTUS - #22: CBitrixComponent->includeComponent(string, array, NULL, boolean)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\classes\general\main.php:1192
+OTUS - #23: CMain->IncludeComponent(string, string, array)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\components\bitrix\crm.entity.details.frame\templates\.default\template.php:19
+OTUS - #24: include(string)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\classes\general\component_template.php:842
+OTUS - #25: CBitrixComponentTemplate->__IncludePHPTemplate(array, array, string)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\classes\general\component_template.php:951
+OTUS - #26: CBitrixComponentTemplate->IncludeTemplate(array)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\classes\general\component.php:791
+OTUS - #27: CBitrixComponent->showComponentTemplate()
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\classes\general\component.php:731
+OTUS - #28: CBitrixComponent->includeComponentTemplate()
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\components\bitrix\crm.entity.details.frame\class.php:36
+OTUS - #29: CCrmEntityDetailsFrameComponent->executeComponent()
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\classes\general\component.php:675
+OTUS - #30: CBitrixComponent->includeComponent(string, array, NULL, boolean)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\classes\general\main.php:1192
+OTUS - #31: CMain->IncludeComponent(string, string, array)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\components\bitrix\crm.deal\templates\.default\details.php:13
+OTUS - #32: include(string)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\classes\general\component_template.php:842
+OTUS - #33: CBitrixComponentTemplate->__IncludePHPTemplate(array, array, string)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\classes\general\component_template.php:951
+OTUS - #34: CBitrixComponentTemplate->IncludeTemplate(array)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\classes\general\component.php:791
+OTUS - #35: CBitrixComponent->showComponentTemplate()
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\classes\general\component.php:731
+OTUS - #36: CBitrixComponent->includeComponentTemplate(string)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\components\bitrix\crm.deal\component.php:461
+OTUS - #37: include(string)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\classes\general\component.php:622
+OTUS - #38: CBitrixComponent->__includeComponent()
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\classes\general\component.php:699
+OTUS - #39: CBitrixComponent->includeComponent(string, array, NULL, boolean)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\classes\general\main.php:1192
+OTUS - #40: CMain->IncludeComponent(string, string, array)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\crm\deal\index.php:8
+OTUS - #41: include_once(string)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\modules\main\include\urlrewrite.php:128
+OTUS - #42: include_once(string)
+OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\urlrewrite.php:2
+OTUS - ----------
+OTUS - 
 OTUS - 

@@ -5,6 +5,7 @@ use Bitrix\Iblock\IblockTable;
 use Bitrix\Main\Loader;
 
 require($_SERVER["DOCUMENT_ROOT"] . "/bitrix/header.php"); 
+//+++++++++++++++++++++++require $_SERVER["DOCUMENT_ROOT"].'/vendor/autoload.php';
 //Компиляция таблицы Врачей
 IblockTable::compileEntity('Doctors');
 $docClass = \Bitrix\Iblock\Elements\ElementDoctorsTable::class;
@@ -102,12 +103,13 @@ $arrDoctors = $docClass::query()
     ->setOrder(['NAME' => 'ASC'])
     ->fetchAll();
 
+//+++++++++++++++++++++++dump($arrDoctors);
 //Получаем массив специализаций
 $arrSpecialization = $specClass::query()
     ->setSelect(['ID', 'NAME'])
     ->setOrder(['NAME' => 'ASC'])
     ->fetchAll();
-
+//+++++++++++++++++++++++dump($arrSpecialization);
 /* //обходим массив врачей для формирования списка специализаций
 for ($i=0; $i < count($arrDoctors);$i++){
     //получаем массив специализаций

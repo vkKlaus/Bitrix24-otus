@@ -8,7 +8,7 @@ $APPLICATION->IncludeComponent(
 	"otus:currency.rate", 
 	".default", 
 	array(
-		"CURRENCY_CODE" => "RUB",
+		"CURRENCY_CODE" => "USD",
 		"CACHE_TIME" => "3600",
 		"CACHE_TYPE" => "A",
 		"COMPONENT_TEMPLATE" => ".default"
