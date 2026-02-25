@@ -62,3 +62,5 @@ if (file_exists(__DIR__ . '/classes/autoload.php'))
 // init_books.php обычно содержит: регистрацию обработчиков событий, константы,
 // инициализацию ORM-классов для работы с таблицами книг, авторов и т.д.
 require_once __DIR__ . '/init_books.php';
+
+require_once __DIR__ . '/init_workday.php';
