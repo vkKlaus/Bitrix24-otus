@@ -2389,4 +2389,416 @@ OTUS - #42: include_once(string)
 OTUS - 	C:\OSPanel\home\ce120265.local\public_html\bitrix\urlrewrite.php:2
 OTUS - ----------
 OTUS - 
+OTUS - OTUS - 2026-03-11 11:03:21 - Host: ce120265.tw1.ru - UNCAUGHT_EXCEPTION - [ParseError] 
+OTUS - syntax error, unexpected token "<", expecting end of file (0)
+OTUS - /home/c/ce120265/public_html/bitrix/activities/bitrix/codeactivity/codeactivity.php(25) : eval()'d code:1
+OTUS - #0: CBPCodeActivity->execute(object)
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/bizproc/classes/general/activity.php:965
+OTUS - #1: CBPActivity->executeWithPayload(object)
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/bizproc/classes/general/workflow.php:581
+OTUS - #2: CBPWorkflow->runExecuteActivityOperation(object, object)
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/bizproc/classes/general/workflow.php:549
+OTUS - #3: CBPWorkflow->runQueuedItem(object, integer, object)
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/bizproc/classes/general/workflow.php:532
+OTUS - #4: CBPWorkflow->runStep()
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/bizproc/classes/general/workflow.php:513
+OTUS - #5: CBPWorkflow->runQueue()
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/bizproc/classes/general/workflow.php:270
+OTUS - #6: CBPWorkflow->run()
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/bizproc/classes/general/workflow.php:232
+OTUS - #7: CBPWorkflow->start()
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/bizproc/classes/general/document.php:370
+OTUS - #8: CBPDocument::startWorkflow(integer, array, array, array, NULL)
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/bizproc/lib/Api/Service/WorkflowService.php:62
+OTUS - #9: Bitrix\Bizproc\Api\Service\WorkflowService->startWorkflow(object)
+OTUS - 	/home/c/ce120265/public_html/bitrix/components/bitrix/bizproc.workflow.start/class.php:534
+OTUS - #10: BizprocWorkflowStart->startWorkflow(integer)
+OTUS - 	/home/c/ce120265/public_html/bitrix/components/bitrix/bizproc.workflow.start/class.php:99
+OTUS - #11: BizprocWorkflowStart->executeComponent()
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/main/classes/general/component.php:675
+OTUS - #12: CBitrixComponent->includeComponent(string, array, boolean, boolean)
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/main/classes/general/main.php:1192
+OTUS - #13: CMain->IncludeComponent(string, string, array, boolean)
+OTUS - 	/home/c/ce120265/public_html/bitrix/components/bitrix/ui.sidepanel.wrapper/templates/.default/content.php:25
+OTUS - #14: include(string)
+OTUS - 	/home/c/ce120265/public_html/bitrix/components/bitrix/ui.sidepanel.wrapper/templates/.default/template.php:249
+OTUS - #15: include(string)
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/main/classes/general/component_template.php:842
+OTUS - #16: CBitrixComponentTemplate->__IncludePHPTemplate(array, array, string)
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/main/classes/general/component_template.php:951
+OTUS - #17: CBitrixComponentTemplate->IncludeTemplate(array)
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/main/classes/general/component.php:791
+OTUS - #18: CBitrixComponent->showComponentTemplate()
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/main/classes/general/component.php:731
+OTUS - #19: CBitrixComponent->includeComponentTemplate()
+OTUS - 	/home/c/ce120265/public_html/bitrix/components/bitrix/ui.sidepanel.wrapper/class.php:187
+OTUS - #20: UIPageSliderWrapperComponent->executeComponent()
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/main/classes/general/component.php:675
+OTUS - #21: CBitrixComponent->includeComponent(string, array, NULL, boolean)
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/main/classes/general/main.php:1192
+OTUS - #22: CMain->IncludeComponent(string, string, array)
+OTUS - 	/home/c/ce120265/public_html/bitrix/components/bitrix/bizproc.workflow.start/index.php:27
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2026-03-11 11:03:49 - Host: ce120265.tw1.ru - UNCAUGHT_EXCEPTION - [ParseError] 
+OTUS - syntax error, unexpected token "<", expecting end of file (0)
+OTUS - /home/c/ce120265/public_html/bitrix/activities/bitrix/codeactivity/codeactivity.php(25) : eval()'d code:1
+OTUS - #0: CBPCodeActivity->execute(object)
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/bizproc/classes/general/activity.php:965
+OTUS - #1: CBPActivity->executeWithPayload(object)
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/bizproc/classes/general/workflow.php:581
+OTUS - #2: CBPWorkflow->runExecuteActivityOperation(object, object)
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/bizproc/classes/general/workflow.php:549
+OTUS - #3: CBPWorkflow->runQueuedItem(object, integer, object)
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/bizproc/classes/general/workflow.php:532
+OTUS - #4: CBPWorkflow->runStep()
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/bizproc/classes/general/workflow.php:513
+OTUS - #5: CBPWorkflow->runQueue()
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/bizproc/classes/general/workflow.php:270
+OTUS - #6: CBPWorkflow->run()
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/bizproc/classes/general/workflow.php:232
+OTUS - #7: CBPWorkflow->start()
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/bizproc/classes/general/document.php:370
+OTUS - #8: CBPDocument::startWorkflow(integer, array, array, array, NULL)
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/bizproc/lib/Api/Service/WorkflowService.php:62
+OTUS - #9: Bitrix\Bizproc\Api\Service\WorkflowService->startWorkflow(object)
+OTUS - 	/home/c/ce120265/public_html/bitrix/components/bitrix/bizproc.workflow.start/class.php:534
+OTUS - #10: BizprocWorkflowStart->startWorkflow(integer)
+OTUS - 	/home/c/ce120265/public_html/bitrix/components/bitrix/bizproc.workflow.start/class.php:99
+OTUS - #11: BizprocWorkflowStart->executeComponent()
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/main/classes/general/component.php:675
+OTUS - #12: CBitrixComponent->includeComponent(string, array, boolean, boolean)
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/main/classes/general/main.php:1192
+OTUS - #13: CMain->IncludeComponent(string, string, array, boolean)
+OTUS - 	/home/c/ce120265/public_html/bitrix/components/bitrix/ui.sidepanel.wrapper/templates/.default/content.php:25
+OTUS - #14: include(string)
+OTUS - 	/home/c/ce120265/public_html/bitrix/components/bitrix/ui.sidepanel.wrapper/templates/.default/template.php:249
+OTUS - #15: include(string)
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/main/classes/general/component_template.php:842
+OTUS - #16: CBitrixComponentTemplate->__IncludePHPTemplate(array, array, string)
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/main/classes/general/component_template.php:951
+OTUS - #17: CBitrixComponentTemplate->IncludeTemplate(array)
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/main/classes/general/component.php:791
+OTUS - #18: CBitrixComponent->showComponentTemplate()
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/main/classes/general/component.php:731
+OTUS - #19: CBitrixComponent->includeComponentTemplate()
+OTUS - 	/home/c/ce120265/public_html/bitrix/components/bitrix/ui.sidepanel.wrapper/class.php:187
+OTUS - #20: UIPageSliderWrapperComponent->executeComponent()
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/main/classes/general/component.php:675
+OTUS - #21: CBitrixComponent->includeComponent(string, array, NULL, boolean)
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/main/classes/general/main.php:1192
+OTUS - #22: CMain->IncludeComponent(string, string, array)
+OTUS - 	/home/c/ce120265/public_html/bitrix/components/bitrix/bizproc.workflow.start/index.php:27
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2026-03-11 11:04:03 - Host: ce120265.tw1.ru - UNCAUGHT_EXCEPTION - [ParseError] 
+OTUS - syntax error, unexpected token "{" (0)
+OTUS - /home/c/ce120265/public_html/bitrix/activities/bitrix/codeactivity/codeactivity.php(25) : eval()'d code:13
+OTUS - #0: CBPCodeActivity->execute(object)
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/bizproc/classes/general/activity.php:965
+OTUS - #1: CBPActivity->executeWithPayload(object)
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/bizproc/classes/general/workflow.php:581
+OTUS - #2: CBPWorkflow->runExecuteActivityOperation(object, object)
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/bizproc/classes/general/workflow.php:549
+OTUS - #3: CBPWorkflow->runQueuedItem(object, integer, object)
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/bizproc/classes/general/workflow.php:532
+OTUS - #4: CBPWorkflow->runStep()
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/bizproc/classes/general/workflow.php:513
+OTUS - #5: CBPWorkflow->runQueue()
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/bizproc/classes/general/workflow.php:270
+OTUS - #6: CBPWorkflow->run()
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/bizproc/classes/general/workflow.php:232
+OTUS - #7: CBPWorkflow->start()
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/bizproc/classes/general/document.php:370
+OTUS - #8: CBPDocument::startWorkflow(integer, array, array, array, NULL)
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/bizproc/lib/Api/Service/WorkflowService.php:62
+OTUS - #9: Bitrix\Bizproc\Api\Service\WorkflowService->startWorkflow(object)
+OTUS - 	/home/c/ce120265/public_html/bitrix/components/bitrix/bizproc.workflow.start/class.php:534
+OTUS - #10: BizprocWorkflowStart->startWorkflow(integer)
+OTUS - 	/home/c/ce120265/public_html/bitrix/components/bitrix/bizproc.workflow.start/class.php:99
+OTUS - #11: BizprocWorkflowStart->executeComponent()
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/main/classes/general/component.php:675
+OTUS - #12: CBitrixComponent->includeComponent(string, array, boolean, boolean)
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/main/classes/general/main.php:1192
+OTUS - #13: CMain->IncludeComponent(string, string, array, boolean)
+OTUS - 	/home/c/ce120265/public_html/bitrix/components/bitrix/ui.sidepanel.wrapper/templates/.default/content.php:25
+OTUS - #14: include(string)
+OTUS - 	/home/c/ce120265/public_html/bitrix/components/bitrix/ui.sidepanel.wrapper/templates/.default/template.php:249
+OTUS - #15: include(string)
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/main/classes/general/component_template.php:842
+OTUS - #16: CBitrixComponentTemplate->__IncludePHPTemplate(array, array, string)
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/main/classes/general/component_template.php:951
+OTUS - #17: CBitrixComponentTemplate->IncludeTemplate(array)
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/main/classes/general/component.php:791
+OTUS - #18: CBitrixComponent->showComponentTemplate()
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/main/classes/general/component.php:731
+OTUS - #19: CBitrixComponent->includeComponentTemplate()
+OTUS - 	/home/c/ce120265/public_html/bitrix/components/bitrix/ui.sidepanel.wrapper/class.php:187
+OTUS - #20: UIPageSliderWrapperComponent->executeComponent()
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/main/classes/general/component.php:675
+OTUS - #21: CBitrixComponent->includeComponent(string, array, NULL, boolean)
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/main/classes/general/main.php:1192
+OTUS - #22: CMain->IncludeComponent(string, string, array)
+OTUS - 	/home/c/ce120265/public_html/bitrix/components/bitrix/bizproc.workflow.start/index.php:27
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2026-03-11 11:05:49 - Host: ce120265.tw1.ru - UNCAUGHT_EXCEPTION - [ParseError] 
+OTUS - syntax error, unexpected token "{" (0)
+OTUS - /home/c/ce120265/public_html/bitrix/activities/bitrix/codeactivity/codeactivity.php(25) : eval()'d code:12
+OTUS - #0: CBPCodeActivity->execute(object)
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/bizproc/classes/general/activity.php:965
+OTUS - #1: CBPActivity->executeWithPayload(object)
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/bizproc/classes/general/workflow.php:581
+OTUS - #2: CBPWorkflow->runExecuteActivityOperation(object, object)
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/bizproc/classes/general/workflow.php:549
+OTUS - #3: CBPWorkflow->runQueuedItem(object, integer, object)
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/bizproc/classes/general/workflow.php:532
+OTUS - #4: CBPWorkflow->runStep()
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/bizproc/classes/general/workflow.php:513
+OTUS - #5: CBPWorkflow->runQueue()
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/bizproc/classes/general/workflow.php:270
+OTUS - #6: CBPWorkflow->run()
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/bizproc/classes/general/workflow.php:232
+OTUS - #7: CBPWorkflow->start()
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/bizproc/classes/general/document.php:370
+OTUS - #8: CBPDocument::startWorkflow(integer, array, array, array, NULL)
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/bizproc/lib/Api/Service/WorkflowService.php:62
+OTUS - #9: Bitrix\Bizproc\Api\Service\WorkflowService->startWorkflow(object)
+OTUS - 	/home/c/ce120265/public_html/bitrix/components/bitrix/bizproc.workflow.start/class.php:534
+OTUS - #10: BizprocWorkflowStart->startWorkflow(integer)
+OTUS - 	/home/c/ce120265/public_html/bitrix/components/bitrix/bizproc.workflow.start/class.php:99
+OTUS - #11: BizprocWorkflowStart->executeComponent()
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/main/classes/general/component.php:675
+OTUS - #12: CBitrixComponent->includeComponent(string, array, boolean, boolean)
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/main/classes/general/main.php:1192
+OTUS - #13: CMain->IncludeComponent(string, string, array, boolean)
+OTUS - 	/home/c/ce120265/public_html/bitrix/components/bitrix/ui.sidepanel.wrapper/templates/.default/content.php:25
+OTUS - #14: include(string)
+OTUS - 	/home/c/ce120265/public_html/bitrix/components/bitrix/ui.sidepanel.wrapper/templates/.default/template.php:249
+OTUS - #15: include(string)
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/main/classes/general/component_template.php:842
+OTUS - #16: CBitrixComponentTemplate->__IncludePHPTemplate(array, array, string)
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/main/classes/general/component_template.php:951
+OTUS - #17: CBitrixComponentTemplate->IncludeTemplate(array)
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/main/classes/general/component.php:791
+OTUS - #18: CBitrixComponent->showComponentTemplate()
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/main/classes/general/component.php:731
+OTUS - #19: CBitrixComponent->includeComponentTemplate()
+OTUS - 	/home/c/ce120265/public_html/bitrix/components/bitrix/ui.sidepanel.wrapper/class.php:187
+OTUS - #20: UIPageSliderWrapperComponent->executeComponent()
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/main/classes/general/component.php:675
+OTUS - #21: CBitrixComponent->includeComponent(string, array, NULL, boolean)
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/main/classes/general/main.php:1192
+OTUS - #22: CMain->IncludeComponent(string, string, array)
+OTUS - 	/home/c/ce120265/public_html/bitrix/components/bitrix/bizproc.workflow.start/index.php:27
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2026-03-11 11:08:24 - Host: ce120265.tw1.ru - UNCAUGHT_EXCEPTION - [ParseError] 
+OTUS - syntax error, unexpected token "{" (0)
+OTUS - /home/c/ce120265/public_html/bitrix/activities/bitrix/codeactivity/codeactivity.php(25) : eval()'d code:12
+OTUS - #0: CBPCodeActivity->execute(object)
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/bizproc/classes/general/activity.php:965
+OTUS - #1: CBPActivity->executeWithPayload(object)
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/bizproc/classes/general/workflow.php:581
+OTUS - #2: CBPWorkflow->runExecuteActivityOperation(object, object)
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/bizproc/classes/general/workflow.php:549
+OTUS - #3: CBPWorkflow->runQueuedItem(object, integer, object)
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/bizproc/classes/general/workflow.php:532
+OTUS - #4: CBPWorkflow->runStep()
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/bizproc/classes/general/workflow.php:513
+OTUS - #5: CBPWorkflow->runQueue()
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/bizproc/classes/general/workflow.php:270
+OTUS - #6: CBPWorkflow->run()
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/bizproc/classes/general/workflow.php:232
+OTUS - #7: CBPWorkflow->start()
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/bizproc/classes/general/document.php:370
+OTUS - #8: CBPDocument::startWorkflow(integer, array, array, array, NULL)
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/bizproc/lib/Api/Service/WorkflowService.php:62
+OTUS - #9: Bitrix\Bizproc\Api\Service\WorkflowService->startWorkflow(object)
+OTUS - 	/home/c/ce120265/public_html/bitrix/components/bitrix/bizproc.workflow.start/class.php:534
+OTUS - #10: BizprocWorkflowStart->startWorkflow(integer)
+OTUS - 	/home/c/ce120265/public_html/bitrix/components/bitrix/bizproc.workflow.start/class.php:99
+OTUS - #11: BizprocWorkflowStart->executeComponent()
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/main/classes/general/component.php:675
+OTUS - #12: CBitrixComponent->includeComponent(string, array, boolean, boolean)
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/main/classes/general/main.php:1192
+OTUS - #13: CMain->IncludeComponent(string, string, array, boolean)
+OTUS - 	/home/c/ce120265/public_html/bitrix/components/bitrix/ui.sidepanel.wrapper/templates/.default/content.php:25
+OTUS - #14: include(string)
+OTUS - 	/home/c/ce120265/public_html/bitrix/components/bitrix/ui.sidepanel.wrapper/templates/.default/template.php:249
+OTUS - #15: include(string)
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/main/classes/general/component_template.php:842
+OTUS - #16: CBitrixComponentTemplate->__IncludePHPTemplate(array, array, string)
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/main/classes/general/component_template.php:951
+OTUS - #17: CBitrixComponentTemplate->IncludeTemplate(array)
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/main/classes/general/component.php:791
+OTUS - #18: CBitrixComponent->showComponentTemplate()
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/main/classes/general/component.php:731
+OTUS - #19: CBitrixComponent->includeComponentTemplate()
+OTUS - 	/home/c/ce120265/public_html/bitrix/components/bitrix/ui.sidepanel.wrapper/class.php:187
+OTUS - #20: UIPageSliderWrapperComponent->executeComponent()
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/main/classes/general/component.php:675
+OTUS - #21: CBitrixComponent->includeComponent(string, array, NULL, boolean)
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/main/classes/general/main.php:1192
+OTUS - #22: CMain->IncludeComponent(string, string, array)
+OTUS - 	/home/c/ce120265/public_html/bitrix/components/bitrix/bizproc.workflow.start/index.php:27
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2026-03-11 11:10:06 - Host: ce120265.tw1.ru - UNCAUGHT_EXCEPTION - [ParseError] 
+OTUS - syntax error, unexpected token "<", expecting end of file (0)
+OTUS - /home/c/ce120265/public_html/bitrix/activities/bitrix/codeactivity/codeactivity.php(25) : eval()'d code:1
+OTUS - #0: CBPCodeActivity->execute(object)
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/bizproc/classes/general/activity.php:965
+OTUS - #1: CBPActivity->executeWithPayload(object)
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/bizproc/classes/general/workflow.php:581
+OTUS - #2: CBPWorkflow->runExecuteActivityOperation(object, object)
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/bizproc/classes/general/workflow.php:549
+OTUS - #3: CBPWorkflow->runQueuedItem(object, integer, object)
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/bizproc/classes/general/workflow.php:532
+OTUS - #4: CBPWorkflow->runStep()
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/bizproc/classes/general/workflow.php:513
+OTUS - #5: CBPWorkflow->runQueue()
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/bizproc/classes/general/workflow.php:270
+OTUS - #6: CBPWorkflow->run()
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/bizproc/classes/general/workflow.php:232
+OTUS - #7: CBPWorkflow->start()
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/bizproc/classes/general/document.php:370
+OTUS - #8: CBPDocument::startWorkflow(integer, array, array, array, NULL)
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/bizproc/lib/Api/Service/WorkflowService.php:62
+OTUS - #9: Bitrix\Bizproc\Api\Service\WorkflowService->startWorkflow(object)
+OTUS - 	/home/c/ce120265/public_html/bitrix/components/bitrix/bizproc.workflow.start/class.php:534
+OTUS - #10: BizprocWorkflowStart->startWorkflow(integer)
+OTUS - 	/home/c/ce120265/public_html/bitrix/components/bitrix/bizproc.workflow.start/class.php:99
+OTUS - #11: BizprocWorkflowStart->executeComponent()
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/main/classes/general/component.php:675
+OTUS - #12: CBitrixComponent->includeComponent(string, array, boolean, boolean)
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/main/classes/general/main.php:1192
+OTUS - #13: CMain->IncludeComponent(string, string, array, boolean)
+OTUS - 	/home/c/ce120265/public_html/bitrix/components/bitrix/ui.sidepanel.wrapper/templates/.default/content.php:25
+OTUS - #14: include(string)
+OTUS - 	/home/c/ce120265/public_html/bitrix/components/bitrix/ui.sidepanel.wrapper/templates/.default/template.php:249
+OTUS - #15: include(string)
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/main/classes/general/component_template.php:842
+OTUS - #16: CBitrixComponentTemplate->__IncludePHPTemplate(array, array, string)
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/main/classes/general/component_template.php:951
+OTUS - #17: CBitrixComponentTemplate->IncludeTemplate(array)
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/main/classes/general/component.php:791
+OTUS - #18: CBitrixComponent->showComponentTemplate()
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/main/classes/general/component.php:731
+OTUS - #19: CBitrixComponent->includeComponentTemplate()
+OTUS - 	/home/c/ce120265/public_html/bitrix/components/bitrix/ui.sidepanel.wrapper/class.php:187
+OTUS - #20: UIPageSliderWrapperComponent->executeComponent()
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/main/classes/general/component.php:675
+OTUS - #21: CBitrixComponent->includeComponent(string, array, NULL, boolean)
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/main/classes/general/main.php:1192
+OTUS - #22: CMain->IncludeComponent(string, string, array)
+OTUS - 	/home/c/ce120265/public_html/bitrix/components/bitrix/bizproc.workflow.start/index.php:27
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2026-03-11 12:41:31 - Host: ce120265.tw1.ru - UNCAUGHT_EXCEPTION - [Error] 
+OTUS - Call to undefined function var_dupm() (0)
+OTUS - /home/c/ce120265/public_html/bitrix/activities/bitrix/codeactivity/codeactivity.php(25) : eval()'d code:10
+OTUS - #0: eval
+OTUS - 	/home/c/ce120265/public_html/bitrix/activities/bitrix/codeactivity/codeactivity.php:25
+OTUS - #1: CBPCodeActivity->execute(object)
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/bizproc/classes/general/activity.php:965
+OTUS - #2: CBPActivity->executeWithPayload(object)
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/bizproc/classes/general/workflow.php:581
+OTUS - #3: CBPWorkflow->runExecuteActivityOperation(object, object)
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/bizproc/classes/general/workflow.php:549
+OTUS - #4: CBPWorkflow->runQueuedItem(object, integer, object)
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/bizproc/classes/general/workflow.php:532
+OTUS - #5: CBPWorkflow->runStep()
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/bizproc/classes/general/workflow.php:513
+OTUS - #6: CBPWorkflow->runQueue()
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/bizproc/classes/general/workflow.php:270
+OTUS - #7: CBPWorkflow->run()
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/bizproc/classes/general/workflow.php:232
+OTUS - #8: CBPWorkflow->start()
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/bizproc/classes/general/document.php:370
+OTUS - #9: CBPDocument::startWorkflow(integer, array, array, array, NULL)
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/bizproc/lib/Api/Service/WorkflowService.php:62
+OTUS - #10: Bitrix\Bizproc\Api\Service\WorkflowService->startWorkflow(object)
+OTUS - 	/home/c/ce120265/public_html/bitrix/components/bitrix/bizproc.workflow.start/class.php:534
+OTUS - #11: BizprocWorkflowStart->startWorkflow(integer)
+OTUS - 	/home/c/ce120265/public_html/bitrix/components/bitrix/bizproc.workflow.start/class.php:99
+OTUS - #12: BizprocWorkflowStart->executeComponent()
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/main/classes/general/component.php:675
+OTUS - #13: CBitrixComponent->includeComponent(string, array, boolean, boolean)
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/main/classes/general/main.php:1192
+OTUS - #14: CMain->IncludeComponent(string, string, array, boolean)
+OTUS - 	/home/c/ce120265/public_html/bitrix/components/bitrix/ui.sidepanel.wrapper/templates/.default/content.php:25
+OTUS - #15: include(string)
+OTUS - 	/home/c/ce120265/public_html/bitrix/components/bitrix/ui.sidepanel.wrapper/templates/.default/template.php:249
+OTUS - #16: include(string)
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/main/classes/general/component_template.php:842
+OTUS - #17: CBitrixComponentTemplate->__IncludePHPTemplate(array, array, string)
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/main/classes/general/component_template.php:951
+OTUS - #18: CBitrixComponentTemplate->IncludeTemplate(array)
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/main/classes/general/component.php:791
+OTUS - #19: CBitrixComponent->showComponentTemplate()
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/main/classes/general/component.php:731
+OTUS - #20: CBitrixComponent->includeComponentTemplate()
+OTUS - 	/home/c/ce120265/public_html/bitrix/components/bitrix/ui.sidepanel.wrapper/class.php:187
+OTUS - #21: UIPageSliderWrapperComponent->executeComponent()
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/main/classes/general/component.php:675
+OTUS - #22: CBitrixComponent->includeComponent(string, array, NULL, boolean)
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/main/classes/general/main.php:1192
+OTUS - #23: CMain->IncludeComponent(string, string, array)
+OTUS - 	/home/c/ce120265/public_html/bitrix/components/bitrix/bizproc.workflow.start/index.php:27
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2026-03-13 11:30:59 - Host: ce120265.tw1.ru - UNCAUGHT_EXCEPTION - [Error] 
+OTUS - Class "Dadata" not found (0)
+OTUS - /home/c/ce120265/public_html/local/activities/custom/searchbyinnactivity/searchbyinnactivity.php:44
+OTUS - #0: CBPSearchByInnActivity->internalExecute()
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/bizproc/lib/activity/baseactivity.php:35
+OTUS - #1: Bitrix\Bizproc\Activity\BaseActivity->execute(object)
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/bizproc/classes/general/activity.php:965
+OTUS - #2: CBPActivity->executeWithPayload(object)
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/bizproc/classes/general/workflow.php:581
+OTUS - #3: CBPWorkflow->runExecuteActivityOperation(object, object)
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/bizproc/classes/general/workflow.php:549
+OTUS - #4: CBPWorkflow->runQueuedItem(object, integer, object)
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/bizproc/classes/general/workflow.php:532
+OTUS - #5: CBPWorkflow->runStep()
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/bizproc/classes/general/workflow.php:513
+OTUS - #6: CBPWorkflow->runQueue()
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/bizproc/classes/general/workflow.php:270
+OTUS - #7: CBPWorkflow->run()
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/bizproc/classes/general/workflow.php:232
+OTUS - #8: CBPWorkflow->start()
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/bizproc/classes/general/document.php:370
+OTUS - #9: CBPDocument::startWorkflow(integer, array, array, array, NULL)
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/bizproc/lib/Api/Service/WorkflowService.php:62
+OTUS - #10: Bitrix\Bizproc\Api\Service\WorkflowService->startWorkflow(object)
+OTUS - 	/home/c/ce120265/public_html/bitrix/components/bitrix/bizproc.workflow.start/class.php:534
+OTUS - #11: BizprocWorkflowStart->startWorkflow(integer)
+OTUS - 	/home/c/ce120265/public_html/bitrix/components/bitrix/bizproc.workflow.start/class.php:99
+OTUS - #12: BizprocWorkflowStart->executeComponent()
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/main/classes/general/component.php:675
+OTUS - #13: CBitrixComponent->includeComponent(string, array, boolean, boolean)
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/main/classes/general/main.php:1192
+OTUS - #14: CMain->IncludeComponent(string, string, array, boolean)
+OTUS - 	/home/c/ce120265/public_html/bitrix/components/bitrix/ui.sidepanel.wrapper/templates/.default/content.php:25
+OTUS - #15: include(string)
+OTUS - 	/home/c/ce120265/public_html/bitrix/components/bitrix/ui.sidepanel.wrapper/templates/.default/template.php:249
+OTUS - #16: include(string)
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/main/classes/general/component_template.php:842
+OTUS - #17: CBitrixComponentTemplate->__IncludePHPTemplate(array, array, string)
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/main/classes/general/component_template.php:951
+OTUS - #18: CBitrixComponentTemplate->IncludeTemplate(array)
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/main/classes/general/component.php:791
+OTUS - #19: CBitrixComponent->showComponentTemplate()
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/main/classes/general/component.php:731
+OTUS - #20: CBitrixComponent->includeComponentTemplate()
+OTUS - 	/home/c/ce120265/public_html/bitrix/components/bitrix/ui.sidepanel.wrapper/class.php:187
+OTUS - #21: UIPageSliderWrapperComponent->executeComponent()
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/main/classes/general/component.php:675
+OTUS - #22: CBitrixComponent->includeComponent(string, array, NULL, boolean)
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/main/classes/general/main.php:1192
+OTUS - #23: CMain->IncludeComponent(string, string, array)
+OTUS - 	/home/c/ce120265/public_html/bitrix/components/bitrix/bizproc.workflow.start/index.php:27
+OTUS - ----------
+OTUS - 
 OTUS - 
