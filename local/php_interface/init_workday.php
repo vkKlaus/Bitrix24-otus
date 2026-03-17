@@ -1,16 +1,12 @@
 <?php
-if (!defined('B_PROLOG_INCLUDED') || B_PROLOG_INCLUDED !== true) {
-    return;
-}
+// local/php_interface/init.php
 
-AddEventHandler('main', 'OnProlog', function() {
-    // Добавляем лог для проверки
-    error_log('[WorkdayConfirm] OnProlog вызван');
-    
-    if (defined('SITE_TEMPLATE_ID')) {
-        error_log('[WorkdayConfirm] SITE_TEMPLATE_ID: ' . SITE_TEMPLATE_ID);
-    }
-    
-    // Подключаем везде для теста
-    \CJSCore::Init(['custom.workday_confirm']);
-});
+// Подключение класса Dadata
+include_once __DIR__ . '/classes/Dadata.php';
+
+// Подключение автозагрузки для кастомных активити бизнес-процессов
+// Регистрация пространства имен для активити
+Bitrix\Main\Loader::registerNamespace(
+    'Local\\Activities\\Custom',
+    Bitrix\Main\Application::getDocumentRoot() . '/local/activities/custom'
+);
