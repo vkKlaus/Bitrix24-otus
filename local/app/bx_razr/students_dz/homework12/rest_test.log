@@ -1,0 +1,904 @@
+[2026-04-15 08:03:02] ADD НАЧАЛО
+URL: https://ce120265.tw1.ru/rest/1/9ljoxab02h37r6ki/mytable.add.json
+Отправка: {"STR_PROPERTY":"Тест (mytable.add) 2026-04-15 08:03:02","INT_PROPERTY":179}
+HTTP код: 200
+Время: 0.43 сек
+Массив из JSON:
+array (
+  'result' => 
+  array (
+    'ID' => 1,
+    'SUCCESS' => true,
+  ),
+  'time' => 
+  array (
+    'start' => 1776229383,
+    'finish' => 1776229383.33968,
+    'duration' => 0.3396799564361572,
+    'processing' => 0,
+    'date_start' => '2026-04-15T08:03:03+03:00',
+    'date_finish' => '2026-04-15T08:03:03+03:00',
+  ),
+)
+РЕЗУЛЬТАТ: УСПЕХ, добавлена запись ID=1
+ADD КОНЕЦ
+==================================================
+[2026-04-15 08:03:41] ADD НАЧАЛО
+URL: https://ce120265.tw1.ru/rest/1/9ljoxab02h37r6ki/mytable.add.json
+Отправка: {"STR_PROPERTY":"Тест (mytable.add) 2026-04-15 08:03:41","INT_PROPERTY":360}
+HTTP код: 200
+Время: 0.464 сек
+Массив из JSON:
+array (
+  'result' => 
+  array (
+    'ID' => 2,
+    'SUCCESS' => true,
+  ),
+  'time' => 
+  array (
+    'start' => 1776229421,
+    'finish' => 1776229421.993099,
+    'duration' => 0.9930989742279053,
+    'processing' => 0,
+    'date_start' => '2026-04-15T08:03:41+03:00',
+    'date_finish' => '2026-04-15T08:03:41+03:00',
+  ),
+)
+РЕЗУЛЬТАТ: УСПЕХ, добавлена запись ID=2
+ADD КОНЕЦ
+==================================================
+[2026-04-15 08:03:53] ADD НАЧАЛО
+URL: https://ce120265.tw1.ru/rest/1/9ljoxab02h37r6ki/mytable.add.json
+Отправка: {"STR_PROPERTY":"Тест (mytable.add) 2026-04-15 08:03:53","INT_PROPERTY":778}
+HTTP код: 200
+Время: 0.392 сек
+Массив из JSON:
+array (
+  'result' => 
+  array (
+    'ID' => 3,
+    'SUCCESS' => true,
+  ),
+  'time' => 
+  array (
+    'start' => 1776229433,
+    'finish' => 1776229433.834041,
+    'duration' => 0.8340411186218262,
+    'processing' => 0,
+    'date_start' => '2026-04-15T08:03:53+03:00',
+    'date_finish' => '2026-04-15T08:03:53+03:00',
+  ),
+)
+РЕЗУЛЬТАТ: УСПЕХ, добавлена запись ID=3
+ADD КОНЕЦ
+==================================================
+[2026-04-15 08:04:00] LIST НАЧАЛО
+URL: https://ce120265.tw1.ru/rest/1/x7ihzg9f1uchruzg/mytable.list.json
+Параметры: все записи
+HTTP код: 200
+Время: 0.393 сек
+Массив из JSON:
+array (
+  'result' => 
+  array (
+    'ITEMS' => 
+    array (
+      0 => 
+      array (
+        'ID' => '1',
+        'STR_PROPERTY' => 'Тест (mytable.add) 2026-04-15 08:03:02',
+        'INT_PROPERTY' => '179',
+      ),
+      1 => 
+      array (
+        'ID' => '2',
+        'STR_PROPERTY' => 'Тест (mytable.add) 2026-04-15 08:03:41',
+        'INT_PROPERTY' => '360',
+      ),
+      2 => 
+      array (
+        'ID' => '3',
+        'STR_PROPERTY' => 'Тест (mytable.add) 2026-04-15 08:03:53',
+        'INT_PROPERTY' => '778',
+      ),
+    ),
+    'TOTAL' => 3,
+  ),
+  'time' => 
+  array (
+    'start' => 1776229440,
+    'finish' => 1776229441.15401,
+    'duration' => 1.1540100574493408,
+    'processing' => 0,
+    'date_start' => '2026-04-15T08:04:00+03:00',
+    'date_finish' => '2026-04-15T08:04:01+03:00',
+  ),
+)
+РЕЗУЛЬТАТ: УСПЕХ, получено 3 записей (всего: 3)
+LIST КОНЕЦ
+==================================================
+[2026-04-15 08:04:16] GET_MAX_ID
+URL: https://ce120265.tw1.ru/rest/1/x7ihzg9f1uchruzg/mytable.list.json (POST)
+Параметры: {"ORDER":{"ID":"DESC"},"LIMIT":1}
+Время выполнения: 0.39 сек
+Массив из JSON:
+array (
+  'result' => 
+  array (
+    'ITEMS' => 
+    array (
+      0 => 
+      array (
+        'ID' => '3',
+        'STR_PROPERTY' => 'Тест (mytable.add) 2026-04-15 08:03:53',
+        'INT_PROPERTY' => '778',
+      ),
+    ),
+    'TOTAL' => 3,
+  ),
+  'time' => 
+  array (
+    'start' => 1776229456,
+    'finish' => 1776229456.429018,
+    'duration' => 0.4290180206298828,
+    'processing' => 0,
+    'date_start' => '2026-04-15T08:04:16+03:00',
+    'date_finish' => '2026-04-15T08:04:16+03:00',
+  ),
+)
+Найден максимальный ID: 3
+Результат: 3
+--------------------------------------------------
+[2026-04-15 08:04:16] GET НАЧАЛО
+URL: https://ce120265.tw1.ru/rest/1/9m2pmp3kdtwto02l/mytable.get.json?ID=3
+HTTP код: 200
+Время: 0.408 сек
+Массив из JSON:
+array (
+  'result' => 
+  array (
+    'ID' => '3',
+    'STR_PROPERTY' => 'Тест (mytable.add) 2026-04-15 08:03:53',
+    'INT_PROPERTY' => '778',
+  ),
+  'time' => 
+  array (
+    'start' => 1776229456,
+    'finish' => 1776229456.831981,
+    'duration' => 0.8319809436798096,
+    'processing' => 0,
+    'date_start' => '2026-04-15T08:04:16+03:00',
+    'date_finish' => '2026-04-15T08:04:16+03:00',
+  ),
+)
+РЕЗУЛЬТАТ: УСПЕХ, найдена запись ID=3
+Данные: STR_PROPERTY=Тест (mytable.add) 2026-04-15 08:03:53, INT_PROPERTY=778
+GET КОНЕЦ
+==================================================
+[2026-04-15 08:04:25] GET_MAX_ID
+URL: https://ce120265.tw1.ru/rest/1/x7ihzg9f1uchruzg/mytable.list.json (POST)
+Параметры: {"ORDER":{"ID":"DESC"},"LIMIT":1}
+Время выполнения: 0.382 сек
+Массив из JSON:
+array (
+  'result' => 
+  array (
+    'ITEMS' => 
+    array (
+      0 => 
+      array (
+        'ID' => '3',
+        'STR_PROPERTY' => 'Тест (mytable.add) 2026-04-15 08:03:53',
+        'INT_PROPERTY' => '778',
+      ),
+    ),
+    'TOTAL' => 3,
+  ),
+  'time' => 
+  array (
+    'start' => 1776229465,
+    'finish' => 1776229465.916353,
+    'duration' => 0.9163529872894287,
+    'processing' => 0,
+    'date_start' => '2026-04-15T08:04:25+03:00',
+    'date_finish' => '2026-04-15T08:04:25+03:00',
+  ),
+)
+Найден максимальный ID: 3
+Результат: 3
+--------------------------------------------------
+[2026-04-15 08:04:25] UPDATE НАЧАЛО
+URL: https://ce120265.tw1.ru/rest/1/6u541kc1jgg561iv/mytable.update.json
+Отправка: {"ID":3,"STR_PROPERTY":"Обновлено (mytable.update) 08:04:25","INT_PROPERTY":208}
+HTTP код: 200
+Время: 0.395 сек
+Массив из JSON:
+array (
+  'result' => 
+  array (
+    'ID' => 3,
+    'SUCCESS' => true,
+  ),
+  'time' => 
+  array (
+    'start' => 1776229466,
+    'finish' => 1776229466.309208,
+    'duration' => 0.3092079162597656,
+    'processing' => 0,
+    'date_start' => '2026-04-15T08:04:26+03:00',
+    'date_finish' => '2026-04-15T08:04:26+03:00',
+  ),
+)
+РЕЗУЛЬТАТ: УСПЕХ, обновлена запись ID=3
+UPDATE КОНЕЦ
+==================================================
+[2026-04-15 08:10:05] GET_MAX_ID
+URL: https://ce120265.tw1.ru/rest/1/x7ihzg9f1uchruzg/mytable.list.json (POST)
+Параметры: {"ORDER":{"ID":"DESC"},"LIMIT":1}
+Время выполнения: 0.44 сек
+Массив из JSON:
+array (
+  'result' => 
+  array (
+    'ITEMS' => 
+    array (
+      0 => 
+      array (
+        'ID' => '3',
+        'STR_PROPERTY' => 'Обновлено (mytable.update) 08:04:25',
+        'INT_PROPERTY' => '208',
+      ),
+    ),
+    'TOTAL' => 3,
+  ),
+  'time' => 
+  array (
+    'start' => 1776229805,
+    'finish' => 1776229805.784865,
+    'duration' => 0.7848649024963379,
+    'processing' => 0,
+    'date_start' => '2026-04-15T08:10:05+03:00',
+    'date_finish' => '2026-04-15T08:10:05+03:00',
+  ),
+)
+Найден максимальный ID: 3
+Результат: 3
+--------------------------------------------------
+[2026-04-15 08:10:06] GET_ELEMENT_BY_ID
+URL: https://ce120265.tw1.ru/rest/1/9m2pmp3kdtwto02l/mytable.get.json?ID=3
+Время выполнения: 0.409 сек
+Массив из JSON:
+array (
+  'result' => 
+  array (
+    'ID' => '3',
+    'STR_PROPERTY' => 'Обновлено (mytable.update) 08:04:25',
+    'INT_PROPERTY' => '208',
+  ),
+  'time' => 
+  array (
+    'start' => 1776229805,
+    'finish' => 1776229806.193252,
+    'duration' => 1.1932520866394043,
+    'processing' => 0,
+    'date_start' => '2026-04-15T08:10:05+03:00',
+    'date_finish' => '2026-04-15T08:10:06+03:00',
+  ),
+)
+Найден элемент ID=3
+Результат: элемент получен
+--------------------------------------------------
+[2026-04-15 08:10:07] GET_ELEMENT_BY_ID
+URL: https://ce120265.tw1.ru/rest/1/9m2pmp3kdtwto02l/mytable.get.json?ID=3
+Время выполнения: 0.434 сек
+Массив из JSON:
+array (
+  'result' => 
+  array (
+    'ID' => '3',
+    'STR_PROPERTY' => 'Обновлено 08:10:06',
+    'INT_PROPERTY' => '881',
+  ),
+  'time' => 
+  array (
+    'start' => 1776229806,
+    'finish' => 1776229807.065238,
+    'duration' => 1.0652379989624023,
+    'processing' => 0,
+    'date_start' => '2026-04-15T08:10:06+03:00',
+    'date_finish' => '2026-04-15T08:10:07+03:00',
+  ),
+)
+Найден элемент ID=3
+Результат: элемент получен
+--------------------------------------------------
+[2026-04-15 08:10:05] UPDATE НАЧАЛО
+ЭЛЕМЕНТ ДО ОБНОВЛЕНИЯ:
+array (
+  'ID' => '3',
+  'STR_PROPERTY' => 'Обновлено (mytable.update) 08:04:25',
+  'INT_PROPERTY' => '208',
+)
+URL: https://ce120265.tw1.ru/rest/1/6u541kc1jgg561iv/mytable.update.json
+Отправка: {"ID":3,"STR_PROPERTY":"Обновлено 08:10:06","INT_PROPERTY":881}
+HTTP код: 200
+Время: 0.846 сек
+Массив из JSON (ответ update):
+array (
+  'result' => 
+  array (
+    'ID' => 3,
+    'SUCCESS' => true,
+  ),
+  'time' => 
+  array (
+    'start' => 1776229806,
+    'finish' => 1776229806.630626,
+    'duration' => 0.6306259632110596,
+    'processing' => 0,
+    'date_start' => '2026-04-15T08:10:06+03:00',
+    'date_finish' => '2026-04-15T08:10:06+03:00',
+  ),
+)
+UPDATE выполнен успешно, ID=3
+ЭЛЕМЕНТ ПОСЛЕ ОБНОВЛЕНИЯ:
+array (
+  'ID' => '3',
+  'STR_PROPERTY' => 'Обновлено 08:10:06',
+  'INT_PROPERTY' => '881',
+)
+СРАВНЕНИЕ:
+STR_PROPERTY: 'Обновлено (mytable.update) 08:04:25' -> 'Обновлено 08:10:06'
+INT_PROPERTY: 208 -> 881
+РЕЗУЛЬТАТ: УСПЕХ, элемент обновлен
+UPDATE КОНЕЦ
+==================================================
+[2026-04-15 08:15:41] ADD НАЧАЛО
+URL: https://ce120265.tw1.ru/rest/1/9ljoxab02h37r6ki/mytable.add.json
+Отправка: {"STR_PROPERTY":"Тест (mytable.add) 2026-04-15 08:15:41","INT_PROPERTY":339}
+HTTP код: 200
+Время: 0.466 сек
+Массив из JSON:
+array (
+  'result' => 
+  array (
+    'ID' => 1,
+    'SUCCESS' => true,
+  ),
+  'time' => 
+  array (
+    'start' => 1776230141,
+    'finish' => 1776230142.071893,
+    'duration' => 1.0718929767608643,
+    'processing' => 0,
+    'date_start' => '2026-04-15T08:15:41+03:00',
+    'date_finish' => '2026-04-15T08:15:42+03:00',
+  ),
+)
+РЕЗУЛЬТАТ: УСПЕХ, добавлена запись ID=1
+ADD КОНЕЦ
+==================================================
+[2026-04-15 08:15:51] ADD НАЧАЛО
+URL: https://ce120265.tw1.ru/rest/1/9ljoxab02h37r6ki/mytable.add.json
+Отправка: {"STR_PROPERTY":"Тест (mytable.add) 2026-04-15 08:15:51","INT_PROPERTY":354}
+HTTP код: 200
+Время: 0.525 сек
+Массив из JSON:
+array (
+  'result' => 
+  array (
+    'ID' => 2,
+    'SUCCESS' => true,
+  ),
+  'time' => 
+  array (
+    'start' => 1776230152,
+    'finish' => 1776230152.391546,
+    'duration' => 0.39154601097106934,
+    'processing' => 0,
+    'date_start' => '2026-04-15T08:15:52+03:00',
+    'date_finish' => '2026-04-15T08:15:52+03:00',
+  ),
+)
+РЕЗУЛЬТАТ: УСПЕХ, добавлена запись ID=2
+ADD КОНЕЦ
+==================================================
+[2026-04-15 08:16:00] ADD НАЧАЛО
+URL: https://ce120265.tw1.ru/rest/1/9ljoxab02h37r6ki/mytable.add.json
+Отправка: {"STR_PROPERTY":"Тест (mytable.add) 2026-04-15 08:16:00","INT_PROPERTY":481}
+HTTP код: 200
+Время: 0.471 сек
+Массив из JSON:
+array (
+  'result' => 
+  array (
+    'ID' => 3,
+    'SUCCESS' => true,
+  ),
+  'time' => 
+  array (
+    'start' => 1776230160,
+    'finish' => 1776230160.898585,
+    'duration' => 0.8985850811004639,
+    'processing' => 0,
+    'date_start' => '2026-04-15T08:16:00+03:00',
+    'date_finish' => '2026-04-15T08:16:00+03:00',
+  ),
+)
+РЕЗУЛЬТАТ: УСПЕХ, добавлена запись ID=3
+ADD КОНЕЦ
+==================================================
+[2026-04-15 08:16:12] GET_MAX_ID
+URL: https://ce120265.tw1.ru/rest/1/x7ihzg9f1uchruzg/mytable.list.json (POST)
+Параметры: {"ORDER":{"ID":"DESC"},"LIMIT":1}
+Время выполнения: 0.493 сек
+Массив из JSON:
+array (
+  'result' => 
+  array (
+    'ITEMS' => 
+    array (
+      0 => 
+      array (
+        'ID' => '3',
+        'STR_PROPERTY' => 'Тест (mytable.add) 2026-04-15 08:16:00',
+        'INT_PROPERTY' => '481',
+      ),
+    ),
+    'TOTAL' => 3,
+  ),
+  'time' => 
+  array (
+    'start' => 1776230172,
+    'finish' => 1776230172.678989,
+    'duration' => 0.6789889335632324,
+    'processing' => 0,
+    'date_start' => '2026-04-15T08:16:12+03:00',
+    'date_finish' => '2026-04-15T08:16:12+03:00',
+  ),
+)
+Найден максимальный ID: 3
+Результат: 3
+--------------------------------------------------
+[2026-04-15 08:16:13] GET_ELEMENT_BY_ID
+URL: https://ce120265.tw1.ru/rest/1/9m2pmp3kdtwto02l/mytable.get.json?ID=3
+Время выполнения: 0.527 сек
+Массив из JSON:
+array (
+  'result' => 
+  array (
+    'ID' => '3',
+    'STR_PROPERTY' => 'Тест (mytable.add) 2026-04-15 08:16:00',
+    'INT_PROPERTY' => '481',
+  ),
+  'time' => 
+  array (
+    'start' => 1776230173,
+    'finish' => 1776230173.242959,
+    'duration' => 0.24295902252197266,
+    'processing' => 0,
+    'date_start' => '2026-04-15T08:16:13+03:00',
+    'date_finish' => '2026-04-15T08:16:13+03:00',
+  ),
+)
+Найден элемент ID=3
+Результат: элемент получен
+--------------------------------------------------
+[2026-04-15 08:16:14] GET_ELEMENT_BY_ID
+URL: https://ce120265.tw1.ru/rest/1/9m2pmp3kdtwto02l/mytable.get.json?ID=3
+Время выполнения: 0.399 сек
+Массив из JSON:
+array (
+  'result' => 
+  array (
+    'ID' => '3',
+    'STR_PROPERTY' => 'Обновлено 08:16:13',
+    'INT_PROPERTY' => '830',
+  ),
+  'time' => 
+  array (
+    'start' => 1776230174,
+    'finish' => 1776230174.242974,
+    'duration' => 0.24297404289245605,
+    'processing' => 0,
+    'date_start' => '2026-04-15T08:16:14+03:00',
+    'date_finish' => '2026-04-15T08:16:14+03:00',
+  ),
+)
+Найден элемент ID=3
+Результат: элемент получен
+--------------------------------------------------
+[2026-04-15 08:16:12] UPDATE НАЧАЛО
+ЭЛЕМЕНТ ДО ОБНОВЛЕНИЯ:
+array (
+  'ID' => '3',
+  'STR_PROPERTY' => 'Тест (mytable.add) 2026-04-15 08:16:00',
+  'INT_PROPERTY' => '481',
+)
+URL: https://ce120265.tw1.ru/rest/1/6u541kc1jgg561iv/mytable.update.json
+Отправка: {"ID":3,"STR_PROPERTY":"Обновлено 08:16:13","INT_PROPERTY":830}
+HTTP код: 200
+Время: 1.065 сек
+Массив из JSON (ответ update):
+array (
+  'result' => 
+  array (
+    'ID' => 3,
+    'SUCCESS' => true,
+  ),
+  'time' => 
+  array (
+    'start' => 1776230173,
+    'finish' => 1776230173.790265,
+    'duration' => 0.7902650833129883,
+    'processing' => 0,
+    'date_start' => '2026-04-15T08:16:13+03:00',
+    'date_finish' => '2026-04-15T08:16:13+03:00',
+  ),
+)
+UPDATE выполнен успешно, ID=3
+ЭЛЕМЕНТ ПОСЛЕ ОБНОВЛЕНИЯ:
+array (
+  'ID' => '3',
+  'STR_PROPERTY' => 'Обновлено 08:16:13',
+  'INT_PROPERTY' => '830',
+)
+СРАВНЕНИЕ:
+STR_PROPERTY: 'Тест (mytable.add) 2026-04-15 08:16:00' -> 'Обновлено 08:16:13'
+INT_PROPERTY: 481 -> 830
+РЕЗУЛЬТАТ: УСПЕХ, элемент обновлен
+UPDATE КОНЕЦ
+==================================================
+[2026-04-15 08:16:37] GET_MAX_ID
+URL: https://ce120265.tw1.ru/rest/1/x7ihzg9f1uchruzg/mytable.list.json (POST)
+Параметры: {"ORDER":{"ID":"DESC"},"LIMIT":1}
+Время выполнения: 0.438 сек
+Массив из JSON:
+array (
+  'result' => 
+  array (
+    'ITEMS' => 
+    array (
+      0 => 
+      array (
+        'ID' => '3',
+        'STR_PROPERTY' => 'Обновлено 08:16:13',
+        'INT_PROPERTY' => '830',
+      ),
+    ),
+    'TOTAL' => 3,
+  ),
+  'time' => 
+  array (
+    'start' => 1776230197,
+    'finish' => 1776230197.895924,
+    'duration' => 0.8959240913391113,
+    'processing' => 0,
+    'date_start' => '2026-04-15T08:16:37+03:00',
+    'date_finish' => '2026-04-15T08:16:37+03:00',
+  ),
+)
+Найден максимальный ID: 3
+Результат: 3
+--------------------------------------------------
+[2026-04-15 08:16:38] GET_ELEMENT_BY_ID
+URL: https://ce120265.tw1.ru/rest/1/9m2pmp3kdtwto02l/mytable.get.json?ID=3
+Время выполнения: 0.518 сек
+Массив из JSON:
+array (
+  'result' => 
+  array (
+    'ID' => '3',
+    'STR_PROPERTY' => 'Обновлено 08:16:13',
+    'INT_PROPERTY' => '830',
+  ),
+  'time' => 
+  array (
+    'start' => 1776230198,
+    'finish' => 1776230198.298259,
+    'duration' => 0.29825901985168457,
+    'processing' => 0,
+    'date_start' => '2026-04-15T08:16:38+03:00',
+    'date_finish' => '2026-04-15T08:16:38+03:00',
+  ),
+)
+Найден элемент ID=3
+Результат: элемент получен
+--------------------------------------------------
+[2026-04-15 08:16:39] GET_ELEMENT_BY_ID
+URL: https://ce120265.tw1.ru/rest/1/9m2pmp3kdtwto02l/mytable.get.json?ID=3
+Время выполнения: 0.518 сек
+Массив из JSON:
+array (
+  'result' => 
+  array (
+    'ID' => '3',
+    'STR_PROPERTY' => 'Обновлено 08:16:38',
+    'INT_PROPERTY' => '934',
+  ),
+  'time' => 
+  array (
+    'start' => 1776230199,
+    'finish' => 1776230199.234343,
+    'duration' => 0.2343430519104004,
+    'processing' => 0,
+    'date_start' => '2026-04-15T08:16:39+03:00',
+    'date_finish' => '2026-04-15T08:16:39+03:00',
+  ),
+)
+Найден элемент ID=3
+Результат: элемент получен
+--------------------------------------------------
+[2026-04-15 08:16:37] UPDATE НАЧАЛО
+ЭЛЕМЕНТ ДО ОБНОВЛЕНИЯ:
+array (
+  'ID' => '3',
+  'STR_PROPERTY' => 'Обновлено 08:16:13',
+  'INT_PROPERTY' => '830',
+)
+URL: https://ce120265.tw1.ru/rest/1/6u541kc1jgg561iv/mytable.update.json
+Отправка: {"ID":3,"STR_PROPERTY":"Обновлено 08:16:38","INT_PROPERTY":934}
+HTTP код: 200
+Время: 0.915 сек
+Массив из JSON (ответ update):
+array (
+  'result' => 
+  array (
+    'ID' => 3,
+    'SUCCESS' => true,
+  ),
+  'time' => 
+  array (
+    'start' => 1776230198,
+    'finish' => 1776230198.806613,
+    'duration' => 0.8066129684448242,
+    'processing' => 0,
+    'date_start' => '2026-04-15T08:16:38+03:00',
+    'date_finish' => '2026-04-15T08:16:38+03:00',
+  ),
+)
+UPDATE выполнен успешно, ID=3
+ЭЛЕМЕНТ ПОСЛЕ ОБНОВЛЕНИЯ:
+array (
+  'ID' => '3',
+  'STR_PROPERTY' => 'Обновлено 08:16:38',
+  'INT_PROPERTY' => '934',
+)
+СРАВНЕНИЕ:
+STR_PROPERTY: 'Обновлено 08:16:13' -> 'Обновлено 08:16:38'
+INT_PROPERTY: 830 -> 934
+РЕЗУЛЬТАТ: УСПЕХ, элемент обновлен
+UPDATE КОНЕЦ
+==================================================
+[2026-04-15 08:16:53] GET_MAX_ID
+URL: https://ce120265.tw1.ru/rest/1/x7ihzg9f1uchruzg/mytable.list.json (POST)
+Параметры: {"ORDER":{"ID":"DESC"},"LIMIT":1}
+Время выполнения: 0.478 сек
+Массив из JSON:
+array (
+  'result' => 
+  array (
+    'ITEMS' => 
+    array (
+      0 => 
+      array (
+        'ID' => '3',
+        'STR_PROPERTY' => 'Обновлено 08:16:38',
+        'INT_PROPERTY' => '934',
+      ),
+    ),
+    'TOTAL' => 3,
+  ),
+  'time' => 
+  array (
+    'start' => 1776230212,
+    'finish' => 1776230213.085889,
+    'duration' => 1.0858891010284424,
+    'processing' => 0,
+    'date_start' => '2026-04-15T08:16:52+03:00',
+    'date_finish' => '2026-04-15T08:16:53+03:00',
+  ),
+)
+Найден максимальный ID: 3
+Результат: 3
+--------------------------------------------------
+[2026-04-15 08:16:53] GET НАЧАЛО
+URL: https://ce120265.tw1.ru/rest/1/9m2pmp3kdtwto02l/mytable.get.json?ID=3
+HTTP код: 200
+Время: 0.383 сек
+Массив из JSON:
+array (
+  'result' => 
+  array (
+    'ID' => '3',
+    'STR_PROPERTY' => 'Обновлено 08:16:38',
+    'INT_PROPERTY' => '934',
+  ),
+  'time' => 
+  array (
+    'start' => 1776230213,
+    'finish' => 1776230213.542296,
+    'duration' => 0.5422959327697754,
+    'processing' => 0,
+    'date_start' => '2026-04-15T08:16:53+03:00',
+    'date_finish' => '2026-04-15T08:16:53+03:00',
+  ),
+)
+РЕЗУЛЬТАТ: УСПЕХ, найдена запись ID=3
+Данные: STR_PROPERTY=Обновлено 08:16:38, INT_PROPERTY=934
+GET КОНЕЦ
+==================================================
+[2026-04-15 08:17:11] LIST НАЧАЛО
+URL: https://ce120265.tw1.ru/rest/1/x7ihzg9f1uchruzg/mytable.list.json
+Параметры: все записи
+HTTP код: 200
+Время: 0.651 сек
+Массив из JSON:
+array (
+  'result' => 
+  array (
+    'ITEMS' => 
+    array (
+      0 => 
+      array (
+        'ID' => '1',
+        'STR_PROPERTY' => 'Тест (mytable.add) 2026-04-15 08:15:41',
+        'INT_PROPERTY' => '339',
+      ),
+      1 => 
+      array (
+        'ID' => '2',
+        'STR_PROPERTY' => 'Тест (mytable.add) 2026-04-15 08:15:51',
+        'INT_PROPERTY' => '354',
+      ),
+      2 => 
+      array (
+        'ID' => '3',
+        'STR_PROPERTY' => 'Обновлено 08:16:38',
+        'INT_PROPERTY' => '934',
+      ),
+    ),
+    'TOTAL' => 3,
+  ),
+  'time' => 
+  array (
+    'start' => 1776230232,
+    'finish' => 1776230232.448198,
+    'duration' => 0.4481980800628662,
+    'processing' => 0,
+    'date_start' => '2026-04-15T08:17:12+03:00',
+    'date_finish' => '2026-04-15T08:17:12+03:00',
+  ),
+)
+РЕЗУЛЬТАТ: УСПЕХ, получено 3 записей (всего: 3)
+LIST КОНЕЦ
+==================================================
+[2026-04-15 08:17:25] GET_ALL_ELEMENTS
+URL: https://ce120265.tw1.ru/rest/1/x7ihzg9f1uchruzg/mytable.list.json (POST)
+Параметры: {"SELECT":["ID","STR_PROPERTY","INT_PROPERTY"],"ORDER":{"ID":"ASC"}}
+Время выполнения: 0.41 сек
+Массив из JSON:
+array (
+  'result' => 
+  array (
+    'ITEMS' => 
+    array (
+      0 => 
+      array (
+        'ID' => '1',
+        'STR_PROPERTY' => 'Тест (mytable.add) 2026-04-15 08:15:41',
+        'INT_PROPERTY' => '339',
+      ),
+      1 => 
+      array (
+        'ID' => '2',
+        'STR_PROPERTY' => 'Тест (mytable.add) 2026-04-15 08:15:51',
+        'INT_PROPERTY' => '354',
+      ),
+      2 => 
+      array (
+        'ID' => '3',
+        'STR_PROPERTY' => 'Обновлено 08:16:38',
+        'INT_PROPERTY' => '934',
+      ),
+    ),
+    'TOTAL' => 3,
+  ),
+  'time' => 
+  array (
+    'start' => 1776230245,
+    'finish' => 1776230245.819929,
+    'duration' => 0.8199288845062256,
+    'processing' => 0,
+    'date_start' => '2026-04-15T08:17:25+03:00',
+    'date_finish' => '2026-04-15T08:17:25+03:00',
+  ),
+)
+Получено элементов: 3
+Список ID: [1, 2, 3]
+Результат: массив получен
+--------------------------------------------------
+[2026-04-15 08:17:26] GET_ALL_ELEMENTS
+URL: https://ce120265.tw1.ru/rest/1/x7ihzg9f1uchruzg/mytable.list.json (POST)
+Параметры: {"SELECT":["ID","STR_PROPERTY","INT_PROPERTY"],"ORDER":{"ID":"ASC"}}
+Время выполнения: 0.382 сек
+Массив из JSON:
+array (
+  'result' => 
+  array (
+    'ITEMS' => 
+    array (
+      0 => 
+      array (
+        'ID' => '1',
+        'STR_PROPERTY' => 'Тест (mytable.add) 2026-04-15 08:15:41',
+        'INT_PROPERTY' => '339',
+      ),
+      1 => 
+      array (
+        'ID' => '2',
+        'STR_PROPERTY' => 'Тест (mytable.add) 2026-04-15 08:15:51',
+        'INT_PROPERTY' => '354',
+      ),
+    ),
+    'TOTAL' => 2,
+  ),
+  'time' => 
+  array (
+    'start' => 1776230246,
+    'finish' => 1776230246.589004,
+    'duration' => 0.5890040397644043,
+    'processing' => 0,
+    'date_start' => '2026-04-15T08:17:26+03:00',
+    'date_finish' => '2026-04-15T08:17:26+03:00',
+  ),
+)
+Получено элементов: 2
+Список ID: [1, 2]
+Результат: массив получен
+--------------------------------------------------
+[2026-04-15 08:17:25] DELETE НАЧАЛО
+СПИСОК ЭЛЕМЕНТОВ ДО УДАЛЕНИЯ:
+Количество: 3
+Массив ID: [1, 2, 3]
+Детали элементов:
+  ID=1: Тест (mytable.add) 2026-04-15 08:15:41 (339)
+  ID=2: Тест (mytable.add) 2026-04-15 08:15:51 (354)
+  ID=3: Обновлено 08:16:38 (934)
+Выбран для удаления максимальный ID: 3
+URL: https://ce120265.tw1.ru/rest/1/c0x9on3u1gf182nt/mytable.delete.json?ID=3
+HTTP код: 200
+Время: 0.794 сек
+Массив из JSON (ответ delete):
+array (
+  'result' => 
+  array (
+    'ID' => 3,
+    'SUCCESS' => true,
+    'DELETED' => true,
+  ),
+  'time' => 
+  array (
+    'start' => 1776230245,
+    'finish' => 1776230246.203151,
+    'duration' => 1.203150987625122,
+    'processing' => 0,
+    'date_start' => '2026-04-15T08:17:25+03:00',
+    'date_finish' => '2026-04-15T08:17:26+03:00',
+  ),
+)
+DELETE выполнен успешно, удален ID=3
+СПИСОК ЭЛЕМЕНТОВ ПОСЛЕ УДАЛЕНИЯ:
+Количество: 2
+Массив ID: [1, 2]
+Детали элементов:
+  ID=1: Тест (mytable.add) 2026-04-15 08:15:41 (339)
+  ID=2: Тест (mytable.add) 2026-04-15 08:15:51 (354)
+СРАВНЕНИЕ:
+До удаления: 3 элементов
+После удаления: 2 элементов
+Удален ID: 3
+РЕЗУЛЬТАТ: УСПЕХ, элемент удален
+DELETE КОНЕЦ
+==================================================

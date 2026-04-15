@@ -12,14 +12,30 @@ Asset::getInstance()->addCss('//cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bo
 
 <ul class="list-group">
     <li class="list-group-item">
-        <a href="my_table_demo.php">Проверка таблицы БД</a>
+        <a href="check_orm_methods.php">Проверка таблицы БД</a>
     </li>
 	
 	<li class="list-group-item">
         <a href="clear_table.php">Очистка таблицы БД</a>
     </li>
-
-	
+</ul>
+<br>
+<ul class="list-group">
+	<li class="list-group-item">
+        <a href="test_mytable_add.php">TEST mytable_add</a>
+    </li>	
+	<li class="list-group-item">
+        <a href="test_mytable_update.php">TEST mytable_update (max ID)</a>
+    </li>
+	<li class="list-group-item">
+        <a href="test_mytable_get.php">TEST mytable_get (max ID)</a>
+    </li>
+		<li class="list-group-item">
+        <a href="test_mytable_list.php">TEST mytable_list</a>
+    </li>
+	<li class="list-group-item">
+        <a href="test_mytable_delete.php">TEST mytable_delete (max ID)</a>
+    </li>
 </ul>
 
 

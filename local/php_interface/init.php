@@ -17,3 +17,5 @@ require_once __DIR__ . '/init_order.php';
 require_once __DIR__ . '/init_dadata.php';
 
 require_once __DIR__ . '/init_application.php';
+
+require_once __DIR__ . '/init_rest.php';

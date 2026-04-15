@@ -1,0 +1,769 @@
+OTUS - 2026-04-14 13:00:09 - Host: ce120265.tw1.ru - FATAL - [ErrorException] E_COMPILE_ERROR
+OTUS - Declaration of My\Module\MyTable::getById(int $id): ?array must be compatible with Bitrix\Main\ORM\Data\DataManager::getById($id) (0)
+OTUS - /home/c/ce120265/public_html/local/modules/my.module/lib/MyTable.php:87
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2026-04-14 13:03:35 - Host: ce120265.tw1.ru - UNCAUGHT_EXCEPTION - [Error] 
+OTUS - Failed opening required '/home/c/ce120265/public_html/local/app/bx_razr/students_dz/homework12/local/modules/my.module/lib/MyTable.php' (include_path='.:/opt/php84/share/pear') (0)
+OTUS - /home/c/ce120265/public_html/local/app/bx_razr/students_dz/homework12/check_orm_methods.php:9
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2026-04-14 13:04:28 - Host: ce120265.tw1.ru - FATAL - [ErrorException] E_COMPILE_ERROR
+OTUS - Declaration of My\Module\MyTable::getById(int $id): ?array must be compatible with Bitrix\Main\ORM\Data\DataManager::getById($id) (0)
+OTUS - /home/c/ce120265/public_html/local/modules/my.module/lib/MyTable.php:87
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2026-04-14 13:05:44 - Host: ce120265.tw1.ru - UNCAUGHT_EXCEPTION - [Error] 
+OTUS - Cannot use object of type Bitrix\Main\ORM\Query\Result as array (0)
+OTUS - /home/c/ce120265/public_html/local/app/bx_razr/students_dz/homework12/check_orm_methods.php:49
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2026-04-14 13:06:43 - Host: ce120265.tw1.ru - UNCAUGHT_EXCEPTION - [Error] 
+OTUS - Cannot use object of type Bitrix\Main\ORM\Query\Result as array (0)
+OTUS - /home/c/ce120265/public_html/local/app/bx_razr/students_dz/homework12/check_orm_methods.php:49
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2026-04-14 13:07:42 - Host: ce120265.tw1.ru - UNCAUGHT_EXCEPTION - [Error] 
+OTUS - Cannot use object of type Bitrix\Main\ORM\Query\Result as array (0)
+OTUS - /home/c/ce120265/public_html/local/app/bx_razr/students_dz/homework12/check_orm_methods.php:49
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2026-04-14 13:30:04 - Host: ce120265.tw1.ru - UNCAUGHT_EXCEPTION - [TypeError] 
+OTUS - call_user_func_array(): Argument #1 ($callback) must be a valid callback, class "OTUS\Rest\MyTableRest" not found (0)
+OTUS - /home/c/ce120265/public_html/bitrix/modules/main/tools.php:5266
+OTUS - #0: ExecuteModuleEventEx(array)
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/rest/classes/general/rest_provider.php:180
+OTUS - #1: CRestProvider->getDescription()
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/rest/lib/preset/data/rest.php:44
+OTUS - #2: Bitrix\Rest\Preset\Data\Rest::getAllBasicDescription()
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/rest/lib/preset/data/rest.php:123
+OTUS - #3: Bitrix\Rest\Preset\Data\Rest::getBaseMethod()
+OTUS - 	/home/c/ce120265/public_html/bitrix/components/bitrix/rest.integration.selector/class.php:130
+OTUS - #4: RestIntegrationSelectComponent->getMethodAction()
+OTUS - 	/home/c/ce120265/public_html/bitrix/components/bitrix/rest.integration.selector/class.php:72
+OTUS - #5: RestIntegrationSelectComponent->prepareResult()
+OTUS - 	/home/c/ce120265/public_html/bitrix/components/bitrix/rest.integration.selector/class.php:118
+OTUS - #6: RestIntegrationSelectComponent->executeComponent()
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/main/classes/general/component.php:675
+OTUS - #7: CBitrixComponent->includeComponent(string, array, boolean, boolean)
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/main/classes/general/main.php:1192
+OTUS - #8: CMain->IncludeComponent(string, string, array, boolean)
+OTUS - 	/home/c/ce120265/public_html/bitrix/components/bitrix/rest.integration.edit/templates/.default/template.php:205
+OTUS - #9: include(string)
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/main/classes/general/component_template.php:842
+OTUS - #10: CBitrixComponentTemplate->__IncludePHPTemplate(array, array, string)
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/main/classes/general/component_template.php:951
+OTUS - #11: CBitrixComponentTemplate->IncludeTemplate(array)
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/main/classes/general/component.php:791
+OTUS - #12: CBitrixComponent->showComponentTemplate()
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/main/classes/general/component.php:731
+OTUS - #13: CBitrixComponent->includeComponentTemplate()
+OTUS - 	/home/c/ce120265/public_html/bitrix/components/bitrix/rest.integration.edit/class.php:353
+OTUS - #14: RestIntegrationEditComponent->executeComponent()
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/main/classes/general/component.php:675
+OTUS - #15: CBitrixComponent->includeComponent(string, array, object, boolean)
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/main/classes/general/main.php:1192
+OTUS - #16: CMain->IncludeComponent(string, string, array, object)
+OTUS - 	/home/c/ce120265/public_html/bitrix/components/bitrix/ui.sidepanel.wrapper/templates/.default/content.php:25
+OTUS - #17: include(string)
+OTUS - 	/home/c/ce120265/public_html/bitrix/components/bitrix/ui.sidepanel.wrapper/templates/.default/template.php:249
+OTUS - #18: include(string)
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/main/classes/general/component_template.php:842
+OTUS - #19: CBitrixComponentTemplate->__IncludePHPTemplate(array, array, string)
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/main/classes/general/component_template.php:951
+OTUS - #20: CBitrixComponentTemplate->IncludeTemplate(array)
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/main/classes/general/component.php:791
+OTUS - #21: CBitrixComponent->showComponentTemplate()
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/main/classes/general/component.php:731
+OTUS - #22: CBitrixComponent->includeComponentTemplate()
+OTUS - 	/home/c/ce120265/public_html/bitrix/components/bitrix/ui.sidepanel.wrapper/class.php:187
+OTUS - #23: UIPageSliderWrapperComponent->executeComponent()
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/main/classes/general/component.php:675
+OTUS - #24: CBitrixComponent->includeComponent(string, array, NULL, boolean)
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/main/classes/general/main.php:1192
+OTUS - #25: CMain->IncludeComponent(string, string, array)
+OTUS - 	/home/c/ce120265/public_html/bitrix/components/bitrix/rest.devops/templates/.default/edit.php:12
+OTUS - #26: include(string)
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/main/classes/general/component_template.php:842
+OTUS - #27: CBitrixComponentTemplate->__IncludePHPTemplate(array, array, string)
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/main/classes/general/component_template.php:951
+OTUS - #28: CBitrixComponentTemplate->IncludeTemplate(array)
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/main/classes/general/component.php:791
+OTUS - #29: CBitrixComponent->showComponentTemplate()
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/main/classes/general/component.php:731
+OTUS - #30: CBitrixComponent->includeComponentTemplate(string)
+OTUS - 	/home/c/ce120265/public_html/bitrix/components/bitrix/rest.devops/class.php:145
+OTUS - #31: RestDevOpsComponent->executeComponent()
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/main/classes/general/component.php:675
+OTUS - #32: CBitrixComponent->includeComponent(string, array, NULL, boolean)
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/main/classes/general/main.php:1192
+OTUS - #33: CMain->IncludeComponent(string, string, array, NULL)
+OTUS - 	/home/c/ce120265/public_html/devops/index.php:4
+OTUS - #34: include_once(string)
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/main/include/urlrewrite.php:128
+OTUS - #35: include_once(string)
+OTUS - 	/home/c/ce120265/public_html/bitrix/urlrewrite.php:2
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2026-04-14 13:32:36 - Host: ce120265.tw1.ru - UNCAUGHT_EXCEPTION - [TypeError] 
+OTUS - call_user_func_array(): Argument #1 ($callback) must be a valid callback, class "OTUS\Rest\MyTableRest" not found (0)
+OTUS - /home/c/ce120265/public_html/bitrix/modules/main/tools.php:5266
+OTUS - #0: ExecuteModuleEventEx(array)
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/rest/classes/general/rest_provider.php:180
+OTUS - #1: CRestProvider->getDescription()
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/rest/lib/preset/data/rest.php:44
+OTUS - #2: Bitrix\Rest\Preset\Data\Rest::getAllBasicDescription()
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/rest/lib/preset/data/rest.php:123
+OTUS - #3: Bitrix\Rest\Preset\Data\Rest::getBaseMethod()
+OTUS - 	/home/c/ce120265/public_html/bitrix/components/bitrix/rest.integration.selector/class.php:130
+OTUS - #4: RestIntegrationSelectComponent->getMethodAction()
+OTUS - 	/home/c/ce120265/public_html/bitrix/components/bitrix/rest.integration.selector/class.php:72
+OTUS - #5: RestIntegrationSelectComponent->prepareResult()
+OTUS - 	/home/c/ce120265/public_html/bitrix/components/bitrix/rest.integration.selector/class.php:118
+OTUS - #6: RestIntegrationSelectComponent->executeComponent()
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/main/classes/general/component.php:675
+OTUS - #7: CBitrixComponent->includeComponent(string, array, boolean, boolean)
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/main/classes/general/main.php:1192
+OTUS - #8: CMain->IncludeComponent(string, string, array, boolean)
+OTUS - 	/home/c/ce120265/public_html/bitrix/components/bitrix/rest.integration.edit/templates/.default/template.php:205
+OTUS - #9: include(string)
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/main/classes/general/component_template.php:842
+OTUS - #10: CBitrixComponentTemplate->__IncludePHPTemplate(array, array, string)
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/main/classes/general/component_template.php:951
+OTUS - #11: CBitrixComponentTemplate->IncludeTemplate(array)
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/main/classes/general/component.php:791
+OTUS - #12: CBitrixComponent->showComponentTemplate()
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/main/classes/general/component.php:731
+OTUS - #13: CBitrixComponent->includeComponentTemplate()
+OTUS - 	/home/c/ce120265/public_html/bitrix/components/bitrix/rest.integration.edit/class.php:353
+OTUS - #14: RestIntegrationEditComponent->executeComponent()
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/main/classes/general/component.php:675
+OTUS - #15: CBitrixComponent->includeComponent(string, array, object, boolean)
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/main/classes/general/main.php:1192
+OTUS - #16: CMain->IncludeComponent(string, string, array, object)
+OTUS - 	/home/c/ce120265/public_html/bitrix/components/bitrix/ui.sidepanel.wrapper/templates/.default/content.php:25
+OTUS - #17: include(string)
+OTUS - 	/home/c/ce120265/public_html/bitrix/components/bitrix/ui.sidepanel.wrapper/templates/.default/template.php:249
+OTUS - #18: include(string)
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/main/classes/general/component_template.php:842
+OTUS - #19: CBitrixComponentTemplate->__IncludePHPTemplate(array, array, string)
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/main/classes/general/component_template.php:951
+OTUS - #20: CBitrixComponentTemplate->IncludeTemplate(array)
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/main/classes/general/component.php:791
+OTUS - #21: CBitrixComponent->showComponentTemplate()
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/main/classes/general/component.php:731
+OTUS - #22: CBitrixComponent->includeComponentTemplate()
+OTUS - 	/home/c/ce120265/public_html/bitrix/components/bitrix/ui.sidepanel.wrapper/class.php:187
+OTUS - #23: UIPageSliderWrapperComponent->executeComponent()
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/main/classes/general/component.php:675
+OTUS - #24: CBitrixComponent->includeComponent(string, array, NULL, boolean)
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/main/classes/general/main.php:1192
+OTUS - #25: CMain->IncludeComponent(string, string, array)
+OTUS - 	/home/c/ce120265/public_html/bitrix/components/bitrix/rest.devops/templates/.default/edit.php:12
+OTUS - #26: include(string)
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/main/classes/general/component_template.php:842
+OTUS - #27: CBitrixComponentTemplate->__IncludePHPTemplate(array, array, string)
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/main/classes/general/component_template.php:951
+OTUS - #28: CBitrixComponentTemplate->IncludeTemplate(array)
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/main/classes/general/component.php:791
+OTUS - #29: CBitrixComponent->showComponentTemplate()
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/main/classes/general/component.php:731
+OTUS - #30: CBitrixComponent->includeComponentTemplate(string)
+OTUS - 	/home/c/ce120265/public_html/bitrix/components/bitrix/rest.devops/class.php:145
+OTUS - #31: RestDevOpsComponent->executeComponent()
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/main/classes/general/component.php:675
+OTUS - #32: CBitrixComponent->includeComponent(string, array, NULL, boolean)
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/main/classes/general/main.php:1192
+OTUS - #33: CMain->IncludeComponent(string, string, array, NULL)
+OTUS - 	/home/c/ce120265/public_html/devops/index.php:4
+OTUS - #34: include_once(string)
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/main/include/urlrewrite.php:128
+OTUS - #35: include_once(string)
+OTUS - 	/home/c/ce120265/public_html/bitrix/urlrewrite.php:2
+OTUS - ----------
+OTUS - Previous exception: [Error] 
+OTUS - Failed opening required '/home/c/ce120265/public_html/local/php_interface/classes/OTUS/Rest/MyTableRest.php' (include_path='.:/opt/php84/share/pear') (0)
+OTUS - /home/c/ce120265/public_html/bitrix/modules/main/lib/loader.php:405
+OTUS - #0: Bitrix\Main\Loader::autoLoad(string)
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/main/tools.php:5266
+OTUS - #1: ExecuteModuleEventEx(array)
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/rest/classes/general/rest_provider.php:180
+OTUS - #2: CRestProvider->getDescription()
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/rest/lib/preset/data/rest.php:44
+OTUS - #3: Bitrix\Rest\Preset\Data\Rest::getAllBasicDescription()
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/rest/lib/preset/data/rest.php:123
+OTUS - #4: Bitrix\Rest\Preset\Data\Rest::getBaseMethod()
+OTUS - 	/home/c/ce120265/public_html/bitrix/components/bitrix/rest.integration.selector/class.php:130
+OTUS - #5: RestIntegrationSelectComponent->getMethodAction()
+OTUS - 	/home/c/ce120265/public_html/bitrix/components/bitrix/rest.integration.selector/class.php:72
+OTUS - #6: RestIntegrationSelectComponent->prepareResult()
+OTUS - 	/home/c/ce120265/public_html/bitrix/components/bitrix/rest.integration.selector/class.php:118
+OTUS - #7: RestIntegrationSelectComponent->executeComponent()
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/main/classes/general/component.php:675
+OTUS - #8: CBitrixComponent->includeComponent(string, array, boolean, boolean)
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/main/classes/general/main.php:1192
+OTUS - #9: CMain->IncludeComponent(string, string, array, boolean)
+OTUS - 	/home/c/ce120265/public_html/bitrix/components/bitrix/rest.integration.edit/templates/.default/template.php:205
+OTUS - #10: include(string)
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/main/classes/general/component_template.php:842
+OTUS - #11: CBitrixComponentTemplate->__IncludePHPTemplate(array, array, string)
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/main/classes/general/component_template.php:951
+OTUS - #12: CBitrixComponentTemplate->IncludeTemplate(array)
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/main/classes/general/component.php:791
+OTUS - #13: CBitrixComponent->showComponentTemplate()
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/main/classes/general/component.php:731
+OTUS - #14: CBitrixComponent->includeComponentTemplate()
+OTUS - 	/home/c/ce120265/public_html/bitrix/components/bitrix/rest.integration.edit/class.php:353
+OTUS - #15: RestIntegrationEditComponent->executeComponent()
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/main/classes/general/component.php:675
+OTUS - #16: CBitrixComponent->includeComponent(string, array, object, boolean)
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/main/classes/general/main.php:1192
+OTUS - #17: CMain->IncludeComponent(string, string, array, object)
+OTUS - 	/home/c/ce120265/public_html/bitrix/components/bitrix/ui.sidepanel.wrapper/templates/.default/content.php:25
+OTUS - #18: include(string)
+OTUS - 	/home/c/ce120265/public_html/bitrix/components/bitrix/ui.sidepanel.wrapper/templates/.default/template.php:249
+OTUS - #19: include(string)
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/main/classes/general/component_template.php:842
+OTUS - #20: CBitrixComponentTemplate->__IncludePHPTemplate(array, array, string)
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/main/classes/general/component_template.php:951
+OTUS - #21: CBitrixComponentTemplate->IncludeTemplate(array)
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/main/classes/general/component.php:791
+OTUS - #22: CBitrixComponent->showComponentTemplate()
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/main/classes/general/component.php:731
+OTUS - #23: CBitrixComponent->includeComponentTemplate()
+OTUS - 	/home/c/ce120265/public_html/bitrix/components/bitrix/ui.sidepanel.wrapper/class.php:187
+OTUS - #24: UIPageSliderWrapperComponent->executeComponent()
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/main/classes/general/component.php:675
+OTUS - #25: CBitrixComponent->includeComponent(string, array, NULL, boolean)
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/main/classes/general/main.php:1192
+OTUS - #26: CMain->IncludeComponent(string, string, array)
+OTUS - 	/home/c/ce120265/public_html/bitrix/components/bitrix/rest.devops/templates/.default/edit.php:12
+OTUS - #27: include(string)
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/main/classes/general/component_template.php:842
+OTUS - #28: CBitrixComponentTemplate->__IncludePHPTemplate(array, array, string)
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/main/classes/general/component_template.php:951
+OTUS - #29: CBitrixComponentTemplate->IncludeTemplate(array)
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/main/classes/general/component.php:791
+OTUS - #30: CBitrixComponent->showComponentTemplate()
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/main/classes/general/component.php:731
+OTUS - #31: CBitrixComponent->includeComponentTemplate(string)
+OTUS - 	/home/c/ce120265/public_html/bitrix/components/bitrix/rest.devops/class.php:145
+OTUS - #32: RestDevOpsComponent->executeComponent()
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/main/classes/general/component.php:675
+OTUS - #33: CBitrixComponent->includeComponent(string, array, NULL, boolean)
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/main/classes/general/main.php:1192
+OTUS - #34: CMain->IncludeComponent(string, string, array, NULL)
+OTUS - 	/home/c/ce120265/public_html/devops/index.php:4
+OTUS - #35: include_once(string)
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/main/include/urlrewrite.php:128
+OTUS - #36: include_once(string)
+OTUS - 	/home/c/ce120265/public_html/bitrix/urlrewrite.php:2
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2026-04-14 13:33:42 - Host: ce120265.tw1.ru - UNCAUGHT_EXCEPTION - [TypeError] 
+OTUS - call_user_func_array(): Argument #1 ($callback) must be a valid callback, class "OTUS\Rest\MyTableRest" not found (0)
+OTUS - /home/c/ce120265/public_html/bitrix/modules/main/tools.php:5266
+OTUS - #0: ExecuteModuleEventEx(array)
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/rest/classes/general/rest_provider.php:180
+OTUS - #1: CRestProvider->getDescription()
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/rest/lib/preset/data/rest.php:44
+OTUS - #2: Bitrix\Rest\Preset\Data\Rest::getAllBasicDescription()
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/rest/lib/preset/data/rest.php:123
+OTUS - #3: Bitrix\Rest\Preset\Data\Rest::getBaseMethod()
+OTUS - 	/home/c/ce120265/public_html/bitrix/components/bitrix/rest.integration.selector/class.php:130
+OTUS - #4: RestIntegrationSelectComponent->getMethodAction()
+OTUS - 	/home/c/ce120265/public_html/bitrix/components/bitrix/rest.integration.selector/class.php:72
+OTUS - #5: RestIntegrationSelectComponent->prepareResult()
+OTUS - 	/home/c/ce120265/public_html/bitrix/components/bitrix/rest.integration.selector/class.php:118
+OTUS - #6: RestIntegrationSelectComponent->executeComponent()
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/main/classes/general/component.php:675
+OTUS - #7: CBitrixComponent->includeComponent(string, array, boolean, boolean)
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/main/classes/general/main.php:1192
+OTUS - #8: CMain->IncludeComponent(string, string, array, boolean)
+OTUS - 	/home/c/ce120265/public_html/bitrix/components/bitrix/rest.integration.edit/templates/.default/template.php:205
+OTUS - #9: include(string)
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/main/classes/general/component_template.php:842
+OTUS - #10: CBitrixComponentTemplate->__IncludePHPTemplate(array, array, string)
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/main/classes/general/component_template.php:951
+OTUS - #11: CBitrixComponentTemplate->IncludeTemplate(array)
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/main/classes/general/component.php:791
+OTUS - #12: CBitrixComponent->showComponentTemplate()
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/main/classes/general/component.php:731
+OTUS - #13: CBitrixComponent->includeComponentTemplate()
+OTUS - 	/home/c/ce120265/public_html/bitrix/components/bitrix/rest.integration.edit/class.php:353
+OTUS - #14: RestIntegrationEditComponent->executeComponent()
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/main/classes/general/component.php:675
+OTUS - #15: CBitrixComponent->includeComponent(string, array, object, boolean)
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/main/classes/general/main.php:1192
+OTUS - #16: CMain->IncludeComponent(string, string, array, object)
+OTUS - 	/home/c/ce120265/public_html/bitrix/components/bitrix/ui.sidepanel.wrapper/templates/.default/content.php:25
+OTUS - #17: include(string)
+OTUS - 	/home/c/ce120265/public_html/bitrix/components/bitrix/ui.sidepanel.wrapper/templates/.default/template.php:249
+OTUS - #18: include(string)
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/main/classes/general/component_template.php:842
+OTUS - #19: CBitrixComponentTemplate->__IncludePHPTemplate(array, array, string)
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/main/classes/general/component_template.php:951
+OTUS - #20: CBitrixComponentTemplate->IncludeTemplate(array)
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/main/classes/general/component.php:791
+OTUS - #21: CBitrixComponent->showComponentTemplate()
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/main/classes/general/component.php:731
+OTUS - #22: CBitrixComponent->includeComponentTemplate()
+OTUS - 	/home/c/ce120265/public_html/bitrix/components/bitrix/ui.sidepanel.wrapper/class.php:187
+OTUS - #23: UIPageSliderWrapperComponent->executeComponent()
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/main/classes/general/component.php:675
+OTUS - #24: CBitrixComponent->includeComponent(string, array, NULL, boolean)
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/main/classes/general/main.php:1192
+OTUS - #25: CMain->IncludeComponent(string, string, array)
+OTUS - 	/home/c/ce120265/public_html/bitrix/components/bitrix/rest.devops/templates/.default/edit.php:12
+OTUS - #26: include(string)
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/main/classes/general/component_template.php:842
+OTUS - #27: CBitrixComponentTemplate->__IncludePHPTemplate(array, array, string)
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/main/classes/general/component_template.php:951
+OTUS - #28: CBitrixComponentTemplate->IncludeTemplate(array)
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/main/classes/general/component.php:791
+OTUS - #29: CBitrixComponent->showComponentTemplate()
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/main/classes/general/component.php:731
+OTUS - #30: CBitrixComponent->includeComponentTemplate(string)
+OTUS - 	/home/c/ce120265/public_html/bitrix/components/bitrix/rest.devops/class.php:145
+OTUS - #31: RestDevOpsComponent->executeComponent()
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/main/classes/general/component.php:675
+OTUS - #32: CBitrixComponent->includeComponent(string, array, NULL, boolean)
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/main/classes/general/main.php:1192
+OTUS - #33: CMain->IncludeComponent(string, string, array, NULL)
+OTUS - 	/home/c/ce120265/public_html/devops/index.php:4
+OTUS - #34: include_once(string)
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/main/include/urlrewrite.php:128
+OTUS - #35: include_once(string)
+OTUS - 	/home/c/ce120265/public_html/bitrix/urlrewrite.php:2
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2026-04-14 13:34:15 - Host: ce120265.tw1.ru - UNCAUGHT_EXCEPTION - [TypeError] 
+OTUS - call_user_func_array(): Argument #1 ($callback) must be a valid callback, class "OTUS\Rest\MyTableRest" not found (0)
+OTUS - /home/c/ce120265/public_html/bitrix/modules/main/tools.php:5266
+OTUS - #0: ExecuteModuleEventEx(array)
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/rest/classes/general/rest_provider.php:180
+OTUS - #1: CRestProvider->getDescription()
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/rest/classes/general/rest_util.php:891
+OTUS - #2: CRestUtil::getEventList()
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/rest/lib/preset/data/webhook.php:38
+OTUS - #3: Bitrix\Rest\Preset\Data\Webhook::getList()
+OTUS - 	/home/c/ce120265/public_html/bitrix/components/bitrix/rest.integration.grid/class.php:234
+OTUS - #4: RestIntegrationGridComponent->processResultData()
+OTUS - 	/home/c/ce120265/public_html/bitrix/components/bitrix/rest.integration.grid/class.php:370
+OTUS - #5: RestIntegrationGridComponent->executeComponent()
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/main/classes/general/component.php:675
+OTUS - #6: CBitrixComponent->includeComponent(string, array, object, boolean)
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/main/classes/general/main.php:1192
+OTUS - #7: CMain->IncludeComponent(string, string, array, object)
+OTUS - 	/home/c/ce120265/public_html/bitrix/components/bitrix/ui.sidepanel.wrapper/templates/.default/content.php:25
+OTUS - #8: include(string)
+OTUS - 	/home/c/ce120265/public_html/bitrix/components/bitrix/ui.sidepanel.wrapper/templates/.default/template.php:249
+OTUS - #9: include(string)
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/main/classes/general/component_template.php:842
+OTUS - #10: CBitrixComponentTemplate->__IncludePHPTemplate(array, array, string)
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/main/classes/general/component_template.php:951
+OTUS - #11: CBitrixComponentTemplate->IncludeTemplate(array)
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/main/classes/general/component.php:791
+OTUS - #12: CBitrixComponent->showComponentTemplate()
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/main/classes/general/component.php:731
+OTUS - #13: CBitrixComponent->includeComponentTemplate()
+OTUS - 	/home/c/ce120265/public_html/bitrix/components/bitrix/ui.sidepanel.wrapper/class.php:187
+OTUS - #14: UIPageSliderWrapperComponent->executeComponent()
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/main/classes/general/component.php:675
+OTUS - #15: CBitrixComponent->includeComponent(string, array, NULL, boolean)
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/main/classes/general/main.php:1192
+OTUS - #16: CMain->IncludeComponent(string, string, array)
+OTUS - 	/home/c/ce120265/public_html/bitrix/components/bitrix/rest.devops/templates/.default/list.php:11
+OTUS - #17: include(string)
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/main/classes/general/component_template.php:842
+OTUS - #18: CBitrixComponentTemplate->__IncludePHPTemplate(array, array, string)
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/main/classes/general/component_template.php:951
+OTUS - #19: CBitrixComponentTemplate->IncludeTemplate(array)
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/main/classes/general/component.php:791
+OTUS - #20: CBitrixComponent->showComponentTemplate()
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/main/classes/general/component.php:731
+OTUS - #21: CBitrixComponent->includeComponentTemplate(string)
+OTUS - 	/home/c/ce120265/public_html/bitrix/components/bitrix/rest.devops/class.php:145
+OTUS - #22: RestDevOpsComponent->executeComponent()
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/main/classes/general/component.php:675
+OTUS - #23: CBitrixComponent->includeComponent(string, array, NULL, boolean)
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/main/classes/general/main.php:1192
+OTUS - #24: CMain->IncludeComponent(string, string, array, NULL)
+OTUS - 	/home/c/ce120265/public_html/devops/index.php:4
+OTUS - #25: include_once(string)
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/main/include/urlrewrite.php:128
+OTUS - #26: include_once(string)
+OTUS - 	/home/c/ce120265/public_html/bitrix/urlrewrite.php:2
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2026-04-14 13:34:23 - Host: ce120265.tw1.ru - UNCAUGHT_EXCEPTION - [TypeError] 
+OTUS - call_user_func_array(): Argument #1 ($callback) must be a valid callback, class "OTUS\Rest\MyTableRest" not found (0)
+OTUS - /home/c/ce120265/public_html/bitrix/modules/main/tools.php:5266
+OTUS - #0: ExecuteModuleEventEx(array)
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/rest/classes/general/rest_provider.php:180
+OTUS - #1: CRestProvider->getDescription()
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/rest/lib/preset/data/rest.php:44
+OTUS - #2: Bitrix\Rest\Preset\Data\Rest::getAllBasicDescription()
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/rest/lib/preset/data/rest.php:123
+OTUS - #3: Bitrix\Rest\Preset\Data\Rest::getBaseMethod()
+OTUS - 	/home/c/ce120265/public_html/bitrix/components/bitrix/rest.integration.selector/class.php:130
+OTUS - #4: RestIntegrationSelectComponent->getMethodAction()
+OTUS - 	/home/c/ce120265/public_html/bitrix/components/bitrix/rest.integration.selector/class.php:72
+OTUS - #5: RestIntegrationSelectComponent->prepareResult()
+OTUS - 	/home/c/ce120265/public_html/bitrix/components/bitrix/rest.integration.selector/class.php:118
+OTUS - #6: RestIntegrationSelectComponent->executeComponent()
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/main/classes/general/component.php:675
+OTUS - #7: CBitrixComponent->includeComponent(string, array, boolean, boolean)
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/main/classes/general/main.php:1192
+OTUS - #8: CMain->IncludeComponent(string, string, array, boolean)
+OTUS - 	/home/c/ce120265/public_html/bitrix/components/bitrix/rest.integration.edit/templates/.default/template.php:205
+OTUS - #9: include(string)
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/main/classes/general/component_template.php:842
+OTUS - #10: CBitrixComponentTemplate->__IncludePHPTemplate(array, array, string)
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/main/classes/general/component_template.php:951
+OTUS - #11: CBitrixComponentTemplate->IncludeTemplate(array)
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/main/classes/general/component.php:791
+OTUS - #12: CBitrixComponent->showComponentTemplate()
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/main/classes/general/component.php:731
+OTUS - #13: CBitrixComponent->includeComponentTemplate()
+OTUS - 	/home/c/ce120265/public_html/bitrix/components/bitrix/rest.integration.edit/class.php:353
+OTUS - #14: RestIntegrationEditComponent->executeComponent()
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/main/classes/general/component.php:675
+OTUS - #15: CBitrixComponent->includeComponent(string, array, object, boolean)
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/main/classes/general/main.php:1192
+OTUS - #16: CMain->IncludeComponent(string, string, array, object)
+OTUS - 	/home/c/ce120265/public_html/bitrix/components/bitrix/ui.sidepanel.wrapper/templates/.default/content.php:25
+OTUS - #17: include(string)
+OTUS - 	/home/c/ce120265/public_html/bitrix/components/bitrix/ui.sidepanel.wrapper/templates/.default/template.php:249
+OTUS - #18: include(string)
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/main/classes/general/component_template.php:842
+OTUS - #19: CBitrixComponentTemplate->__IncludePHPTemplate(array, array, string)
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/main/classes/general/component_template.php:951
+OTUS - #20: CBitrixComponentTemplate->IncludeTemplate(array)
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/main/classes/general/component.php:791
+OTUS - #21: CBitrixComponent->showComponentTemplate()
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/main/classes/general/component.php:731
+OTUS - #22: CBitrixComponent->includeComponentTemplate()
+OTUS - 	/home/c/ce120265/public_html/bitrix/components/bitrix/ui.sidepanel.wrapper/class.php:187
+OTUS - #23: UIPageSliderWrapperComponent->executeComponent()
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/main/classes/general/component.php:675
+OTUS - #24: CBitrixComponent->includeComponent(string, array, NULL, boolean)
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/main/classes/general/main.php:1192
+OTUS - #25: CMain->IncludeComponent(string, string, array)
+OTUS - 	/home/c/ce120265/public_html/bitrix/components/bitrix/rest.devops/templates/.default/edit.php:12
+OTUS - #26: include(string)
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/main/classes/general/component_template.php:842
+OTUS - #27: CBitrixComponentTemplate->__IncludePHPTemplate(array, array, string)
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/main/classes/general/component_template.php:951
+OTUS - #28: CBitrixComponentTemplate->IncludeTemplate(array)
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/main/classes/general/component.php:791
+OTUS - #29: CBitrixComponent->showComponentTemplate()
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/main/classes/general/component.php:731
+OTUS - #30: CBitrixComponent->includeComponentTemplate(string)
+OTUS - 	/home/c/ce120265/public_html/bitrix/components/bitrix/rest.devops/class.php:145
+OTUS - #31: RestDevOpsComponent->executeComponent()
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/main/classes/general/component.php:675
+OTUS - #32: CBitrixComponent->includeComponent(string, array, NULL, boolean)
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/main/classes/general/main.php:1192
+OTUS - #33: CMain->IncludeComponent(string, string, array, NULL)
+OTUS - 	/home/c/ce120265/public_html/devops/index.php:4
+OTUS - #34: include_once(string)
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/main/include/urlrewrite.php:128
+OTUS - #35: include_once(string)
+OTUS - 	/home/c/ce120265/public_html/bitrix/urlrewrite.php:2
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2026-04-14 13:46:07 - Host: ce120265.tw1.ru - UNCAUGHT_EXCEPTION - [Error] 
+OTUS - Class "My\Module\MyTable" not found (0)
+OTUS - /home/c/ce120265/public_html/local/php_interface/classes/Otus/Rest/MyTableRest.php:69
+OTUS - #0: OTUS\Rest\MyTableRest::get(array, integer, object)
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/rest/classes/general/rest.php:243
+OTUS - #1: CRestServer->processCall()
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/rest/classes/general/rest.php:840
+OTUS - #2: CRestServer->processExecution()
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/rest/classes/general/rest.php:126
+OTUS - #3: CRestServer->process()
+OTUS - 	/home/c/ce120265/public_html/bitrix/components/bitrix/rest.server/component.php:107
+OTUS - #4: include(string)
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/main/classes/general/component.php:622
+OTUS - #5: CBitrixComponent->__includeComponent()
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/main/classes/general/component.php:699
+OTUS - #6: CBitrixComponent->includeComponent(string, array, NULL, boolean)
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/main/classes/general/main.php:1192
+OTUS - #7: CMain->IncludeComponent(string, string, array, NULL, array)
+OTUS - 	/home/c/ce120265/public_html/bitrix/components/bitrix/rest.provider/component.php:8
+OTUS - #8: include(string)
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/main/classes/general/component.php:622
+OTUS - #9: CBitrixComponent->__includeComponent()
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/main/classes/general/component.php:699
+OTUS - #10: CBitrixComponent->includeComponent(string, array, boolean, boolean)
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/main/classes/general/main.php:1192
+OTUS - #11: CMain->IncludeComponent(string, string, array, boolean, array)
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/rest/services/rest/index.php:18
+OTUS - #12: require(string)
+OTUS - 	/home/c/ce120265/public_html/bitrix/services/rest/index.php:1
+OTUS - #13: include_once(string)
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/main/include/urlrewrite.php:128
+OTUS - #14: include_once(string)
+OTUS - 	/home/c/ce120265/public_html/bitrix/urlrewrite.php:2
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2026-04-14 13:46:45 - Host: ce120265.tw1.ru - UNCAUGHT_EXCEPTION - [Error] 
+OTUS - Class "My\Module\MyTable" not found (0)
+OTUS - /home/c/ce120265/public_html/local/php_interface/classes/Otus/Rest/MyTableRest.php:69
+OTUS - #0: OTUS\Rest\MyTableRest::get(array, integer, object)
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/rest/classes/general/rest.php:243
+OTUS - #1: CRestServer->processCall()
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/rest/classes/general/rest.php:840
+OTUS - #2: CRestServer->processExecution()
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/rest/classes/general/rest.php:126
+OTUS - #3: CRestServer->process()
+OTUS - 	/home/c/ce120265/public_html/bitrix/components/bitrix/rest.server/component.php:107
+OTUS - #4: include(string)
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/main/classes/general/component.php:622
+OTUS - #5: CBitrixComponent->__includeComponent()
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/main/classes/general/component.php:699
+OTUS - #6: CBitrixComponent->includeComponent(string, array, NULL, boolean)
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/main/classes/general/main.php:1192
+OTUS - #7: CMain->IncludeComponent(string, string, array, NULL, array)
+OTUS - 	/home/c/ce120265/public_html/bitrix/components/bitrix/rest.provider/component.php:8
+OTUS - #8: include(string)
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/main/classes/general/component.php:622
+OTUS - #9: CBitrixComponent->__includeComponent()
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/main/classes/general/component.php:699
+OTUS - #10: CBitrixComponent->includeComponent(string, array, boolean, boolean)
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/main/classes/general/main.php:1192
+OTUS - #11: CMain->IncludeComponent(string, string, array, boolean, array)
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/rest/services/rest/index.php:18
+OTUS - #12: require(string)
+OTUS - 	/home/c/ce120265/public_html/bitrix/services/rest/index.php:1
+OTUS - #13: include_once(string)
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/main/include/urlrewrite.php:128
+OTUS - #14: include_once(string)
+OTUS - 	/home/c/ce120265/public_html/bitrix/urlrewrite.php:2
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2026-04-14 13:47:21 - Host: ce120265.tw1.ru - UNCAUGHT_EXCEPTION - [Error] 
+OTUS - Class "My\Module\MyTable" not found (0)
+OTUS - /home/c/ce120265/public_html/local/php_interface/classes/Otus/Rest/MyTableRest.php:69
+OTUS - #0: OTUS\Rest\MyTableRest::get(array, integer, object)
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/rest/classes/general/rest.php:243
+OTUS - #1: CRestServer->processCall()
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/rest/classes/general/rest.php:840
+OTUS - #2: CRestServer->processExecution()
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/rest/classes/general/rest.php:126
+OTUS - #3: CRestServer->process()
+OTUS - 	/home/c/ce120265/public_html/bitrix/components/bitrix/rest.server/component.php:107
+OTUS - #4: include(string)
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/main/classes/general/component.php:622
+OTUS - #5: CBitrixComponent->__includeComponent()
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/main/classes/general/component.php:699
+OTUS - #6: CBitrixComponent->includeComponent(string, array, NULL, boolean)
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/main/classes/general/main.php:1192
+OTUS - #7: CMain->IncludeComponent(string, string, array, NULL, array)
+OTUS - 	/home/c/ce120265/public_html/bitrix/components/bitrix/rest.provider/component.php:8
+OTUS - #8: include(string)
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/main/classes/general/component.php:622
+OTUS - #9: CBitrixComponent->__includeComponent()
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/main/classes/general/component.php:699
+OTUS - #10: CBitrixComponent->includeComponent(string, array, boolean, boolean)
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/main/classes/general/main.php:1192
+OTUS - #11: CMain->IncludeComponent(string, string, array, boolean, array)
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/rest/services/rest/index.php:18
+OTUS - #12: require(string)
+OTUS - 	/home/c/ce120265/public_html/bitrix/services/rest/index.php:1
+OTUS - #13: include_once(string)
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/main/include/urlrewrite.php:128
+OTUS - #14: include_once(string)
+OTUS - 	/home/c/ce120265/public_html/bitrix/urlrewrite.php:2
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2026-04-14 13:47:38 - Host: ce120265.tw1.ru - UNCAUGHT_EXCEPTION - [Error] 
+OTUS - Class "My\Module\MyTable" not found (0)
+OTUS - /home/c/ce120265/public_html/local/php_interface/classes/Otus/Rest/MyTableRest.php:69
+OTUS - #0: OTUS\Rest\MyTableRest::get(array, integer, object)
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/rest/classes/general/rest.php:243
+OTUS - #1: CRestServer->processCall()
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/rest/classes/general/rest.php:840
+OTUS - #2: CRestServer->processExecution()
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/rest/classes/general/rest.php:126
+OTUS - #3: CRestServer->process()
+OTUS - 	/home/c/ce120265/public_html/bitrix/components/bitrix/rest.server/component.php:107
+OTUS - #4: include(string)
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/main/classes/general/component.php:622
+OTUS - #5: CBitrixComponent->__includeComponent()
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/main/classes/general/component.php:699
+OTUS - #6: CBitrixComponent->includeComponent(string, array, NULL, boolean)
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/main/classes/general/main.php:1192
+OTUS - #7: CMain->IncludeComponent(string, string, array, NULL, array)
+OTUS - 	/home/c/ce120265/public_html/bitrix/components/bitrix/rest.provider/component.php:8
+OTUS - #8: include(string)
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/main/classes/general/component.php:622
+OTUS - #9: CBitrixComponent->__includeComponent()
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/main/classes/general/component.php:699
+OTUS - #10: CBitrixComponent->includeComponent(string, array, boolean, boolean)
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/main/classes/general/main.php:1192
+OTUS - #11: CMain->IncludeComponent(string, string, array, boolean, array)
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/rest/services/rest/index.php:18
+OTUS - #12: require(string)
+OTUS - 	/home/c/ce120265/public_html/bitrix/services/rest/index.php:1
+OTUS - #13: include_once(string)
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/main/include/urlrewrite.php:128
+OTUS - #14: include_once(string)
+OTUS - 	/home/c/ce120265/public_html/bitrix/urlrewrite.php:2
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2026-04-14 13:48:04 - Host: ce120265.tw1.ru - UNCAUGHT_EXCEPTION - [Error] 
+OTUS - Class "My\Module\MyTable" not found (0)
+OTUS - /home/c/ce120265/public_html/local/php_interface/classes/Otus/Rest/MyTableRest.php:69
+OTUS - #0: OTUS\Rest\MyTableRest::get(array, integer, object)
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/rest/classes/general/rest.php:243
+OTUS - #1: CRestServer->processCall()
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/rest/classes/general/rest.php:840
+OTUS - #2: CRestServer->processExecution()
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/rest/classes/general/rest.php:126
+OTUS - #3: CRestServer->process()
+OTUS - 	/home/c/ce120265/public_html/bitrix/components/bitrix/rest.server/component.php:107
+OTUS - #4: include(string)
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/main/classes/general/component.php:622
+OTUS - #5: CBitrixComponent->__includeComponent()
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/main/classes/general/component.php:699
+OTUS - #6: CBitrixComponent->includeComponent(string, array, NULL, boolean)
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/main/classes/general/main.php:1192
+OTUS - #7: CMain->IncludeComponent(string, string, array, NULL, array)
+OTUS - 	/home/c/ce120265/public_html/bitrix/components/bitrix/rest.provider/component.php:8
+OTUS - #8: include(string)
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/main/classes/general/component.php:622
+OTUS - #9: CBitrixComponent->__includeComponent()
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/main/classes/general/component.php:699
+OTUS - #10: CBitrixComponent->includeComponent(string, array, boolean, boolean)
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/main/classes/general/main.php:1192
+OTUS - #11: CMain->IncludeComponent(string, string, array, boolean, array)
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/rest/services/rest/index.php:18
+OTUS - #12: require(string)
+OTUS - 	/home/c/ce120265/public_html/bitrix/services/rest/index.php:1
+OTUS - #13: include_once(string)
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/main/include/urlrewrite.php:128
+OTUS - #14: include_once(string)
+OTUS - 	/home/c/ce120265/public_html/bitrix/urlrewrite.php:2
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2026-04-14 14:17:04 - Host: ce120265.tw1.ru - UNCAUGHT_EXCEPTION - [Bitrix\Main\DB\SqlQueryException] 
+OTUS - Mysql query error: (2006) MySQL server has gone away (400)
+OTUS - 
+OTUS - 			SELECT
+OTUS - 				D.*,
+OTUS - 				DATE_FORMAT(D.DATE_ENTER, '%d.%m.%Y %H:%i:%s') DATE_ENTER,
+OTUS - 				DATE_FORMAT(D.DATE_MODIFY, '%d.%m.%Y %H:%i:%s') DATE_MODIFY,
+OTUS - 				DATE_FORMAT(D.DATE_LOCK, '%d.%m.%Y %H:%i:%s') DATE_LOCK,
+OTUS - 				concat_ws(' ', CONCAT('(', UM.LOGIN, ')'), nullif(UM.NAME, ''), nullif(UM.LAST_NAME, '')) MUSER_NAME,
+OTUS - 				concat_ws(' ', CONCAT('(', UE.LOGIN, ')'), nullif(UE.NAME, ''), nullif(UE.LAST_NAME, '')) EUSER_NAME,
+OTUS - 				concat_ws(' ', CONCAT('(', UL.LOGIN, ')'), nullif(UL.NAME, ''), nullif(UL.LAST_NAME, '')) LUSER_NAME,
+OTUS - 				S.TITLE STATUS_TITLE,
+OTUS - 				case
+OTUS - 					when D.DATE_LOCK is null then 'green'
+OTUS - 					when DATE_ADD(D.DATE_LOCK, INTERVAL 3600 SECOND) < now() then 'green'
+OTUS - 					when D.LOCKED_BY = 1 then 'yellow'
+OTUS - 				else 'red' end LOCK_STATUS
+OTUS - 			FROM
+OTUS - 				b_workflow_document D
+OTUS - 				LEFT JOIN b_user UM ON (UM.ID = D.MODIFIED_BY)
+OTUS - 				LEFT JOIN b_user UE ON (UE.ID = D.ENTERED_BY)
+OTUS - 				LEFT JOIN b_user UL ON (UL.ID = D.LOCKED_BY)
+OTUS - 				LEFT JOIN b_workflow_status S ON (S.ID = D.STATUS_ID)
+OTUS - 			WHERE
+OTUS - 				SITE_ID = 's1'
+OTUS - 				AND D.FILENAME = '/devops/untitled.php'
+OTUS - 				AND 
+OTUS - D.STATUS_ID <> 1
+OTUS - 		
+OTUS - /home/c/ce120265/public_html/bitrix/modules/main/lib/db/mysqlcommonconnection.php:417
+OTUS - #0: Bitrix\Main\DB\MysqlCommonConnection->createQueryException(integer, string, string)
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/main/classes/general/database.php:670
+OTUS - #1: CAllDatabase->Query(string)
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/workflow/classes/general/workflow.php:1513
+OTUS - #2: CWorkflow::GetByFilename(string, string)
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/workflow/classes/general/workflow.php:644
+OTUS - #3: CWorkflow::GetEditLink(string, NULL, NULL, string, string, string)
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/workflow/classes/general/workflow.php:15
+OTUS - #4: CWorkflow::OnPanelCreate()
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/main/tools.php:5273
+OTUS - #5: ExecuteModuleEventEx(array)
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/main/public/top_panel.php:987
+OTUS - #6: CTopPanel::InitPanelIcons()
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/main/public/top_panel.php:1093
+OTUS - #7: CTopPanel::shouldShowPanel()
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/intranet/classes/general/handlers.php:1522
+OTUS - #8: CIntranetEventHandlers::OnCreatePanel()
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/main/tools.php:5273
+OTUS - #9: ExecuteModuleEventEx(array)
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/main/include.php:544
+OTUS - #10: require_once(string)
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/main/include/prolog_before.php:19
+OTUS - #11: require_once(string)
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/main/include/prolog.php:10
+OTUS - #12: require_once(string)
+OTUS - 	/home/c/ce120265/public_html/bitrix/header.php:1
+OTUS - #13: require(string)
+OTUS - 	/home/c/ce120265/public_html/devops/index.php:2
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2026-04-14 14:17:23 - Host: ce120265.tw1.ru - UNCAUGHT_EXCEPTION - [Bitrix\Main\DB\SqlQueryException] 
+OTUS - Mysql query error: (2006) MySQL server has gone away (400)
+OTUS - 
+OTUS - 			SELECT
+OTUS - 				D.*,
+OTUS - 				DATE_FORMAT(D.DATE_ENTER, '%d.%m.%Y %H:%i:%s') DATE_ENTER,
+OTUS - 				DATE_FORMAT(D.DATE_MODIFY, '%d.%m.%Y %H:%i:%s') DATE_MODIFY,
+OTUS - 				DATE_FORMAT(D.DATE_LOCK, '%d.%m.%Y %H:%i:%s') DATE_LOCK,
+OTUS - 				concat_ws(' ', CONCAT('(', UM.LOGIN, ')'), nullif(UM.NAME, ''), nullif(UM.LAST_NAME, '')) MUSER_NAME,
+OTUS - 				concat_ws(' ', CONCAT('(', UE.LOGIN, ')'), nullif(UE.NAME, ''), nullif(UE.LAST_NAME, '')) EUSER_NAME,
+OTUS - 				concat_ws(' ', CONCAT('(', UL.LOGIN, ')'), nullif(UL.NAME, ''), nullif(UL.LAST_NAME, '')) LUSER_NAME,
+OTUS - 				S.TITLE STATUS_TITLE,
+OTUS - 				case
+OTUS - 					when D.DATE_LOCK is null then 'green'
+OTUS - 					when DATE_ADD(D.DATE_LOCK, INTERVAL 3600 SECOND) < now() then 'green'
+OTUS - 					when D.LOCKED_BY = 1 then 'yellow'
+OTUS - 				else 'red' end LOCK_STATUS
+OTUS - 			FROM
+OTUS - 				b_workflow_document D
+OTUS - 				LEFT JOIN b_user UM ON (UM.ID = D.MODIFIED_BY)
+OTUS - 				LEFT JOIN b_user UE ON (UE.ID = D.ENTERED_BY)
+OTUS - 				LEFT JOIN b_user UL ON (UL.ID = D.LOCKED_BY)
+OTUS - 				LEFT JOIN b_workflow_status S ON (S.ID = D.STATUS_ID)
+OTUS - 			WHERE
+OTUS - 				SITE_ID = 's1'
+OTUS - 				AND D.FILENAME = '/bitrix/tools/untitled.php'
+OTUS - 				AND 
+OTUS - D.STATUS_ID <> 1
+OTUS - 		
+OTUS - /home/c/ce120265/public_html/bitrix/modules/main/lib/db/mysqlcommonconnection.php:417
+OTUS - #0: Bitrix\Main\DB\MysqlCommonConnection->createQueryException(integer, string, string)
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/main/classes/general/database.php:670
+OTUS - #1: CAllDatabase->Query(string)
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/workflow/classes/general/workflow.php:1513
+OTUS - #2: CWorkflow::GetByFilename(string, string)
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/workflow/classes/general/workflow.php:644
+OTUS - #3: CWorkflow::GetEditLink(string, NULL, NULL, string, string, string)
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/workflow/classes/general/workflow.php:15
+OTUS - #4: CWorkflow::OnPanelCreate()
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/main/tools.php:5273
+OTUS - #5: ExecuteModuleEventEx(array)
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/main/public/top_panel.php:987
+OTUS - #6: CTopPanel::InitPanelIcons()
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/main/public/top_panel.php:1093
+OTUS - #7: CTopPanel::shouldShowPanel()
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/intranet/classes/general/handlers.php:1522
+OTUS - #8: CIntranetEventHandlers::OnCreatePanel()
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/main/tools.php:5273
+OTUS - #9: ExecuteModuleEventEx(array)
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/main/include.php:544
+OTUS - #10: require_once(string)
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/main/include/prolog_before.php:19
+OTUS - #11: require_once(string)
+OTUS - 	/home/c/ce120265/public_html/bitrix/modules/main/public/session.php:8
+OTUS - #12: require(string)
+OTUS - 	/home/c/ce120265/public_html/bitrix/tools/public_session.php:1
+OTUS - ----------
+OTUS - 
+OTUS - 
